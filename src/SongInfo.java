@@ -4,6 +4,8 @@ public class SongInfo
 {
     protected String filename;
     protected String artistName;
+    protected String artistID;
+    protected String similarArtists[];
     protected String songTitle;
     protected String songID;
     protected String albumName;
@@ -22,6 +24,8 @@ public class SongInfo
     public SongInfo(H5File h5) throws Exception
     {
         artistName = hdf5_getters.get_artist_name(h5);
+        artistID = hdf5_getters.get_artist_id(h5);
+        similarArtists = hdf5_getters.get_similar_artists(h5);
         songTitle = hdf5_getters.get_title(h5);
         songID = hdf5_getters.get_song_id(h5);
         albumName = hdf5_getters.get_release(h5);
@@ -41,6 +45,24 @@ public class SongInfo
     public void setArtistName(String artistName)
     {
         this.artistName = artistName;
+    }
+
+    public String getArtistID()
+    {
+        return artistID;
+    }
+    public void setArtistID(String artistID)
+    {
+        this.artistID = artistID;
+    }
+
+    public String[] getSimilarArtists()
+    {
+        return similarArtists;
+    }
+    public void setSimilarArtists(String[] similarArtists)
+    {
+        this.similarArtists = similarArtists;
     }
 
     public String getSongTitle()
@@ -148,6 +170,19 @@ public class SongInfo
             "] -> " + filename;
     }
 
+    public boolean isArtistSimilar(String otherArtist)
+    {
+        if (otherArtist != null) {
+            if (otherArtist.equals(artistID))
+                return true;
+            if (similarArtists != null)
+                for (String artist : similarArtists)
+                    if (otherArtist.equals(artist))
+                        return true;
+        }
+        return false;
+    }
+
     // produces a score for which similar songs have a score close to 0
     public double similarityScore(SongInfo other)
     {
@@ -155,6 +190,8 @@ public class SongInfo
         score += Math.abs(tempo - other.tempo);
         score += Math.abs(energy - other.energy);
         score += Math.abs(danceability - other.danceability);
+        if (isArtistSimilar(other.artistID))
+            score /= 10;
         return score;
     }
 }

@@ -10,6 +10,7 @@ public class RecurseSongs
     private String startDir = null;
     private String extension = null;
     private Map<String,List<SongInfo>> songsByArtist = new HashMap<String,List<SongInfo>>();
+    private Map<String,String> artistsByID = new HashMap<String,String>();
 
     public RecurseSongs(String startDir, String extension)
     {
@@ -37,6 +38,9 @@ public class RecurseSongs
                 song.setFilename(path);
                 String artist = song.getArtistName();
                 addSong(artist,song);
+                String artistID = song.getArtistID();
+                if ((artist != null) && (artistID != null))
+                    artistsByID.put(artistID,artist);
             }
             hdf5_getters.hdf5_close(h5);
         } catch (Exception e) {
@@ -86,6 +90,20 @@ public class RecurseSongs
                     System.out.println("    tempo=" + song.getTempo() +
                                        " energy=" + song.getEnergy() +
                                        " danceability=" + song.getDanceability());
+                    String similarArtistList[] = song.getSimilarArtists();
+                    if (similarArtistList != null) {
+                        String sa = "";
+                        for (String artistID : similarArtistList) {
+                            if (artistID != null) {
+                                String artistName = artistsByID.get(artistID);
+                                if (artistName != null)
+                                    sa += " " + artistName;
+                                else
+                                    sa += " <" + artistID + ">";
+                            }
+                        }
+                        System.out.println("    similarArtists:" + sa);
+                    }
                 }
             }
         }
@@ -104,7 +122,7 @@ public class RecurseSongs
             rs.startRecurse();
             long endTime = System.currentTimeMillis();
             rs.printSongs();
-            System.err.println("Elapsed time = " + ((endTime - startTime) / 1000) + " seconds");
+            System.out.println("Elapsed time = " + ((endTime - startTime) / 1000) + " seconds");
         }
     }
 }

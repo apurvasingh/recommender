@@ -9,7 +9,7 @@ public class RecurseSongs
 {
     private String startDir = null;
     private String extension = null;
-    private Map<String,List<String>> songsByArtist = new HashMap<String,List<String>>();
+    private Map<String,List<SongInfo>> songsByArtist = new HashMap<String,List<SongInfo>>();
 
     public RecurseSongs(String startDir, String extension)
     {
@@ -17,11 +17,11 @@ public class RecurseSongs
         this.extension = extension;
     }
 
-    public void addSong(String artist, String song)
+    public void addSong(String artist, SongInfo song)
     {
-        List<String> songList = songsByArtist.get(artist);
+        List<SongInfo> songList = songsByArtist.get(artist);
         if (songList == null) {
-            songList = new ArrayList<String>();
+            songList = new ArrayList<SongInfo>();
             songsByArtist.put(artist,songList);
         }
         songList.add(song);
@@ -33,9 +33,9 @@ public class RecurseSongs
             H5File h5 = hdf5_getters.hdf5_open_readonly(path);
             int nSongs = hdf5_getters.get_num_songs(h5);
             if (nSongs > 0) {
-                String artist = hdf5_getters.get_artist_name(h5);
-                String songTitle = hdf5_getters.get_title(h5);
-                addSong(artist,songTitle);
+                SongInfo song = new SongInfo(h5);
+                String artist = song.getArtistName();
+                addSong(artist,song);
             }
             hdf5_getters.hdf5_close(h5);
         } catch (Exception e) {
@@ -78,10 +78,10 @@ public class RecurseSongs
     {
         for (String artist : songsByArtist.keySet()) {
             System.out.println("Artist: " + artist);
-            List<String> songList = songsByArtist.get(artist);
+            List<SongInfo> songList = songsByArtist.get(artist);
             if (songList != null)
-                for (String song : songList)
-                    System.out.println("    Song: " + song);
+                for (SongInfo song : songList)
+                    System.out.println(" " + song);
         }
     }
 

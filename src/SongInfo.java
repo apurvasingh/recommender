@@ -1,3 +1,5 @@
+import ncsa.hdf.object.h5.H5File;
+
 public class SongInfo
 {
     protected String artistName;
@@ -9,7 +11,27 @@ public class SongInfo
     protected double energy;
     protected double loudness;
     protected double songHotness;
+    protected double artistHotness;
     protected double tempo; // in bpm
+
+    public SongInfo()
+    {
+    }
+
+    public SongInfo(H5File h5) throws Exception
+    {
+        artistName = hdf5_getters.get_artist_name(h5);
+        songTitle = hdf5_getters.get_title(h5);
+        songID = hdf5_getters.get_song_id(h5);
+        albumName = hdf5_getters.get_release(h5);
+        year = hdf5_getters.get_year(h5);
+        danceability = hdf5_getters.get_danceability(h5);
+        energy = hdf5_getters.get_energy(h5);
+        loudness = hdf5_getters.get_loudness(h5);
+        songHotness = hdf5_getters.get_song_hotttnesss(h5);
+        artistHotness = hdf5_getters.get_artist_hotttnesss(h5);
+        tempo = hdf5_getters.get_tempo(h5);
+    }
 
     public String getArtistName()
     {
@@ -81,6 +103,15 @@ public class SongInfo
     public void setSongHotness(double songHotness)
     {
         this.songHotness = songHotness;
+    }
+
+    public double getArtistHotness()
+    {
+        return artistHotness;
+    }
+    public void setArtistHotness(double artistHotness)
+    {
+        this.artistHotness = artistHotness;
     }
 
     public double getTempo()

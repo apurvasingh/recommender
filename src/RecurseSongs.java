@@ -34,6 +34,7 @@ public class RecurseSongs
             int nSongs = hdf5_getters.get_num_songs(h5);
             if (nSongs > 0) {
                 SongInfo song = new SongInfo(h5);
+                song.setFilename(path);
                 String artist = song.getArtistName();
                 addSong(artist,song);
             }
@@ -79,22 +80,31 @@ public class RecurseSongs
         for (String artist : songsByArtist.keySet()) {
             System.out.println("Artist: " + artist);
             List<SongInfo> songList = songsByArtist.get(artist);
-            if (songList != null)
-                for (SongInfo song : songList)
-                    System.out.println(" " + song);
+            if (songList != null) {
+                for (SongInfo song : songList) {
+                    System.out.println("  " + song);
+                    System.out.println("    tempo=" + song.getTempo() +
+                                       " energy=" + song.getEnergy() +
+                                       " danceability=" + song.getDanceability());
+                }
+            }
         }
     }
 
     public static void main(String args[])
     {
         if (args.length < 1) {
+            System.err.println("Usage: java RecurseSongs <top-of-dir-tree> [<file-ext>]");
         } else {
             String ext = ".h5";
             if (args.length > 1)
                 ext = args[1];
             RecurseSongs rs = new RecurseSongs(args[0],ext);
+            long startTime = System.currentTimeMillis();
             rs.startRecurse();
+            long endTime = System.currentTimeMillis();
             rs.printSongs();
+            System.err.println("Elapsed time = " + ((endTime - startTime) / 1000) + " seconds");
         }
     }
 }

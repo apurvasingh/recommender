@@ -2,6 +2,7 @@ import ncsa.hdf.object.h5.H5File;
 
 public class SongInfo
 {
+    protected String filename;
     protected String artistName;
     protected String songTitle;
     protected String songID;
@@ -123,8 +124,37 @@ public class SongInfo
         this.tempo = tempo;
     }
 
+    public double getDanceability()
+    {
+        return danceability;
+    }
+    public void setDanceability(double danceability)
+    {
+        this.danceability = danceability;
+    }
+
+    public String getFilename()
+    {
+        return filename;
+    }
+    public void setFilename(String filename)
+    {
+        this.filename = filename;
+    }
+
     public String toString()
     {
-        return "Song[" + songTitle + "] by [" + artistName + "] on [" + albumName + "] -> " + songID;
+        return "Song[" + songTitle + "] by [" + artistName + "] on [" + albumName +
+            "] -> " + filename;
+    }
+
+    // produces a score for which similar songs have a score close to 0
+    public double similarityScore(SongInfo other)
+    {
+        double score = 0;
+        score += Math.abs(tempo - other.tempo);
+        score += Math.abs(energy - other.energy);
+        score += Math.abs(danceability - other.danceability);
+        return score;
     }
 }

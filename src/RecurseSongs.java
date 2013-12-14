@@ -93,15 +93,18 @@ public class RecurseSongs
                     String similarArtistList[] = song.getSimilarArtists();
                     if (similarArtistList != null) {
                         String sa = "";
+                        int unknownCount = 0;
                         for (String artistID : similarArtistList) {
                             if (artistID != null) {
                                 String artistName = artistsByID.get(artistID);
                                 if (artistName != null)
-                                    sa += " " + artistName;
+                                    sa += " [" + artistName + "]";
                                 else
-                                    sa += " <" + artistID + ">";
+                                    unknownCount++;
                             }
                         }
+                        if (unknownCount > 0)
+                            sa += " (plus " + unknownCount + " others)";
                         System.out.println("    similarArtists:" + sa);
                     }
                 }

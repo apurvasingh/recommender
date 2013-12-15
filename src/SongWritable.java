@@ -9,9 +9,9 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         super();
     }
 
-    public int hashcode()
+    public int hashCode()
     {
-        return artistName.hashcode() * 1637 + songTitle.hashcode();
+        return artistName.hashCode() * 1637 + songTitle.hashCode();
     }
 
     private void writeString(DataOutput out, String s) throws IOException

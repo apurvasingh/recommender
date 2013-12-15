@@ -88,8 +88,7 @@ public class RecurseSongs
                 for (SongInfo song : songList) {
                     System.out.println("  " + song);
                     System.out.println("    tempo=" + song.getTempo() +
-                                       " energy=" + song.getEnergy() +
-                                       " danceability=" + song.getDanceability());
+                                       " loudness=" + song.getLoudness());
                     String similarArtistList[] = song.getSimilarArtists();
                     if (similarArtistList != null) {
                         String sa = "";

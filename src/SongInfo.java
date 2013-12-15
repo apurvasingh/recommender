@@ -10,8 +10,6 @@ public class SongInfo
     protected String songID;
     protected String albumName;
     protected int year; // year this song came out _on_this_album_
-    protected double danceability;
-    protected double energy;
     protected double loudness;
     protected double songHotness;
     protected double artistHotness;
@@ -30,8 +28,6 @@ public class SongInfo
         songID = hdf5_getters.get_song_id(h5);
         albumName = hdf5_getters.get_release(h5);
         year = hdf5_getters.get_year(h5);
-        danceability = hdf5_getters.get_danceability(h5);
-        energy = hdf5_getters.get_energy(h5);
         loudness = hdf5_getters.get_loudness(h5);
         songHotness = hdf5_getters.get_song_hotttnesss(h5);
         artistHotness = hdf5_getters.get_artist_hotttnesss(h5);
@@ -101,15 +97,6 @@ public class SongInfo
         this.year = year;
     }
 
-    public double getEnergy()
-    {
-        return energy;
-    }
-    public void setEnergy(double energy)
-    {
-        this.energy = energy;
-    }
-
     public double getLoudness()
     {
         return loudness;
@@ -146,15 +133,6 @@ public class SongInfo
         this.tempo = tempo;
     }
 
-    public double getDanceability()
-    {
-        return danceability;
-    }
-    public void setDanceability(double danceability)
-    {
-        this.danceability = danceability;
-    }
-
     public String getFilename()
     {
         return filename;
@@ -188,10 +166,9 @@ public class SongInfo
     {
         double score = 0;
         score += Math.abs(tempo - other.tempo);
-        score += Math.abs(energy - other.energy);
-        score += Math.abs(danceability - other.danceability);
+        score += Math.abs(loudness - other.loudness);
         if (isArtistSimilar(other.artistID))
-            score /= 10;
+            score /= 20;
         return score;
     }
 }

@@ -1,5 +1,6 @@
-import org.apache.hadoop.io.DataInput;
-import org.apache.hadoop.io.DataOutput;
+import java.io.IOException;
+import java.io.DataInput;
+import java.io.DataOutput;
 import org.apache.hadoop.io.WritableComparable;
 
 public class SongWritable extends SongInfo implements WritableComparable<SongWritable>
@@ -64,9 +65,9 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         } else {
             similarArtists = null;
         }
-        readString(in,songTitle);
-        readString(in,songID);
-        readString(in,albumName);
+        songTitle = readString(in);
+        songID = readString(in);
+        albumName = readString(in);
         year = in.readInt();
         loudness = in.readDouble();
         songHotness = in.readDouble();

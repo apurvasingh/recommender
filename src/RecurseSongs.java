@@ -31,18 +31,12 @@ public class RecurseSongs
     public void readSong(String path)
     {
         try {
-            H5File h5 = hdf5_getters.hdf5_open_readonly(path);
-            int nSongs = hdf5_getters.get_num_songs(h5);
-            if (nSongs > 0) {
-                SongInfo song = new SongInfo(h5);
-                song.setFilename(path);
-                String artist = song.getArtistName();
-                addSong(artist,song);
-                String artistID = song.getArtistID();
-                if ((artist != null) && (artistID != null))
-                    artistsByID.put(artistID,artist);
-            }
-            hdf5_getters.hdf5_close(h5);
+            SongInfo song = new SongInfo(path);
+            String artist = song.getArtistName();
+            addSong(artist,song);
+            String artistID = song.getArtistID();
+            if ((artist != null) && (artistID != null))
+                artistsByID.put(artistID,artist);
         } catch (Exception e) {
             e.printStackTrace();
         }

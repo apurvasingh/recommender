@@ -10,6 +10,11 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         super();
     }
 
+    public SongWritable(String path) throws Exception
+    {
+        super(path);
+    }
+
     public int hashCode()
     {
         return artistName.hashCode() * 1637 + songTitle.hashCode();

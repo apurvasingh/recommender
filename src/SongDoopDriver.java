@@ -20,8 +20,14 @@ public class SongDoopDriver extends Configured implements Tool
                                      args[0]    args[1]   args[2] args[3] args[4]
         */
         Configuration conf = getConf();
-        for (int i = 2; (i < args.length) && (i < 5); i++)
-            conf.set("song" + (i - 2), args[i]);
+        for (int i = 2; (i < args.length) && (i < 5); i++) {
+            try {
+                SongWritable song = new SongWritable(args[i])
+                conf.set("song" + (i - 2), song);
+            } catch (Exception e) {
+                // should probably be logged... for now, just skip
+            }
+        }
 
         Job job = new Job(conf);
         job.setJarByClass(SongDoopDriver.class);
@@ -37,7 +43,7 @@ public class SongDoopDriver extends Configured implements Tool
         job.setMapOutputKeyClass(Text.class);
         job.setMapOutputValueClass(SongWritable.class);
         job.setOutputKeyClass(IntWritable.class);
-        job.setOutputValueClass(SongWritable.class);
+        job.setOutputValueClass(Text.class);
 
         boolean ok = job.waitForCompletion(true);
 	return ok ? 0 : 1;

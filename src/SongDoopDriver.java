@@ -21,12 +21,7 @@ public class SongDoopDriver extends Configured implements Tool
         */
         Configuration conf = getConf();
         for (int i = 2; (i < args.length) && (i < 5); i++) {
-            try {
-                SongWritable song = new SongWritable(args[i]);
-                conf.set("song" + (i - 2), song);
-            } catch (Exception e) {
-                // should probably be logged... for now, just skip
-            }
+            conf.set("song" + (i - 2), args[i]);
         }
 
         Job job = new Job(conf);

@@ -13,10 +13,15 @@ public class SongDoopMapper extends Mapper<Text,SongWritable,IntWritable,SongWri
         int searchCount = 0;
         double similarity = 0.0;
         for (int i = 0; i < 3; i++) {
-            SongWritable song = (SongWritable)context.getConfiguration().get("song" + (i + 1));
-            if (song != null) {
-                similarity += value.similarityScore(song);
-                searchCount++;
+            String songTitle = (SongWritable)context.getConfiguration().get("song" + (i + 1));
+            if (songTitle != null) {
+                try {
+                    SongWritable song = new SongWritable(songTitle);
+                    similarity += value.similarityScore(song);
+                    searchCount++;
+                } catch (Exception e) {
+                    // should probably be logged... for now, just skip
+                }
             }
         }
         if (searchCount > 0) {

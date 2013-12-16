@@ -13,7 +13,7 @@ public class SongDoopMapper extends Mapper<Text,SongWritable,IntWritable,SongWri
         int searchCount = 0;
         double similarity = 0.0;
         for (int i = 0; i < 3; i++) {
-            String songTitle = (SongWritable)context.getConfiguration().get("song" + (i + 1));
+            String songTitle = context.getConfiguration().get("song" + (i + 1));
             if (songTitle != null) {
                 try {
                     SongWritable song = new SongWritable(songTitle);

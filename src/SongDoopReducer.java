@@ -7,6 +7,7 @@ public class SongDoopReducer extends Reducer<IntWritable,SongWritable,IntWritabl
 {
     @Override
     public void reduce(IntWritable key, Iterable<SongWritable> values, Context context)
+        throws IOException, InterruptedException
     {
         for (SongWritable value : values)
             context.write(key, new Text(value.toString()));

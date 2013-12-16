@@ -14,7 +14,7 @@ import org.apache.hadoop.util.ToolRunner;
 
 public class SongDoopDriver extends Configured implements Tool
 {
-    public int run(String args[])
+    public int run(String args[]) throws Exception
     {
         /* Usage: ... SongDoopDriver songDirTop outputDir song1  [song2  [song3]]
                                      args[0]    args[1]   args[2] args[3] args[4]
@@ -44,7 +44,7 @@ public class SongDoopDriver extends Configured implements Tool
 	return ok ? 0 : 1;
     }
 
-    public static void main(String args[])
+    public static void main(String args[]) throws Exception
     {
         int results = ToolRunner.run(new Configuration(), new SongDoopDriver(), args);
         System.exit(results);

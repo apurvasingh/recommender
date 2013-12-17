@@ -1,7 +1,8 @@
-import java.io.Exception;
+import java.io.IOException;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapred.FileInputFormat;
 import org.apache.hadoop.mapred.FileSplit;
+import org.apache.hadoop.mapred.RecordReader;
 
 public class SongReader implements RecordReader<Text,SongWritable>
 {

@@ -2,8 +2,9 @@
 #
 #
 
-ALLCLASSES=hdf5_getters.class RecurseSongs.class SongDoopMapper.class SongInfo.class \
-           SongDoopDriver.class SongDoopReducer.class SongWritable.class
+ALLCLASSES=hdf5_getters.class RecurseSongs.class SongInfo.class \
+           SongDoopDriver.class SongDoopMapper.class SongDoopReducer.class \
+           SongWritable.class SongInputFormat.class SongReader.class
 
 SongDoop.jar: $(ALLCLASSES)
 	jar cvf $@ $(ALLCLASSES)
@@ -19,6 +20,12 @@ SongDoopReducer.class: SongDoopReducer.java
 
 SongWritable.class: SongWritable.java
 	javac -classpath ${HADOOPCP}:${CLASSPATH} SongWritable.java
+
+SongInputFormat.class: SongInputFormat.java
+	javac -classpath ${HADOOPCP}:${CLASSPATH} SongInputFormat.java
+
+SongReader.class: SongReader.java
+	javac -classpath ${HADOOPCP}:${CLASSPATH} SongReader.java
 
 SongInfo.class: SongInfo.java
 	javac SongInfo.java

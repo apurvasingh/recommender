@@ -1,5 +1,7 @@
 import java.io.IOException;
 import org.apache.hadoop.io.Text;
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.mapred.FileInputFormat;
 import org.apache.hadoop.mapred.FileSplit;
 import org.apache.hadoop.mapred.RecordReader;
@@ -35,7 +37,7 @@ public class SongReader implements RecordReader<Text,SongWritable>
     @Override
     public long getPos() throws IOException
     {
-        return done ? fileSplit.getLength() : 0;
+        return done ? fsplit.getLength() : 0;
     }
 
     @Override
@@ -45,12 +47,14 @@ public class SongReader implements RecordReader<Text,SongWritable>
     }
 
     @Override
-    public boolean next(NullWritable key, BytesWritable value) throws IOException
+    public boolean next(Text key, SongWritable value) throws IOException
     {
         if (! done) {
             try {
                 // this may not work, as hdf5 lib may try to read from normal Unix fs
                 song = new SongWritable(fsplit.getPath().toString());
+            } catch (Exception e) {
+                // ignore for now... not sure how to handle this
             } finally {
                 done = true;
             }

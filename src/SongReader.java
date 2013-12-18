@@ -9,6 +9,7 @@ public class SongReader implements RecordReader<Text,SongWritable>
     private FileSplit fsplit;
     private Configuration conf;
     private boolean done = false;
+    private SongWritable song = null;
 
     public SongReader(FileSplit fsplit, Configuration conf) throws IOException
     {
@@ -25,8 +26,37 @@ public class SongReader implements RecordReader<Text,SongWritable>
     @Override
     public SongWritable createValue()
     {
-        done = true;
-        return new SongWritable(fsplit.getPath().toString());
+        if (done)
+            return song;
+        else
+            return null;
+    }
+
+    @Override
+    public long getPos() throws IOException
+    {
+        return done ? fileSplit.getLength() : 0;
+    }
+
+    @Override
+    public float getProgress() throws IOException
+    {
+        return done ? 1.0f : 0.0f;
+    }
+
+    @Override
+    public boolean next(NullWritable key, BytesWritable value) throws IOException
+    {
+        if (! done) {
+            try {
+                // this may not work, as hdf5 lib may try to read from normal Unix fs
+                song = new SongWritable(fsplit.getPath().toString());
+            } finally {
+                done = true;
+            }
+            return true;
+        }
+        return false;
     }
 
     @Override

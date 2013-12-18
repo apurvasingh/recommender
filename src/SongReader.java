@@ -51,8 +51,12 @@ public class SongReader implements RecordReader<Text,SongWritable>
     {
         if (! done) {
             try {
-                // this may not work, as hdf5 lib may try to read from normal Unix fs
-                song = new SongWritable(fsplit.getPath().toString());
+                String filename = fsplit.getPath().toString();
+                if (filename.endsWith(".h5"))
+                    // this may not work, as hdf5 lib may try to read from normal Unix fs
+                    song = new SongWritable(filename);
+                else
+                    return false;
             } catch (Exception e) {
                 // ignore for now... not sure how to handle this
             } finally {

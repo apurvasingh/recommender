@@ -3,13 +3,14 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.input.FileSplit;
+import org.apache.hadoop.mapreduce.InputSplit;
 import org.apache.hadoop.mapreduce.RecordReader;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
 
 public class SongReader extends RecordReader<Text,SongWritable>
 {
     private FileSplit fsplit;
-    private Configuration context;
+    private TaskAttemptContext context;
     private boolean done = false;
     private SongWritable song = null;
 
@@ -24,12 +25,12 @@ public class SongReader extends RecordReader<Text,SongWritable>
     {
     }
 
-    public Text createKey()
+    public Text getCurrentKey()
     {
         return new Text(fsplit.getPath().toString());
     }
 
-    public SongWritable createValue()
+    public SongWritable getCurrentValue()
     {
         if (done)
             return song;

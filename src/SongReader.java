@@ -1,22 +1,27 @@
 import java.io.IOException;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
-import org.apache.hadoop.mapred.FileInputFormat;
-import org.apache.hadoop.mapred.FileSplit;
-import org.apache.hadoop.mapred.RecordReader;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.input.FileSplit;
+import org.apache.hadoop.mapreduce.RecordReader;
+import org.apache.hadoop.mapreduce.TaskAttemptContext;
 
-public class SongReader implements RecordReader<Text,SongWritable>
+public class SongReader extends RecordReader<Text,SongWritable>
 {
     private FileSplit fsplit;
-    private Configuration conf;
+    private Configuration context;
     private boolean done = false;
     private SongWritable song = null;
 
-    public SongReader(FileSplit fsplit, Configuration conf) throws IOException
+    public SongReader(FileSplit fsplit, TaskAttemptContext context) throws IOException
     {
         this.fsplit = fsplit;
-        this.conf = conf;
+        this.context = context;
+    }
+ 
+    public void initialize(InputSplit split, TaskAttemptContext context)
+        throws IOException, InterruptedException
+    {
     }
 
     @Override

@@ -24,13 +24,11 @@ public class SongReader extends RecordReader<Text,SongWritable>
     {
     }
 
-    @Override
     public Text createKey()
     {
         return new Text(fsplit.getPath().toString());
     }
 
-    @Override
     public SongWritable createValue()
     {
         if (done)
@@ -39,20 +37,17 @@ public class SongReader extends RecordReader<Text,SongWritable>
             return null;
     }
 
-    @Override
     public long getPos() throws IOException
     {
         return done ? fsplit.getLength() : 0;
     }
 
-    @Override
     public float getProgress() throws IOException
     {
         return done ? 1.0f : 0.0f;
     }
 
-    @Override
-    public boolean next(Text key, SongWritable value) throws IOException
+    public boolean nextKeyValue() throws IOException
     {
         if (! done) {
             try {

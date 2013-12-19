@@ -33,6 +33,7 @@ public class SongDoopDriver extends Configured implements Tool
         FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
         // set map-reduce key/value classes
+        job.setInputFormatClass(SongInputFormat.class);
         job.setMapperClass(SongDoopMapper.class);
         job.setReducerClass(SongDoopReducer.class);
         job.setMapOutputKeyClass(Text.class);

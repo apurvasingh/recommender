@@ -7,10 +7,10 @@ import ncsa.hdf.object.h5.H5File;
 
 public class RecurseSongs
 {
-    private String startDir = null;
-    private String extension = null;
-    private Map<String,List<SongInfo>> songsByArtist = new HashMap<String,List<SongInfo>>();
-    private Map<String,String> artistsByID = new HashMap<String,String>();
+    protected String startDir = null;
+    protected String extension = null;
+    protected Map<String,List<SongInfo>> songsByArtist = new HashMap<String,List<SongInfo>>();
+    protected Map<String,String> artistsByID = new HashMap<String,String>();
 
     public RecurseSongs(String startDir, String extension)
     {

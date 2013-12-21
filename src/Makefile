@@ -33,7 +33,12 @@ SongInfo.class: SongInfo.java
 RecurseSongs.class: RecurseSongs.java
 	javac RecurseSongs.java
 
+ConvertSongs.class: ConvertSongs.java
+	javac ConvertSongs.java
+
 hdf5_getters.class: ../pkgs/MSongsDB/hdf5_getters.class
 	cp -v ../pkgs/MSongsDB/hdf5_getters.class .
 
 Recurser: SongInfo.class RecurseSongs.class
+
+Converter: SongInfo.class RecurseSongs.class ConvertSongs.class

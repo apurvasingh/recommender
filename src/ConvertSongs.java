@@ -1,6 +1,7 @@
 public class ConvertSongs extends RecurseSongs
 {
     private String destDir = null;
+    private String newExtension = ".xml";
 
     public ConvertSongs(String startDir, String destDir)
     {
@@ -14,7 +15,11 @@ public class ConvertSongs extends RecurseSongs
         String srcName = song.getFilename();
         if (srcName.startsWith(startDir)) {
             String base = srcName.substring(startDir.length());
-            String destName = destDir + base;
+            if (base.endsWith(extension)) {
+                int newlen = base.length() - extension.length();
+                base = base.substring(0,newlen);
+            }
+            String destName = destDir + base + newExtension;
             System.out.println("Converting " + srcName);
             System.out.println("    To " + destName);
         } else {

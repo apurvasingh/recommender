@@ -31,7 +31,7 @@ public class RecurseSongs
     public void readSong(String path)
     {
         try {
-            SongInfo song = new SongInfo(path);
+            SongInfo song = new H5Song(path);
             String artist = song.getArtistName();
             addSong(artist,song);
             String artistID = song.getArtistID();

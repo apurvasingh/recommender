@@ -1,6 +1,7 @@
 import java.io.IOException;
 import java.io.DataInput;
 import java.io.DataOutput;
+import java.io.BufferedReader;
 import java.util.ArrayList;
 import java.util.List;
 import org.apache.hadoop.io.WritableComparable;
@@ -14,9 +15,23 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         super();
     }
 
-    public SongWritable(String hdfsFilename)
+    public SongWritable(String hdfsFilename, Configuration conf) throws Exception
     {
-        // TBD - read from HDFS filename
+        BufferedReader reader = FileUtils.getReaderFromFilename(hdfsFilename,conf);
+        if (reader != null) {
+            String line = null;
+            while ((line = reader.readline()) != null) {
+                try {
+                    line = line.trim(); // remove trailing/leading whitespace (including newlines)
+                    String fields[] = line.split("\t");
+                    if ((fields != null) && (fields.length > 1)) {
+                        setProperty(fields[0],fields[1]);
+                    }
+                } catch (Exception e) {
+                }
+            }
+            reader.close();
+        }
     }
 
     public void setProperty(String propName, String propValue)

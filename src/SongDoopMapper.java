@@ -15,7 +15,7 @@ public class SongDoopMapper extends Mapper<Text,SongWritable,IntWritable,SongWri
             String songFilename = context.getConfiguration().get("song" + (i + 1));
             if (songFilename != null) {
                 try {
-                    songsToMatch[i] = new SongWritable(songFilename);
+                    songsToMatch[i] = new SongWritable(songFilename,context.getConfiguration());
                 } catch (Exception e) {
                     // should probably be logged... for now, just skip
                 }

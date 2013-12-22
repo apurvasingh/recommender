@@ -7,7 +7,7 @@ setenv CLASSPATH ${H5LIB}/jhdf5.jar:${H5LIB}/jhdf5obj.jar:${H5LIB}/jhdfobj.jar:$
 setenv LD_LIBRARY_PATH ${H5LIB}/linux
 
 if ( -e /usr/bin/hadoop ) then
-    export HADOOPCP="`hadoop classpath`"
+    setenv HADOOPCP "`hadoop classpath`"
 else
-    export HADOOPCP=""
+    setenv HADOOPCP ""
 endif

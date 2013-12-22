@@ -54,7 +54,7 @@ public class SongReader extends RecordReader<Text,SongWritable>
             try {
                 String filename = fsplit.getPath().toString();
                 if (filename.endsWith(".song"))
-                    song = new SongWritable();
+                    song = new SongWritable(filename,context.getConfiguration());
                 else
                     return false;
             } catch (Exception e) {

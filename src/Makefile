@@ -3,7 +3,7 @@
 #
 
 ALLCLASSES=SongInfo.class SongDoopDriver.class SongDoopMapper.class SongDoopReducer.class \
-           SongWritable.class SongInputFormat.class SongReader.class
+           FileUtils.class SongWritable.class SongInputFormat.class SongReader.class
 
 H5CLASSES=hdf5_getters.class H5Song.class RecurseSongs.class ConvertSongs.class
 
@@ -30,6 +30,9 @@ SongReader.class: SongReader.java
 
 SongInfo.class: SongInfo.java
 	javac SongInfo.java
+
+FileUtils.class: FileUtils.java
+	javac FileUtils.java
 
 H5Song.class: H5Song.java
 	javac H5Song.java

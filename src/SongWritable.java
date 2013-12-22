@@ -14,6 +14,11 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         super();
     }
 
+    public SongWritable(String hdfsFilename)
+    {
+        // TBD - read from HDFS filename
+    }
+
     public void setProperty(String propName, String propValue)
     {
         if (propName.equals("artist-id"))

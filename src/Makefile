@@ -48,3 +48,5 @@ hdf5_getters.class: ../pkgs/MSongsDB/hdf5_getters.class
 
 h5: $(H5CLASSES)
 
+clean:
+	rm -f *.class *.jar

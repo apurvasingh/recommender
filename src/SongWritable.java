@@ -5,6 +5,7 @@ import java.io.BufferedReader;
 import java.util.ArrayList;
 import java.util.List;
 import org.apache.hadoop.io.WritableComparable;
+import org.apache.hadoop.conf.Configuration;
 
 public class SongWritable extends SongInfo implements WritableComparable<SongWritable>
 {
@@ -20,7 +21,7 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         BufferedReader reader = FileUtils.getReaderFromFilename(hdfsFilename,conf);
         if (reader != null) {
             String line = null;
-            while ((line = reader.readline()) != null) {
+            while ((line = reader.readLine()) != null) {
                 try {
                     line = line.trim(); // remove trailing/leading whitespace (including newlines)
                     String fields[] = line.split("\t");
@@ -59,7 +60,7 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         else if (propName.equals("song-hotness"))
             songHotness = getDoubleProperty(propValue);
         else if (propName.equals("artist-hotness"))
-            artistHostness = getDoubleProperty(propValue);
+            artistHotness = getDoubleProperty(propValue);
     }
 
     private int getIntProperty(String strValue)
@@ -152,6 +153,20 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         if (((first == null) && (second != null)) || ((first != null) && (second == null)))
             return false;
         return first.equals(second);
+    }
+
+    @Override
+    public String[] getSimilarArtists()
+    {
+        return similarArtistsList.toArray(new String[1]);
+    }
+
+    @Override
+    public void setSimilarArtists(String[] similarArtists)
+    {
+        this.similarArtistsList = new ArrayList<String>();
+        for (String artist : similarArtists)
+            similarArtistsList.add(artist);
     }
 
     public boolean equals(SongWritable other)

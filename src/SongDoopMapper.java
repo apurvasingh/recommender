@@ -21,7 +21,6 @@ public class SongDoopMapper extends Mapper<Text,SongWritable,IntWritable,SongWri
                 }
             }
         }
-
     }
 
     @Override

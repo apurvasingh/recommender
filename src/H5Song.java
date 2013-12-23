@@ -29,7 +29,7 @@ public class H5Song extends SongInfo
     {
         artistName = hdf5_getters.get_artist_name(h5);
         artistID = hdf5_getters.get_artist_id(h5);
-        similarArtists = hdf5_getters.get_similar_artists(h5);
+        setSimilarArtists(hdf5_getters.get_similar_artists(h5));
         songTitle = hdf5_getters.get_title(h5);
         songID = hdf5_getters.get_song_id(h5);
         albumName = hdf5_getters.get_release(h5);

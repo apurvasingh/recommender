@@ -5,7 +5,8 @@
 ALLCLASSES=SongInfo.class SongDoopDriver.class SongDoopMapper.class SongDoopReducer.class \
            FileUtils.class SongWritable.class SongInputFormat.class SongReader.class
 
-H5CLASSES=hdf5_getters.class H5Song.class RecurseSongs.class ConvertSongs.class
+H5CLASSES=hdf5_getters.class H5Song.class RecurseSongs.class ConvertSongs.class \
+          SimpleRecommender.class
 
 SongDoop.jar: $(ALLCLASSES)
 	jar cvf $@ $(ALLCLASSES)
@@ -42,6 +43,9 @@ RecurseSongs.class: RecurseSongs.java
 
 ConvertSongs.class: ConvertSongs.java
 	javac ConvertSongs.java
+
+SimpleRecommender.class: SimpleRecommender.java
+	javac SimpleRecommender.java
 
 hdf5_getters.class: ../pkgs/MSongsDB/hdf5_getters.class
 	cp -v ../pkgs/MSongsDB/hdf5_getters.class .

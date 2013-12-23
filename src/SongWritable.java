@@ -35,52 +35,6 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         }
     }
 
-    public void setProperty(String propName, String propValue)
-    {
-        if (propName.equals("artist-id"))
-            artistID = propValue;
-        else if (propName.equals("artist-name"))
-            artistName = propValue;
-        else if (propName.equals("song-id"))
-            songID = propValue;
-        else if (propName.equals("song-title"))
-            songTitle = propValue;
-        else if (propName.equals("album-name"))
-            albumName = propValue;
-        else if (propName.equals("filename"))
-            filename = propValue;
-        else if (propName.equals("similar-artist"))
-            similarArtistsList.add(propValue);
-        else if (propName.equals("year"))
-            year = getIntProperty(propValue);
-        else if (propName.equals("loudness"))
-            loudness = getDoubleProperty(propValue);
-        else if (propName.equals("tempo"))
-            tempo = getDoubleProperty(propValue);
-        else if (propName.equals("song-hotness"))
-            songHotness = getDoubleProperty(propValue);
-        else if (propName.equals("artist-hotness"))
-            artistHotness = getDoubleProperty(propValue);
-    }
-
-    private int getIntProperty(String strValue)
-    {
-        try {
-            return Integer.parseInt(strValue);
-        } catch (Exception e) {
-            return 0;
-        }
-    }
-
-    private double getDoubleProperty(String strValue)
-    {
-        try {
-            return Double.parseDouble(strValue);
-        } catch (Exception e) {
-            return 0.0;
-        }
-    }
-
     public int hashCode()
     {
         return artistName.hashCode() * 1637 + songTitle.hashCode();

@@ -54,10 +54,10 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         writeString(out,filename);
         writeString(out,artistName);
         writeString(out,artistID);
-        if (similarArtists != null) {
-            out.writeInt(similarArtists.length);
-            for (int i = 0; i < similarArtists.length; i++)
-                writeString(out,similarArtists[i]);
+        if (similarArtistsList != null) {
+            out.writeInt(similarArtistsList.size());
+            for (int i = 0; i < similarArtistsList.size(); i++)
+                writeString(out,similarArtistsList.get(i));
         } else {
             out.writeInt(0);
         }
@@ -84,11 +84,11 @@ public class SongWritable extends SongInfo implements WritableComparable<SongWri
         artistID = readString(in);
         int len = in.readInt();
         if (len > 0) {
-            similarArtists = new String[len];
-            for (int i = 0; i < similarArtists.length; i++)
-                similarArtists[i] = readString(in);
+            similarArtistsList = new ArrayList<String>(len);
+            for (int i = 0; i < len; i++)
+                similarArtistsList.add(readString(in));
         } else {
-            similarArtists = null;
+            similarArtistsList = null;
         }
         songTitle = readString(in);
         songID = readString(in);

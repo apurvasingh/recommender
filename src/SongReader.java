@@ -20,12 +20,14 @@ public class SongReader extends RecordReader<Text,SongWritable>
         this.fsplit = fsplit;
         this.context = context;
     }
- 
+
+    @Override
     public void initialize(InputSplit split, TaskAttemptContext context)
         throws IOException, InterruptedException
     {
     }
 
+    @Override
     public Text getCurrentKey()
     {
         if (done) {
@@ -36,6 +38,7 @@ public class SongReader extends RecordReader<Text,SongWritable>
             return null;
     }
 
+    @Override
     public SongWritable getCurrentValue()
     {
         if (done)
@@ -44,16 +47,19 @@ public class SongReader extends RecordReader<Text,SongWritable>
             return null;
     }
 
+    @Override
     public long getPos() throws IOException
     {
         return done ? fsplit.getLength() : 0;
     }
 
+    @Override
     public float getProgress() throws IOException
     {
         return done ? 1.0f : 0.0f;
     }
 
+    @Override
     public boolean nextKeyValue() throws IOException
     {
         if (! done) {

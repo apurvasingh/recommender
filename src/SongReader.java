@@ -48,12 +48,6 @@ public class SongReader extends RecordReader<Text,SongWritable>
     }
 
     @Override
-    public long getPos() throws IOException
-    {
-        return done ? fsplit.getLength() : 0;
-    }
-
-    @Override
     public float getProgress() throws IOException
     {
         return done ? 1.0f : 0.0f;

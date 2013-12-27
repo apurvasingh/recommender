@@ -13,6 +13,7 @@ public class SongReader extends RecordReader<Text,SongWritable>
     private TaskAttemptContext context;
     private boolean done = false;
     private SongWritable song = null;
+    private Text filename = null;
 
     public SongReader(FileSplit fsplit, TaskAttemptContext context) throws IOException
     {
@@ -27,7 +28,12 @@ public class SongReader extends RecordReader<Text,SongWritable>
 
     public Text getCurrentKey()
     {
-        return new Text(fsplit.getPath().toString());
+        if (done) {
+            if (filename == null)
+                filename = new Text(fsplit.getPath().toString());
+            return filename;
+        } else
+            return null;
     }
 
     public SongWritable getCurrentValue()

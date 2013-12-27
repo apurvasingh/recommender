@@ -37,7 +37,7 @@ public class SongDoopDriver extends Configured implements Tool
         job.setMapperClass(SongDoopMapper.class);
         job.setReducerClass(SongDoopReducer.class);
         job.setMapOutputKeyClass(IntWritable.class);
-        job.setMapOutputValueClass(SongWritable.class);
+        job.setMapOutputValueClass(Text.class);
         job.setOutputKeyClass(IntWritable.class);
         job.setOutputValueClass(Text.class);
 

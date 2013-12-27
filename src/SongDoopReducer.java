@@ -3,13 +3,14 @@ import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class SongDoopReducer extends Reducer<IntWritable,SongWritable,IntWritable,Text>
+public class SongDoopReducer extends Reducer<IntWritable,Text,IntWritable,Text>
 {
     @Override
-    public void reduce(IntWritable key, Iterable<SongWritable> values, Context context)
+    public void reduce(IntWritable key, Iterable<Text> values, Context context)
         throws IOException, InterruptedException
     {
-        for (SongWritable value : values)
-            context.write(key, new Text(value.toString()));
+        for (Text value : values)
+            if (key.get() < 10)
+                context.write(key, value);
     }
 }

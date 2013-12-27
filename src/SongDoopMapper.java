@@ -4,7 +4,7 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 
-public class SongDoopMapper extends Mapper<Text,SongWritable,IntWritable,SongWritable>
+public class SongDoopMapper extends Mapper<Text,SongWritable,IntWritable,Text>
 {
     private SongWritable songsToMatch[] = new SongWritable[3];
 
@@ -36,7 +36,7 @@ public class SongDoopMapper extends Mapper<Text,SongWritable,IntWritable,SongWri
             }
         }
         if (searchCount > 0) {
-            context.write(new IntWritable((int)similarity),value);
+            context.write(new IntWritable((int)similarity),new Text(value.toString()));
         }
     }
 }

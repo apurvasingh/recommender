@@ -1,23 +1,24 @@
 import java.io.IOException;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.fs.Path;
-import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.input.FileSplit;
+import org.apache.hadoop.mapreduce.lib.input.CombineFileSplit;
 import org.apache.hadoop.mapreduce.InputSplit;
 import org.apache.hadoop.mapreduce.RecordReader;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
 
 public class SongReader extends RecordReader<Text,SongWritable>
 {
-    private FileSplit fsplit;
+    private Path path;
     private TaskAttemptContext context;
     private boolean done = false;
     private SongWritable song = null;
     private Text filename = null;
 
-    public SongReader(FileSplit fsplit, TaskAttemptContext context) throws IOException
+    public SongReader(CombineFileSplit fsplit, TaskAttemptContext context, Integer index)
+        throws IOException
     {
-        this.fsplit = fsplit;
+        this.path = fsplit.getPath(index);
         this.context = context;
     }
 
@@ -32,7 +33,7 @@ public class SongReader extends RecordReader<Text,SongWritable>
     {
         if (done) {
             if (filename == null)
-                filename = new Text(fsplit.getPath().toString());
+                filename = new Text(path.toString());
             return filename;
         } else
             return null;
@@ -58,7 +59,7 @@ public class SongReader extends RecordReader<Text,SongWritable>
     {
         if (! done) {
             try {
-                String filename = fsplit.getPath().toString();
+                String filename = path.toString();
                 if (filename.endsWith(".song"))
                     song = new SongWritable(filename,context.getConfiguration());
                 else

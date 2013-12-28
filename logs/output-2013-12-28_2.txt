@@ -1,0 +1,905 @@
+0	Song[The Lost Name of God] by [Amorphis] on [Karelian Isthmus] -> ../SongsSubset/data/B/B/M/TRBBMXI128F428CCD1.song
+0	Song[Epilogue] by [Arkona] on [Lepta] -> ../SongsSubset/data/A/V/A/TRAVADZ12903CA4D29.song
+0	Song[Big Fella] by [Fuzz] on [Dirty District] -> ../SongsSubset/data/A/S/R/TRASRRC128F93318B2.song
+0	Song[As The Sleeper Awakes] by [Soilwork] on [Sworn To A Great Divide] -> ../SongsSubset/data/A/V/N/TRAVNST128F422EBD2.song
+0	Song[In the Underworld] by [Skyforger] on [Kurbads] -> ../SongsSubset/data/A/W/F/TRAWFCM12903CBE6FA.song
+0	Song[Tu Cicatriz En Mi] by [Gustavo Cerati] on [Siempre Es Hoy/Reversiones] -> ../SongsSubset/data/A/V/J/TRAVJDB128F93305EB.song
+0	Song[Rock Tha Party] by [Bombay Rockers] on [Introducing&] -> ../SongsSubset/data/A/T/Y/TRATYJI128F4255D27.song
+0	Song[Nordmark] by [YGGDRASIL] on [Kvällningsvindar Över Nordront Land] -> ../SongsSubset/data/A/Z/W/TRAZWTT128F935AA16.song
+0	Song[Check On It] by [Beyoncé feat. Slim Thug] on [Check On It] -> ../SongsSubset/data/A/Y/Q/TRAYQLP128F92FA224.song
+0	Song[Ett Norrskensdåd] by [Finntroll] on [Nifelvind] -> ../SongsSubset/data/B/A/N/TRBANZN12903CA2CE7.song
+0	Song[Primordial Breath] by [Eluveitie] on [Slania] -> ../SongsSubset/data/B/H/Q/TRBHQDN128F4276D66.song
+0	Song[La Maquina Del Sabor] by [Fruko Y Sus Tesos] on [Salsa All Stars V] -> ../SongsSubset/data/B/G/Y/TRBGYTF128F422F519.song
+0	Song[I'm On To You] by [Hurricane] on [Over The Edge] -> ../SongsSubset/data/A/G/T/TRAGTXE128F4229231.song
+0	Song[A Girls Oath] by [Eluveitie] on [Evocation I - The Arcane Dominion] -> ../SongsSubset/data/A/I/V/TRAIVFK128F932C825.song
+0	Song[Into Battle] by [Ensiferum] on [Iron] -> ../SongsSubset/data/A/I/U/TRAIUPS128F92F2825.song
+0	Song[Angelito (Directo 09)] by [Carlos Baute] on [Directo en tus manos] -> ../SongsSubset/data/A/E/S/TRAESRT12903CC70CE.song
+0	Song[(Do)Minion] by [Eluveitie] on [Everything Remains (As It Never Was)] -> ../SongsSubset/data/A/I/U/TRAIUSY12903CF0C92.song
+0	Song[Vollmond] by [In Extremo] on [Am goldenen Rhein] -> ../SongsSubset/data/A/H/M/TRAHMLW128F92D9D82.song
+0	Song[For Tomorrow (live)] by [Shaman] on [Ritual-Live] -> ../SongsSubset/data/A/E/D/TRAEDXO128F421B908.song
+0	Song[Ukkosenjumalan poika] by [Moonsorrow] on [Kivenkantaja] -> ../SongsSubset/data/A/A/S/TRAASIG128F92C3A6B.song
+0	Song[Zalozniy] by [Arkona] on [Vosrozdenie] -> ../SongsSubset/data/A/C/U/TRACUJR12903CA4D39.song
+0	Song[Machine Gun Majesty [Live] (Album Version)] by [Soilwork] on [The chainheart machine] -> ../SongsSubset/data/A/C/U/TRACUMR128F932C675.song
+0	Song[Robot Kid] by [Anat Ben David] on [Virtual Leisure] -> ../SongsSubset/data/A/K/E/TRAKEOZ128F427EC52.song
+0	Song[The Three-Dimensional Shadow] by [Scar Symmetry] on [Holographic Universe] -> ../SongsSubset/data/A/J/F/TRAJFYK128F42579B0.song
+0	Song[Kitteldags] by [Finntroll] on [Jaktens Tid] -> ../SongsSubset/data/A/K/F/TRAKFSV128F4257C10.song
+0	Song[Intro/Chamber The Cartridge] by [Rise Against] on [The Sufferer & The Witness] -> ../SongsSubset/data/A/K/O/TRAKOEB128F1478783.song
+0	Song[The Burning Season (Live)] by [Primordial] on [A Journey's End] -> ../SongsSubset/data/A/L/U/TRALULA128F932B9D0.song
+0	Song[Privilege of Evil (From the Privilege of Evil EP)] by [Amorphis] on [Karelian Isthmus] -> ../SongsSubset/data/A/P/G/TRAPGCJ128F428CCD9.song
+0	Song[Dumy Moi-Zamicy Dal Nie...] by [Alkonost] on [Put Neprojdennyj] -> ../SongsSubset/data/A/Q/F/TRAQFPY12903C9EA62.song
+0	Song[Isku Pitkästä Ilosta] by [Korpiklaani] on [Karkelo] -> ../SongsSubset/data/A/R/F/TRARFAZ128F93481AD.song
+0	Song[I Saw Destruction] by [The Scare] on [Oozevoodoo] -> ../SongsSubset/data/A/O/W/TRAOWTP128F930D700.song
+0	Song[Persuasion] by [Santana] on [Mystical Spirits Parts 1& 2] -> ../SongsSubset/data/A/N/P/TRANPRQ128EF348E34.song
+0	Song[The Plan (The Plan Album Version)] by [Raze] on [The Plan] -> ../SongsSubset/data/A/P/T/TRAPTVO128F14661D2.song
+0	Song[Crimson Wave] by [Amorphis] on [Am Universum] -> ../SongsSubset/data/A/S/B/TRASBZK128F42692CA.song
+0	Song[Signapur] by [In Extremo] on [Mein rasend Herz] -> ../SongsSubset/data/A/Q/D/TRAQDBO128F92ED2AC.song
+1	Song[Engine Skull] by [Cancer Bats] on [Kerrang! The Album '09] -> ../SongsSubset/data/A/Q/Y/TRAQYWJ128F931282C.song
+1	Song[Frei zu sein] by [In Extremo] on [Sängerkrieg] -> ../SongsSubset/data/A/R/X/TRARXMV128F92F59C8.song
+1	Song[And I Hear You Call] by [Amorphis] on [My Kantele] -> ../SongsSubset/data/A/P/Z/TRAPZQI128F428CF18.song
+1	Song[Da Funk] by [Daft Punk] on [Homework] -> ../SongsSubset/data/A/Q/V/TRAQVTO128F14696A6.song
+1	Song[Here I Am King] by [Primordial] on [Imrama] -> ../SongsSubset/data/A/P/Q/TRAPQBU128F934C32D.song
+1	Song[Nothing's Clear (Album Version)] by [Ill Nino] on [Revolution Revolucion] -> ../SongsSubset/data/A/R/M/TRARMWA128F424147D.song
+1	Song[All Your Love [Live 1999]] by [Gary Moore] on [Essential Montreux] -> ../SongsSubset/data/A/Q/S/TRAQSEG128F9327EB9.song
+1	Song[Turn This Thing Around] by [El Presidente] on [Turn This Thing Around] -> ../SongsSubset/data/A/O/Q/TRAOQSA128F42AE616.song
+1	Song[Shining] by [Swans Of Avon] on [Alive] -> ../SongsSubset/data/B/G/E/TRBGERR12903CB8EE9.song
+1	Song[Advice] by [Ann Nesby / Jamecia Bennett] on [Put It On Paper] -> ../SongsSubset/data/B/G/V/TRBGVDI128F1495B59.song
+1	Song[Magiki Vradia] by [Irini Merkouri] on [Mine Mazi Mou Apopse] -> ../SongsSubset/data/B/G/Q/TRBGQFB128F427FD09.song
+1	Song[Dangerously In Love Medley] by [Beyoncé] on [The Beyonce Experience Live Audio] -> ../SongsSubset/data/B/G/Q/TRBGQKE128F425EDC9.song
+1	Song[The Race] by [Bikini Machine] on [The Full Album] -> ../SongsSubset/data/A/W/L/TRAWLTG12903CB226E.song
+1	Song[Many Are We] by [Keep Of Kalessin] on [Armada] -> ../SongsSubset/data/A/U/N/TRAUNNH12903CB038C.song
+1	Song[Dig Up Her Bones] by [The Misfits] on [American Psycho] -> ../SongsSubset/data/A/U/V/TRAUVUF128F148D1AA.song
+1	Song[A Little Of You] by [Eurythmics] on [Revenge] -> ../SongsSubset/data/A/U/V/TRAUVVR128F425A925.song
+1	Song[Into Hiding] by [Amorphis] on [Tales From The Thousand Lakes] -> ../SongsSubset/data/A/V/G/TRAVGNH128F428CBA9.song
+1	Song[The Pig] by [Showbread] on [Nervosa] -> ../SongsSubset/data/A/U/J/TRAUJVM128F422C5A2.song
+1	Song[Ur Själslig Död] by [Månegarm] on [Vargstenen] -> ../SongsSubset/data/B/B/X/TRBBXML128F4256DFF.song
+1	Song[Dig Up] by [Cindy Morgan] on [Postcards] -> ../SongsSubset/data/B/D/W/TRBDWXK128F930E6DD.song
+1	Song[Destroy Everything (Album Version)] by [Hatebreed] on [Supremacy] -> ../SongsSubset/data/B/F/Q/TRBFQQY128F4249C56.song
+1	Song[Täysikasvuinen mies] by [Yölintu] on [Haavoittumaton] -> ../SongsSubset/data/B/E/C/TRBECRX128F423B50B.song
+1	Song[The Muddy Morning Hymn] by [Shaman] on [Foretaste] -> ../SongsSubset/data/A/X/T/TRAXTPZ12903CBCCB8.song
+1	Song[Stop Complaining/Remix/Jam] by [Lyrics Born] on [Overnite Encore: Lyrics Born Live!] -> ../SongsSubset/data/A/Z/S/TRAZSRJ128F4216E54.song
+1	Song[All The Answers] by [Jesus Jones] on [Never Enough - The Best Of Jesus Jones] -> ../SongsSubset/data/A/W/Z/TRAWZYH128F422FE57.song
+1	Song[Kui rebeneb taevas] by [Metsatöll] on [Äio] -> ../SongsSubset/data/A/Y/B/TRAYBTJ12903CB4C22.song
+1	Song[Journey's End] by [Primordial] on [All Empires Fall] -> ../SongsSubset/data/A/Y/E/TRAYELV12903CB3BEA.song
+1	Song[Nordfjorloftet] by [YGGDRASIL] on [Herrelaus] -> ../SongsSubset/data/A/Y/P/TRAYPZB12903CE763B.song
+1	Song[Oración (Directo)] by [Héroes del Silencio] on [Senderos De Traición - Edición Especial] -> ../SongsSubset/data/A/Z/E/TRAZEDS128F14836FE.song
+1	Song[To the Lions] by [Converge] on [No Heroes] -> ../SongsSubset/data/A/Y/O/TRAYOQI128F92F0967.song
+1	Song[Protagonist (Album Version)] by [Scalplock] on [Spread The Germs] -> ../SongsSubset/data/A/K/N/TRAKNJM128F9310D67.song
+1	Song[Undertow] by [Agnostic Front] on [Live At CBGB's] -> ../SongsSubset/data/A/K/X/TRAKXYJ128F42525ED.song
+1	Song[American Ghost Dance (2003 Digital Remastered)] by [Red Hot Chili Peppers] on [Freaky Styley] -> ../SongsSubset/data/A/J/B/TRAJBJG128F14A1EA1.song
+1	Song[Pass The Earplugs] by [Ashes to Ashes] on [Plaything] -> ../SongsSubset/data/A/N/H/TRANHEK128F4230E25.song
+1	Song[Battle Of The Tom Tom] by [Shaman] on [Irresistible Meltdown Vol. 2] -> ../SongsSubset/data/A/I/C/TRAICDV128F92EE216.song
+1	Song[Like A Prayer (Tribute To Madonna)] by [Hot Wire] on [Tribute] -> ../SongsSubset/data/A/G/W/TRAGWHX12903CFAB71.song
+1	Song[Empire Falls] by [Primordial] on [All Empires Fall] -> ../SongsSubset/data/A/D/F/TRADFLD12903CB3BD8.song
+1	Song[Winter (Four Seasons)] by [Ulytau] on [Two Warriors] -> ../SongsSubset/data/A/C/A/TRACAUP128F931AC60.song
+1	Song[Blue Taxi] by [Morel] on [Peterbilt Angel] -> ../SongsSubset/data/A/A/I/TRAAIXN128F428027A.song
+1	Song[Don't Go Knockin' On My Door] by [Britney Spears] on [Oops!... I Did It Again] -> ../SongsSubset/data/A/C/Y/TRACYCJ128F9309246.song
+1	Song[Forever Consumed Oblivion] by [Goatwhore] on [A Haunting Curse] -> ../SongsSubset/data/A/C/K/TRACKWV128F934B6B0.song
+2	Song[White Feather] by [Wolfmother] on [White Feather] -> ../SongsSubset/data/A/A/I/TRAAIYR12903CD290D.song
+2	Song[Follow Your Dreams (The Plan Album Version)] by [Raze] on [The Plan] -> ../SongsSubset/data/A/C/R/TRACRVJ128F14661D6.song
+2	Song[Streets On Fire (Explicit Album Version)] by [Lupe Fiasco] on [Lupe Fiasco's The Cool] -> ../SongsSubset/data/A/B/C/TRABCKL128F423A778.song
+2	Song[Ma Garçonniére] by [Francky Vincent] on [Réchauffe L'hiver] -> ../SongsSubset/data/A/D/P/TRADPYV128F92D308A.song
+2	Song[The End Of The Line] by [Metallica] on [Broken_ Beat & Scarred] -> ../SongsSubset/data/A/D/F/TRADFII128F931FC9F.song
+2	Song[Géraldine] by [Dine et Déon] on [Ah...c'qu'on est cons ! - EP] -> ../SongsSubset/data/A/E/D/TRAEDAH12903D05A77.song
+2	Song[Sahti Waari] by [Turisas] on [Battle Metal] -> ../SongsSubset/data/A/B/P/TRABPUI12903CF22CE.song
+2	Song[Hel Vete] by [Finntroll] on [Nattfödd] -> ../SongsSubset/data/A/C/Z/TRACZUC128F92F0337.song
+2	Song[Lesson Learned] by [Alice In Chains] on [Black Gives Way To Blue] -> ../SongsSubset/data/A/B/U/TRABUMO12903CBE25F.song
+2	Song[Raketen] by [Hubert Kah] on [Seelentaucher] -> ../SongsSubset/data/A/D/X/TRADXAF128F14A9EB3.song
+2	Song[Iskorosten' (instr.)] by [Butterfly Temple] on [Za Solntsem Vsled] -> ../SongsSubset/data/A/A/R/TRAARSF12903CD1B12.song
+2	Song[Tsai Me Lemoni (2005 Digital Remaster)] by [Dakis] on [Back To The 70'S-The Very Best Of Dakis] -> ../SongsSubset/data/B/B/S/TRBBSSU128F4265E16.song
+2	Song[Ain`t got nothing ( feat. David Banner & Eddy Soulo )] by [Samy Deluxe] on [So Deluxe So Glorious] -> ../SongsSubset/data/B/C/V/TRBCVXB128F429C17A.song
+2	Song[Grial II] by [TYR] on [TyR] -> ../SongsSubset/data/B/D/R/TRBDRCK128F92F738B.song
+2	Song[All The Lessons] by [Melanie And The Secret Army] on [Wahre Lügen] -> ../SongsSubset/data/B/E/A/TRBEAYH12903CBC75F.song
+2	Song[Josephine (French Edit)] by [Chris Rea] on [Weekend Songs] -> ../SongsSubset/data/B/C/O/TRBCORE12903CD6FA0.song
+2	Song[Love_ Respect & Loyalty (feat. Sophie & Cait La Lee)] by [Proficy] on [Serious Friction] -> ../SongsSubset/data/B/E/P/TRBEPWY12903CB1CBE.song
+2	Song[Buckle Down (2002 Digital Remaster)] by [Red Hot Chili Peppers] on [Red Hot Chili Peppers] -> ../SongsSubset/data/B/H/G/TRBHGDD128F1486C2E.song
+2	Song[Fortress] by [Tim Exile] on [Listening Tree] -> ../SongsSubset/data/B/I/B/TRBIBTU128F92FDC9D.song
+2	Song[Life's Blood] by [Eighteen Visions] on [Best Of] -> ../SongsSubset/data/B/G/M/TRBGMWQ12903CC23CD.song
+2	Song[Don't Treat Me Bad] by [Firehouse] on [Good Acoustics] -> ../SongsSubset/data/B/H/E/TRBHEVR128F4263CE0.song
+2	Song[Freeword] by [D.O.W.N.] on [Southern Slang (Chopped & Screwed)] -> ../SongsSubset/data/A/O/L/TRAOLVO128F42685EF.song
+2	Song[M. tagu va au marché] by [Klimperei] on [Improvisation with myself_ volume1] -> ../SongsSubset/data/A/O/G/TRAOGVB128F92D5779.song
+2	Song[Vargbrodern Talar] by [Månegarm] on [Vargstenen] -> ../SongsSubset/data/A/R/S/TRARSAM128F4256E04.song
+2	Song[Ai Bu Hui Yi Zhi Deng Ni] by [Ken Chu] on [Meteor Rain] -> ../SongsSubset/data/A/W/E/TRAWEBH128F932A8CF.song
+2	Song[A Fiery Stride (Ltd. Edition Bonus)] by [Elvenking] on [Wyrd] -> ../SongsSubset/data/A/V/D/TRAVDQQ128F421B864.song
+2	Song[She's On That Revivalism] by [John Brown] on [Suburban Empire] -> ../SongsSubset/data/A/T/B/TRATBRK12903CAF9AF.song
+2	Song[Chiornie Debri Voini (The Black Abyss of War)] by [Arkona] on [Lepta] -> ../SongsSubset/data/A/S/C/TRASCUS12903CA4D22.song
+2	Song[Skvoz' Tuman Vekov] by [Arkona] on [Vo Slavu Velikim] -> ../SongsSubset/data/A/W/F/TRAWFBM12903C9F412.song
+2	Song[Pathfinders] by [Elvenking] on [Wyrd] -> ../SongsSubset/data/A/T/G/TRATGQO128F421B850.song
+2	Song[Ai Ji Mei Gui 1000 Da] by [Sandy Lam] on [Faces And Places] -> ../SongsSubset/data/A/T/N/TRATNIZ128F42414D2.song
+2	Song[Angry Chair] by [Alice In Chains] on [Live] -> ../SongsSubset/data/A/U/X/TRAUXNO128F42774A0.song
+2	Song[Losing Weight Part 2] by [Cam'Ron / Juelz Santana] on [Come Home With Me] -> ../SongsSubset/data/A/H/O/TRAHOOP128F42B62AB.song
+2	Song[Enough] by [Storyville] on [Dog Years] -> ../SongsSubset/data/A/G/K/TRAGKLK12903CC4264.song
+2	Song[Grottans Barn] by [Finntroll] on [Nattfödd] -> ../SongsSubset/data/A/F/A/TRAFABO128F933DE53.song
+2	Song[Make Me Bad] by [Korn] on [Crossing All Over Vol. 12] -> ../SongsSubset/data/A/G/O/TRAGOVG128F42A963D.song
+2	Song[Getaway] by [KRS-One] on [Adventures In Emceein] -> ../SongsSubset/data/A/F/H/TRAFHJI128F9302CFF.song
+2	Song[The Fundamental Alienation] by [Dimmu Borgir] on [In Sorte Diaboli (Deluxe)] -> ../SongsSubset/data/A/F/B/TRAFBVU128F426B3F6.song
+2	Song[White Feather] by [Wolfmother] on [White Feather] -> ../SongsSubset/data/A/G/R/TRAGRRP12903CD2911.song
+2	Song[Look Up At The Stars And You're Gone] by [Evergreen Terrace] on [Losing All Hope Is Freedom] -> ../SongsSubset/data/A/G/W/TRAGWMO12903CFD994.song
+2	Song[You're All I Need] by [Singing Melody] on [Candy Cane Riddim] -> ../SongsSubset/data/A/Z/L/TRAZLFL12903CCE70E.song
+2	Song[See The Light] by [The Jeff Healey Band] on [Master Hits] -> ../SongsSubset/data/B/A/Z/TRBAZYH128F4288198.song
+2	Song[Ompa Til Du Dör] by [Kaizers Orchestra] on [Live At Vega] -> ../SongsSubset/data/A/W/R/TRAWRKQ128F429866C.song
+2	Song[Ai Ni Bian Cheng Hen Ni] by [Kary Ng] on [With A Boy Like You] -> ../SongsSubset/data/A/X/X/TRAXXTA128F146BCA7.song
+2	Song[Less Is More] by [Roni Size] on [Roni Size Reprazent - New Forms2] -> ../SongsSubset/data/A/Y/D/TRAYDGA128F427D05F.song
+2	Song[Can't Make You Love Me] by [Britney Spears] on [Oops!... I Did It Again] -> ../SongsSubset/data/B/A/L/TRBALRR128F429625D.song
+2	Song[Your Broken Heart] by [The Stolen Minks] on [High Kicks] -> ../SongsSubset/data/A/X/M/TRAXMNP128F9339BA3.song
+2	Song[Valkyria] by [YGGDRASIL] on [Vedergällning] -> ../SongsSubset/data/B/A/M/TRBAMIO128F935AA21.song
+2	Song[Inertiatic Esp] by [The Mars Volta] on [Inertiatic Esp] -> ../SongsSubset/data/B/B/B/TRBBBUG128F148D65B.song
+2	Song[She kills] by [Cirrus] on [Mama please] -> ../SongsSubset/data/A/Y/W/TRAYWSQ128F933F63A.song
+2	Song[Morning's Coming] by [Jeff And Sheri Easter] on [Sittin' On Cloud Nine] -> ../SongsSubset/data/A/J/B/TRAJBUP128F146B4CA.song
+2	Song[El Gallo Y La Vaca] by [Richie Ray & Bobby Cruz] on [Que Vuelva La Musica] -> ../SongsSubset/data/A/M/S/TRAMSBQ128F4238B2D.song
+2	Song[Ultra-Funk] by [Los Amigos Invisibles] on [The New Sound of the Venezuelan Gozadera] -> ../SongsSubset/data/A/N/K/TRANKYM128F428B7A4.song
+2	Song[The Coming Of The King] by [Brian Free & Assurance] on [It's So God!] -> ../SongsSubset/data/A/L/S/TRALSQW12903CEDA8C.song
+2	Song[Tearing Everyone Down] by [Anti-Flag] on [A New Kind of Army] -> ../SongsSubset/data/A/M/B/TRAMBBV128F9337714.song
+2	Song[Time Will Tell] by [Ice] on [Darkest Light] -> ../SongsSubset/data/A/J/E/TRAJEYL128F931B518.song
+2	Song[Rock & Roll Renegade] by [The Frantic] on [Audio & Murder] -> ../SongsSubset/data/A/I/X/TRAIXJZ12903CEDB1D.song
+2	Song[Drive] by [The Cars] on [The Squid And The Whale] -> ../SongsSubset/data/A/J/N/TRAJNYD128F9340A32.song
+3	Song[Jesus Can Work It Out] by [The Jackson Southernaires] on [A Touch Of Class] -> ../SongsSubset/data/A/N/A/TRANAYU128F4252987.song
+3	Song[Come On Shake My Feelin'] by [Smiley] on [Scream-Machine/Come On Shake My Feelin'] -> ../SongsSubset/data/A/M/V/TRAMVYI128EF35FDD8.song
+3	Song[The Date ( LP Version )] by [Scott Weiland] on [12 Bar Blues] -> ../SongsSubset/data/A/L/T/TRALTTR12903C9E32E.song
+3	Song[Commercial Reign] by [Inspiral Carpets] on [Cool As] -> ../SongsSubset/data/A/L/D/TRALDWN128EF33FB6E.song
+3	Song[Just Say Yes] by [Snow Patrol] on [Just Say Yes] -> ../SongsSubset/data/A/L/D/TRALDUE128F9312AF2.song
+3	Song[It's All In The Word] by [The Jackson Southernaires] on [The Word In Song] -> ../SongsSubset/data/A/N/P/TRANPFD12903CEA1A9.song
+3	Song[Soldats Ne Tirez Pas] by [Gerard Lenorman] on [Je Vous Reparlerai d'Amour] -> ../SongsSubset/data/A/K/E/TRAKEMT128F92C2CAC.song
+3	Song[Schitzo] by [brokeNCYDE] on [BC 13-EP] -> ../SongsSubset/data/A/M/D/TRAMDUW12903CB5100.song
+3	Song[Junge Römer] by [Falco] on [Donauinsel Live] -> ../SongsSubset/data/A/L/H/TRALHUV128F92CBAFB.song
+3	Song[Prolog auf Erden] by [Equilibrium] on [Sagas] -> ../SongsSubset/data/A/K/K/TRAKKZM128F427CFD5.song
+3	Song[One Person At A Time] by [Jonny Lang] on [Turn Around] -> ../SongsSubset/data/A/P/G/TRAPGOZ128F933A945.song
+3	Song[The One Piece Puzzle] by [SKYCLAD] on [Another Fine Mess] -> ../SongsSubset/data/A/Q/T/TRAQTOS128F428E94B.song
+3	Song[My Prerogative] by [Britney Spears] on [My Prerogative] -> ../SongsSubset/data/A/Q/R/TRAQRYZ128F4291DCB.song
+3	Song[Some Kind Of Zombie (Criscoteque Remix)] by [Audio Adrenaline] on [Some Kind Of Zombie] -> ../SongsSubset/data/A/R/H/TRARHLY128F42698CA.song
+3	Song[Misery Path (From the Privilege of Evil)] by [Amorphis] on [Karelian Isthmus] -> ../SongsSubset/data/A/R/R/TRARRYC128F428CCDA.song
+3	Song[El Bipper] by [Los Traileros Del Norte] on [23 Aniversario] -> ../SongsSubset/data/A/O/W/TRAOWKZ128F14953A6.song
+3	Song[Abbeville Fair] by [Seatrain] on [Watch] -> ../SongsSubset/data/A/R/P/TRARPOQ128F9311C86.song
+3	Song[Hope  (Edited Album Version)] by [Twista Featuring Cee-Lo] on [Kamikaze] -> ../SongsSubset/data/A/Q/I/TRAQIQP128E079505F.song
+3	Song[Frei zu sein] by [In Extremo] on [Frei zu sein] -> ../SongsSubset/data/A/Q/C/TRAQCKG128F421C277.song
+3	Song[Terve menoo jätkänretale] by [Irwin Goodman] on [Kolmastoista kerta] -> ../SongsSubset/data/A/O/Z/TRAOZSG128EF3428D8.song
+3	Song[Posledny Buntar`] by [Kruger] on [Dusha Izuvera] -> ../SongsSubset/data/A/P/T/TRAPTYS12903CD191F.song
+3	Song[Playa del sous-sol] by [Alain-François] on [Vivant] -> ../SongsSubset/data/A/R/I/TRARITF12903CE7DA9.song
+3	Song[Everybody Loves You] by [Helmet] on [Size Matters] -> ../SongsSubset/data/A/O/J/TRAOJMY128E07836D9.song
+3	Song[Vitamina] by [Sonora Carruseles] on [Greatest Salsa Classic Volumen 3] -> ../SongsSubset/data/A/R/O/TRARODD128F4225D3F.song
+3	Song[Awake II] by [Space Opera] on [Space Opera II] -> ../SongsSubset/data/A/P/L/TRAPLPR128F9309D8D.song
+3	Song[Love Happens Just Like That (LP Version)] by [Bryan White] on [How Lucky I Am] -> ../SongsSubset/data/B/E/I/TRBEIBI12903CBD2B6.song
+3	Song[Unbreak My Heart] by [Alexander O'Neal] on [Alex Loves...] -> ../SongsSubset/data/B/C/T/TRBCTEE128F42438DC.song
+3	Song[Born Again] by [The Freedom] on [Nerosubianco Original Soundtrack] -> ../SongsSubset/data/B/D/T/TRBDTGV128F934BD84.song
+3	Song[Lieder_ Die Uns Ein Leben Lang Begleiten] by [Maria & Margot Hellwig/Die Garmischer Alpenjäger] on [Lieder Meines Lebens - Zum 90. Geburtstag Der Königin Der Volksmusik] -> ../SongsSubset/data/B/E/A/TRBEAXM12903CC63F5.song
+3	Song[Dying To Stay] by [Alias] on [The Other Side Of The Looking Glass] -> ../SongsSubset/data/B/D/L/TRBDLRT128F4296B2F.song
+3	Song[Ramène Moi] by [Lara Fabian] on [Carpe Diem] -> ../SongsSubset/data/B/B/K/TRBBKXZ128F4215C88.song
+3	Song[Creeper Kamikaze] by [The Exies] on [Inertia] -> ../SongsSubset/data/A/C/A/TRACAXP128F14A2127.song
+3	Song[Stand] by [Pedro Aznar] on [David Y Goliath] -> ../SongsSubset/data/A/D/O/TRADOSF128F9338ADB.song
+3	Song[Warrior's Quest] by [Ensiferum] on [Victory Songs] -> ../SongsSubset/data/A/B/J/TRABJWA128F9309C09.song
+3	Song[Something For The Pain] by [Robben Ford] on [Blue Moon] -> ../SongsSubset/data/A/B/Y/TRABYAR128F931B1A4.song
+3	Song[Come Here Feat. Jay Sean] by [Rishi Rich] on [The Project] -> ../SongsSubset/data/A/D/M/TRADMRP128F147CBF6.song
+3	Song[Buy You A Drink] by [DJ Nasty] on [Tha Remixes Vol. 11] -> ../SongsSubset/data/A/E/D/TRAEDDD12903CCF7E7.song
+3	Song[Always And Never (Album Version)] by [Silverstein] on [Discovering The Waterfront] -> ../SongsSubset/data/A/A/V/TRAAVOU128F422F292.song
+3	Song[Boys] by [Britney Spears feat. Pharrell Williams] on [Touch My Soul_ Vol. 23] -> ../SongsSubset/data/A/E/B/TRAEBXS128F429933A.song
+3	Song[Larger Than Life] by [Backstreet Boys] on [Just Want You To Know] -> ../SongsSubset/data/A/B/A/TRABAFJ128F42AF24E.song
+3	Song[Heal (The Separation) [H.E.L.P Breakbeat]] by [The Shamen] on [Heal (The Separation)] -> ../SongsSubset/data/A/D/V/TRADVYY128F931C56C.song
+3	Song[Amor De Lejos] by [Lara & Reyes] on [World Jazz] -> ../SongsSubset/data/B/H/W/TRBHWYD128F146A6FA.song
+3	Song[To Pouli] by [Angela Dimitriou] on [Thisia Live] -> ../SongsSubset/data/B/G/J/TRBGJGI128F427CA73.song
+3	Song[Dance Of Romance] by [Knack] on [Normal as the Next Guy] -> ../SongsSubset/data/B/G/R/TRBGRAL128F42480F9.song
+3	Song[Spend the Night featuring Rock Money and Paul Law] by [Tech N9ne] on [Calm Before the Storm] -> ../SongsSubset/data/B/I/C/TRBICEA128F93668AA.song
+3	Song[Ferrous Carbonate Mass] by [Kali] on [Kali] -> ../SongsSubset/data/B/H/T/TRBHTUI12903CB00F3.song
+3	Song[La Vida] by [Los Fabulosos Cadillacs] on [Hola] -> ../SongsSubset/data/A/Z/X/TRAZXNQ128F93351C4.song
+3	Song[Tuggathanug] by [Legion Of Green Men] on [Baqontraq] -> ../SongsSubset/data/A/X/W/TRAXWKA128F425A97A.song
+3	Song[Open (Koobas Koobatronmix)] by [Dub Pistols feat. TK & JMS] on [Open] -> ../SongsSubset/data/A/Y/V/TRAYVNF128F42986EC.song
+3	Song[Part Of Me (LP Version)] by [Vonray] on [Vonray] -> ../SongsSubset/data/A/Z/R/TRAZRXP12903CBD6A9.song
+3	Song[Dinosaur Bones] by [Showbread] on [Age Of Reptiles] -> ../SongsSubset/data/B/A/N/TRBANBC128F147E363.song
+3	Song[Suan Shu] by [Candy Lo] on [Steel Box Collection - Candy Lo] -> ../SongsSubset/data/A/W/Y/TRAWYJE128F9324D18.song
+3	Song[Prof. Henry Stills] by [Her Majesty's Finest] on [Warning Bell] -> ../SongsSubset/data/A/X/U/TRAXUUN128F4274FB9.song
+3	Song[Sky Inferno] by [Goatwhore] on [Funeral Dirge for the Rotting Sun] -> ../SongsSubset/data/A/X/I/TRAXIYW12903CB4343.song
+3	Song[You Live_ You Die] by [Devanic] on [Mask Industries] -> ../SongsSubset/data/A/X/H/TRAXHFY128F932E4E7.song
+3	Song[Celos] by [Obie Bermudez] on [Solo Exitos] -> ../SongsSubset/data/A/S/S/TRASSZL128F428FA5D.song
+3	Song[Quitxalla] by [Gertrudis] on [Teta] -> ../SongsSubset/data/A/V/B/TRAVBMS128F423EA54.song
+3	Song[Ormhäxan] by [Finntroll] on [Ur Jordens Djup] -> ../SongsSubset/data/A/U/L/TRAULEG128F92F035B.song
+3	Song[Epiphany] by [Bad Religion] on [Process Of Belief] -> ../SongsSubset/data/A/W/P/TRAWPFY128F428A9CD.song
+3	Song[Papi Chulo (Extended Mix)] by [Lorna] on [Papi Chulo] -> ../SongsSubset/data/A/T/K/TRATKTL128F428C94C.song
+3	Song[Drumroll (We're All Thirsty)] by [P.O.S] on [Never Better] -> ../SongsSubset/data/A/U/C/TRAUCRP128F931364D.song
+3	Song[Standing On My Own] by [Agnostic Front] on [Dead Yuppies] -> ../SongsSubset/data/A/V/Y/TRAVYIU128F42625E1.song
+3	Song[I Don't Give A F**K] by [D.O.W.N.] on [Southern Slang (Chopped & Screwed)] -> ../SongsSubset/data/A/I/F/TRAIFYS128F42685F1.song
+3	Song[Guided By History] by [Mithotyn] on [Gathered Around The Oaken Table] -> ../SongsSubset/data/A/G/K/TRAGKUI128F92F4698.song
+3	Song[I'm Wrong] by [Dave Hollister] on [The Definitive Collection] -> ../SongsSubset/data/A/G/L/TRAGLUU12903D024F2.song
+3	Song[Romance] by [Whitney Cummings] on [Emotional Ninja] -> ../SongsSubset/data/A/H/R/TRAHRSA128F93235CB.song
+3	Song[Tabloid Junkie] by [Michael Jackson] on [HIStory - PAST_ PRESENT AND FUTURE - Book I] -> ../SongsSubset/data/A/H/L/TRAHLDG128F92EB4A9.song
+3	Song[Just A Little Bit Of You] by [Michael Jackson] on [Soulsation! The 25th Anniversary Collection] -> ../SongsSubset/data/A/I/H/TRAIHFF128EF351817.song
+3	Song[Snow [Hey Oh] [Live Version]] by [Red Hot Chili Peppers] on [Snow [Hey Oh] [Live]] -> ../SongsSubset/data/A/I/Q/TRAIQNF128F428386A.song
+3	Song[Wichita Cathedral [live]] by [Butthole Surfers] on [Butthole Surfers  + PCPpep] -> ../SongsSubset/data/A/H/D/TRAHDIR12903CEB9EE.song
+3	Song[Desde mi cielo] by [Mago de Oz] on [Gaia II] -> ../SongsSubset/data/A/G/D/TRAGDLM128F4233397.song
+3	Song[Jody] by [Eddie Turner] on [The Turner Diaries] -> ../SongsSubset/data/A/H/H/TRAHHUN128F4227029.song
+3	Song[Sometime Ago] by [Philip Bailey] on [Soul On Jazz] -> ../SongsSubset/data/A/G/U/TRAGURD12903CF497F.song
+3	Song[Party For Pink] by [Michelle & Vickie] on [Aitai] -> ../SongsSubset/data/A/G/G/TRAGGQQ128F931D8E1.song
+3	Song[Regresa A Mi (Unbreak My Heart)] by [Yuridia] on [Habla El Corazon] -> ../SongsSubset/data/A/G/Z/TRAGZTU128F9348113.song
+4	Song[Destroy 2000 Years Of Culture] by [Atari Teenage Riot] on [Live In Philadelphia] -> ../SongsSubset/data/A/H/N/TRAHNMN128F932DA8E.song
+4	Song[Thresh Hold] by [Uphill Battle] on [Wreck of Nerves] -> ../SongsSubset/data/A/I/K/TRAIKBM128F429160A.song
+4	Song[Estas hecha para mi (Directo 09)] by [Carlos Baute] on [Directo en tus manos] -> ../SongsSubset/data/A/F/I/TRAFIGU12903CC70C2.song
+4	Song[Son Sabroso] by [Gran Coquivacoa] on [Guerreros De La Luz] -> ../SongsSubset/data/A/E/O/TRAEOPH128F932E302.song
+4	Song[Hoy Es Hoy] by [Memphis La Blusera] on [Hoy Es Hoy] -> ../SongsSubset/data/A/E/Q/TRAEQWJ12903CF5475.song
+4	Song[Let's Get It Started] by [Black Eyed Peas] on [Kids Sing Along Pac] -> ../SongsSubset/data/A/H/K/TRAHKLC12903CC632E.song
+4	Song[Silent Hill] by [Moss] on [Never Be Scared / Don't Be A Hero] -> ../SongsSubset/data/A/A/O/TRAAOXM12903CFB3B0.song
+4	Song[English Summer Rain] by [Placebo] on [Sleeping With Ghosts] -> ../SongsSubset/data/A/A/U/TRAAUEO128E0780CB9.song
+4	Song[Ota kiinni] by [Murskahumppa] on [Murskapunkkia] -> ../SongsSubset/data/A/A/F/TRAAFKJ12903D02552.song
+4	Song[Blues] by [Terry Callier] on [Essential_ The Very Best Of...] -> ../SongsSubset/data/A/C/W/TRACWEH128F1456890.song
+4	Song[Second Hand Life] by [Joe Lynn Turner] on [Second Hand Life: The Deluxe Edition] -> ../SongsSubset/data/A/E/G/TRAEGFX12903CF8E7B.song
+4	Song[Wanikaa (Featuring Abramz_ Krazy_ Lyrical G_ Saint Ca and Sylvester)] by [Indigenous] on [Uganda] -> ../SongsSubset/data/A/C/Y/TRACYMT128F933333D.song
+4	Song[Hero In A Dream] by [Ensiferum] on [Ensiferum] -> ../SongsSubset/data/A/C/M/TRACMHD128F931FB14.song
+4	Song[Kassie Jones] by [Alice Stuart] on [All The Good Times] -> ../SongsSubset/data/A/A/B/TRAABYW128F4244559.song
+4	Song[Taste Of Dis (Explicit Version)] by [Brooke Valentine] on [Chain Letter] -> ../SongsSubset/data/A/B/N/TRABNIQ128F4261298.song
+4	Song[Ven Conmigo/Perdoname (Live)] by [Selena] on [La Leyenda] -> ../SongsSubset/data/A/B/N/TRABNIP12903CB604F.song
+4	Song[Harajuku Girls] by [Gwen Stefani] on [Love Angel Music Baby] -> ../SongsSubset/data/A/B/C/TRABCUQ128E0783E2B.song
+4	Song[De la mano de un chulo] by [Mr. Kilombo] on [El lado gamberro] -> ../SongsSubset/data/A/P/T/TRAPTGW128F4277AA6.song
+4	Song[Xing Dao Shou] by [Edmond Leung] on [Edmond Leung Collections] -> ../SongsSubset/data/A/N/Y/TRANYQD128F4295A3E.song
+4	Song[Yi Xing] by [Miriam Yeung] on [Unlimited] -> ../SongsSubset/data/A/P/E/TRAPEXA128F428B4F1.song
+4	Song[Hesitate] by [MyKungFu] on [Hesitate] -> ../SongsSubset/data/A/N/X/TRANXLY12903CE297D.song
+4	Song[Touch The Sky] by [Kanye West / Lupe Fiasco] on [Touch The Sky] -> ../SongsSubset/data/A/Q/Z/TRAQZQX128F931338F.song
+4	Song[Ring The Alarm] by [Beyoncé] on [The Beyonce Experience Live Audio] -> ../SongsSubset/data/A/Q/H/TRAQHAK128F425EDD8.song
+4	Song[All I Want] by [Captain Hollywood Project] on [All I Want] -> ../SongsSubset/data/A/P/R/TRAPRDY128F930DBA5.song
+4	Song[Mai] by [Loudermilk] on [The Red Record] -> ../SongsSubset/data/A/Q/T/TRAQTRL128F428C2AF.song
+4	Song[Do Your Will (Album Version)] by [The Rance Allen Group] on [All the Way] -> ../SongsSubset/data/A/R/A/TRARAHB128F428928E.song
+4	Song[Affliction] by [AFI] on [DECEMBERUNDERGROUND] -> ../SongsSubset/data/A/P/H/TRAPHZT128F147A02B.song
+4	Song[Betrayal Is A Symptom] by [Thrice] on [The Illusion of Safety] -> ../SongsSubset/data/A/S/A/TRASAIH128F931F567.song
+4	Song[Moore Street Girls] by [The Elders] on [The Best Crowd We Ever Had] -> ../SongsSubset/data/A/M/X/TRAMXWX128F424D76B.song
+4	Song[Cop It] by [MIMS] on [Music Is My Savior] -> ../SongsSubset/data/A/M/B/TRAMBFD128EF34B848.song
+4	Song[Why??? featuring TECH N9NE & Twista] by [Prozak] on [Tales From The Sick] -> ../SongsSubset/data/A/K/X/TRAKXEO12903CC5BCE.song
+4	Song[I'm Living In Canaan Now] by [The Perrys] on [Remembering The Happy Goodmans] -> ../SongsSubset/data/A/M/D/TRAMDNR12903CEC0DF.song
+4	Song[Intro / Time For Some Action] by [N.E.R.D.] on [Seeing Sounds] -> ../SongsSubset/data/A/N/M/TRANMWO128F426C41A.song
+4	Song[Unbreakable] by [Ms. Dynamite] on [Judgement Days] -> ../SongsSubset/data/A/K/L/TRAKLML128E07999DA.song
+4	Song[Show Me Your Teeth (Radio Edit)] by [Year Long Disaster] on [Show Me Your Teeth (Radio Edit)] -> ../SongsSubset/data/A/M/A/TRAMAHA12903CBF34E.song
+4	Song[La Nit De Reis] by [Gertrudis] on [Teta] -> ../SongsSubset/data/A/J/K/TRAJKNA128F423EA49.song
+4	Song[Me Lo Dijo Adela] by [Tito Rodriguez] on [Is Hot !] -> ../SongsSubset/data/B/E/C/TRBECST12903CDC40B.song
+4	Song[Mi Vida Se Pinto De Gris] by [Yndio] on [Lo Basico] -> ../SongsSubset/data/B/F/M/TRBFMZP128F1490058.song
+4	Song[Kill Your Darlings] by [Soulwax] on [Kill Your Darlings] -> ../SongsSubset/data/B/B/I/TRBBIBE128F4226E29.song
+4	Song[Outside] by [Mariah Carey] on [BUTTERFLY] -> ../SongsSubset/data/B/E/B/TRBEBWG128F93214A4.song
+4	Song[Crawlspace] by [Beastie Boys] on [To The 5 Boroughs] -> ../SongsSubset/data/B/C/Y/TRBCYOI128F1455566.song
+4	Song[Half Way Out The Door (Live)] by [Elvin Bishop] on [Booty Bumpin'] -> ../SongsSubset/data/B/E/Y/TRBEYFC128F4286D0A.song
+4	Song[Anarchy in the UK (Sex Pistols) (Bonus Track)] by [Adrenalin O.D.] on [Humungousfungusamongus] -> ../SongsSubset/data/B/B/V/TRBBVYI128F4291603.song
+4	Song[Everyday Stranger] by [Dub Pistols feat. TK & Ashley Slater] on [Rum & Coke] -> ../SongsSubset/data/B/B/G/TRBBGUV128F92DFA21.song
+4	Song[After One Quarter Of A Revolution] by [Every Time I Die] on [New Junk Aesthetic] -> ../SongsSubset/data/B/D/I/TRBDIZG12903CD68A3.song
+4	Song[Famous Girl] by [Chris Brown] on [Graffiti] -> ../SongsSubset/data/A/W/D/TRAWDWZ128F9340E55.song
+4	Song[Reason] by [Novembre] on [Materia] -> ../SongsSubset/data/A/V/Y/TRAVYXL128EF34722F.song
+4	Song[Heal (The Separation) [PM Dawn Alt. Lead Mix]] by [The Shamen] on [Heal (The Separation)] -> ../SongsSubset/data/A/U/A/TRAUAHG128F931C55F.song
+4	Song[Dans Ces Villes] by [Julie Zenatti] on [Comme Vous] -> ../SongsSubset/data/A/V/W/TRAVWYR128F92DED0F.song
+4	Song[I Versus I] by [Seventh Star] on [The Undisputed Truth] -> ../SongsSubset/data/A/T/A/TRATAGC12903CDCE67.song
+4	Song[Two Hearts One Love] by [Shania Twain] on [The Complete Limelight Session] -> ../SongsSubset/data/A/W/I/TRAWIJG128F42B502C.song
+4	Song[16 MM Dream] by [Jeremy Fisher] on [Goodbye Blue Monday] -> ../SongsSubset/data/A/S/N/TRASNDA12903CB1B4B.song
+4	Song[Send a Prayer] by [The Elders] on [Racing the Tide] -> ../SongsSubset/data/A/V/H/TRAVHPV128F933E986.song
+4	Song[Trows Kind] by [Elvenking] on [The Winter Wake] -> ../SongsSubset/data/A/U/W/TRAUWQL128F424696E.song
+4	Song[Alma_ Corazón Y Vida] by [Dyango] on [Alma_ Corazón Y Vida] -> ../SongsSubset/data/B/G/U/TRBGUKE128F42776B6.song
+4	Song[Eleanor] by [Low Millions] on [Eleanor] -> ../SongsSubset/data/B/H/R/TRBHRGA128F4268884.song
+4	Song[Two Lights [Bonus Track]] by [Joe Lynn Turner] on [Second Hand Life: The Deluxe Edition] -> ../SongsSubset/data/B/H/C/TRBHCVQ12903CF8E90.song
+4	Song[Getting Closer] by [Cocoa Tea] on [One Up] -> ../SongsSubset/data/B/H/N/TRBHNQO128F4257526.song
+4	Song[Cryin'] by [Aerosmith] on [20th Century Masters: The Millennium Collection: The Best Of Aerosmith] -> ../SongsSubset/data/A/Y/K/TRAYKOC128F930D2B8.song
+4	Song[Don't let go] by [Pacha Massive] on [Hôtel Costes 11 by Stéphane Pompougnac] -> ../SongsSubset/data/A/X/M/TRAXMNY12903CB5207.song
+4	Song[Mi Mas Agapas] by [Angela Dimitriou] on [14 Megala Tragoudia - Angela Dimitriou] -> ../SongsSubset/data/A/Z/L/TRAZLTA128F425510D.song
+4	Song[It's Hard] by [Clifton Chenier] on [The Best Of Clifton Chenier] -> ../SongsSubset/data/A/X/T/TRAXTDT128F4243F22.song
+4	Song[Worshipper's Medley] by [Darwin Hobbs] on [Worshipper] -> ../SongsSubset/data/A/Z/S/TRAZSFV128F14806FE.song
+4	Song[La Blonde de Pékin] by [Annie Philippe] on [Twist Again au Ciné_ Vol. 1 (Bandes originales de films)] -> ../SongsSubset/data/B/A/N/TRBANKK12903CDA071.song
+4	Song[Le Vivre Pour Le Croire] by [Akissa] on [Je Déteste Le Rap Français] -> ../SongsSubset/data/A/Z/Z/TRAZZFT128F9330615.song
+4	Song[Autumn's Ablaze (Live)] by [Primordial] on [A Journey's End] -> ../SongsSubset/data/B/B/F/TRBBFHG128F932B9D6.song
+4	Song[After Hours] by [Phantom Planet] on [Phantom Planet] -> ../SongsSubset/data/A/Z/Q/TRAZQET128F42A0449.song
+4	Song[Fever Dream] by [Steve Vai] on [The Ultra Zone] -> ../SongsSubset/data/A/X/F/TRAXFXT128F426A33A.song
+4	Song[the Cool Down] by [Soul Ballet] on [LAViSH] -> ../SongsSubset/data/A/Y/H/TRAYHUO128F42222C2.song
+4	Song[Climate Control] by [Uphill Battle] on [Uphill Battle] -> ../SongsSubset/data/A/W/X/TRAWXYT128F428CBE4.song
+4	Song[Fuck You] by [Norther] on [Till Death Unites Us] -> ../SongsSubset/data/A/Y/G/TRAYGQU128F934B4F5.song
+5	Song[So(u)l Invictus] by [Nightfall] on [Lyssa - Rural Gods And Astonishing Punishments] -> ../SongsSubset/data/B/A/V/TRBAVVM128F4250938.song
+5	Song[Class Compromise (&History's Glory)] by [The Business] on [No Mercy For You] -> ../SongsSubset/data/A/Z/I/TRAZISB128F427907A.song
+5	Song[The Dark Road] by [White Willow] on [Signal To Noise] -> ../SongsSubset/data/B/A/H/TRBAHYS12903CDB329.song
+5	Song[Memphis Til' Monday] by [Bob Cheevers] on [Texas To Tennessee] -> ../SongsSubset/data/A/X/E/TRAXEUB12903CBAA99.song
+5	Song[The Darker Side] by [Lizzy Borden] on [Appointment With Death] -> ../SongsSubset/data/A/X/E/TRAXEML128F934BC04.song
+5	Song[Up All Night (Acoustic Live Album Version)] by [Unwritten Law] on [from Music In High Places] -> ../SongsSubset/data/A/Z/N/TRAZNQI12903C9F8FC.song
+5	Song[Fade Away] by [Cama] on [A Handful Of Songs] -> ../SongsSubset/data/A/X/C/TRAXCVG12903CF523C.song
+5	Song[Flame It Up] by [DJ Rashad] on [Juke Trax Online Vol. 3] -> ../SongsSubset/data/B/B/A/TRBBAAZ12903CAEA6D.song
+5	Song[Final Straw (Album Version)] by [R.E.M.] on [Around The Sun] -> ../SongsSubset/data/B/A/U/TRBAUXT128F147DF5A.song
+5	Song[God Of Love (Album Version)] by [Bad Brains] on [God Of Love] -> ../SongsSubset/data/B/A/I/TRBAIAU128E078D934.song
+5	Song[Momento De Amor] by [Pery Ribeiro] on [Tributo A Taiguara] -> ../SongsSubset/data/A/Y/F/TRAYFIV128F429E381.song
+5	Song[Suti-suti] by [M.A. Numminen] on [Gommin ja Pommin metsäkarnevaali] -> ../SongsSubset/data/B/A/F/TRBAFQZ128F4282B20.song
+5	Song[Teasin' Brown] by [North Mississippi Allstars] on [Electric Blue Watermelon] -> ../SongsSubset/data/A/X/K/TRAXKLH128F4289138.song
+5	Song[Te extraño porque te extraño] by [Carlos Baute] on [De mi puño y letra - Edicion Coleccionista] -> ../SongsSubset/data/A/Y/F/TRAYFXH128F92E20F8.song
+5	Song[Vida De Mi Vida] by [Banda La Bocana] on [Tropical - Exitazos Eterno] -> ../SongsSubset/data/B/A/P/TRBAPCS128F422C38B.song
+5	Song[Jack's Lament] by [The All American Rejects] on [Nightmare Revisited] -> ../SongsSubset/data/A/N/N/TRANNCZ128F92F1D22.song
+5	Song[Do You Know? (The Ping Pong Song)] by [Enrique Iglesias] on [Big Summer Tunes] -> ../SongsSubset/data/A/L/I/TRALIZA128F4233586.song
+5	Song[He's Leading The Way] by [The Perrys] on [Crossings] -> ../SongsSubset/data/A/J/R/TRAJRZL128F42699D5.song
+5	Song[Lachen und weinen] by [2raumwohnung] on [Kommt zusammen] -> ../SongsSubset/data/A/L/P/TRALPQV128F424F989.song
+5	Song[Emit Remmus (Album Version)] by [Red Hot Chili Peppers] on [Californication] -> ../SongsSubset/data/A/K/H/TRAKHXX128E07877EB.song
+5	Song[Dance_ Dance] by [Fall Out Boy] on [**** Live In Phoenix] -> ../SongsSubset/data/A/K/B/TRAKBYP128F42385F0.song
+5	Song[Fat Tuesday] by [Chris Standring] on [Groovalicious] -> ../SongsSubset/data/A/J/J/TRAJJCI12903CE53D7.song
+5	Song[Violence] by [Juelz Santana / Bezel] on [What The Game's Been Missing!] -> ../SongsSubset/data/A/J/K/TRAJKTV128F1453E3C.song
+5	Song[Koronoko] by [Rokia Traoré] on [Tchamantché] -> ../SongsSubset/data/A/J/A/TRAJAXB128F92C65CD.song
+5	Song[Prick For President] by [Yuppie Pricks] on [Broker's Banquet] -> ../SongsSubset/data/A/M/Q/TRAMQSY128F4286540.song
+5	Song[Basking Under a Blacksun Dawning] by [Morgion] on [Morgion] -> ../SongsSubset/data/A/J/H/TRAJHDR128F92FA863.song
+5	Song[Ring The Alarm] by [Beyoncé] on [Ring The Alarm (Urban Mixes)] -> ../SongsSubset/data/A/J/V/TRAJVHI128F930EFAF.song
+5	Song[Nostradamus] by [Eduardo Dusek] on [Olhar Brasileiro] -> ../SongsSubset/data/A/M/N/TRAMNVF128F92DE562.song
+5	Song[Ihmisen Lento] by [Indica] on [Ikuinen Virta] -> ../SongsSubset/data/A/M/N/TRAMNJB128F92EFDC7.song
+5	Song[Vos No Confiaste] by [2 Minutos] on [Novedades] -> ../SongsSubset/data/A/J/M/TRAJMQE128F9322DDD.song
+5	Song[Shoulda Did] by [Rated R] on [Da Ghetto Psychic] -> ../SongsSubset/data/A/J/T/TRAJTCL128F1460CDA.song
+5	Song[Death Or Jail] by [Sick Of It All] on [Based On A True Story] -> ../SongsSubset/data/A/K/Y/TRAKYCT12903CBBE17.song
+5	Song[Put Him Out] by [Ms. Dynamite / Bounty Killer] on [Put Him Out] -> ../SongsSubset/data/A/M/E/TRAMEEO128F1462296.song
+5	Song[Naked Albino] by [Bare Jr.] on [Boo-Tay] -> ../SongsSubset/data/A/A/M/TRAAMXP128F4264F6A.song
+5	Song[A La Memoria Del Muerto] by [Fruko Y Sus Tesos] on [Soy Como Soy] -> ../SongsSubset/data/A/B/M/TRABMDN128F4222B61.song
+5	Song[U Don't Hear Me Tho' (Street Mix)] by [Rodney O & Joe Cooley] on [Greatest Hits] -> ../SongsSubset/data/A/B/L/TRABLND12903CA653B.song
+5	Song[What You Deserve (Album Version)] by [Ill Nino] on [The Best Of Ill Niño] -> ../SongsSubset/data/A/B/U/TRABUUH128F4241346.song
+5	Song[Setanta matins] by [Elena] on [Un cafe_ setanta matins] -> ../SongsSubset/data/A/A/C/TRAACCG128F92E8A55.song
+5	Song[Infidel] by [Delta 9] on [No Regrets] -> ../SongsSubset/data/A/A/U/TRAAUDN128F933F20D.song
+5	Song[Let's Get It Started] by [Black Eyed Peas] on [Total Workout Running 102 - 135 - 84bpm Ideal For Jogging_ Running_ Treadmill & General Fitness] -> ../SongsSubset/data/A/A/G/TRAAGCZ128F93210FD.song
+5	Song[Gimme Gimme Song] by [Mickey And The Students] on [Some People] -> ../SongsSubset/data/A/D/V/TRADVJK12903CC7D31.song
+5	Song[Walk With Me] by [Angélla Christie] on [Eternity] -> ../SongsSubset/data/A/C/M/TRACMKA12903CB078D.song
+5	Song[Walk Away] by [Tantric] on [Mind Control] -> ../SongsSubset/data/A/A/T/TRAATGM12903C9CD7C.song
+5	Song[President Johnson] by [Citizen Kaned] on [Tip World Singles 2000] -> ../SongsSubset/data/A/A/H/TRAAHPZ12903CB4643.song
+5	Song[Drummer Boy] by [The Clark Sisters] on [Family Christmas] -> ../SongsSubset/data/A/H/U/TRAHUAG12903D07658.song
+5	Song[For You] by [Mr. Lif] on [Mo' Mega] -> ../SongsSubset/data/A/G/V/TRAGVCD128F42A4C01.song
+5	Song[Pariah] by [Cursed] on [One] -> ../SongsSubset/data/A/F/H/TRAFHBM128F92EE7B0.song
+5	Song[I See War] by [IYOV] on [Allt Är Skit_ Jämt] -> ../SongsSubset/data/A/I/M/TRAIMJK12903CE26DA.song
+5	Song[ICU] by [Saigon Kick] on [Live Around The World 1991 - 1996] -> ../SongsSubset/data/A/I/G/TRAIGWQ128F4270EB9.song
+5	Song[In A Dead World (Album Version)] by [Killswitch Engage] on [Killswitch Engage [Special Edition]] -> ../SongsSubset/data/A/I/G/TRAIGNN128F9326AB4.song
+5	Song[Man  On The Side] by [Bill Perry] on [Raw Deal] -> ../SongsSubset/data/A/I/J/TRAIJQV128F421B159.song
+5	Song[Boring] by [Lifer] on [Lifer] -> ../SongsSubset/data/A/F/Z/TRAFZHK128F145E86B.song
+5	Song[Pitch In OnA Party] by [DJ Quik] on [Born And Raised In Compton: The Greatest Hits] -> ../SongsSubset/data/A/F/J/TRAFJVH128F42BC25E.song
+5	Song[Dancer (2007 Digital Remaster)] by [Babe Ruth] on [Babe Ruth] -> ../SongsSubset/data/A/G/A/TRAGAVB128F932585E.song
+5	Song[Love Can Break Your Heart (LP Version)] by [Michael McDonald] on [Take It To Heart] -> ../SongsSubset/data/A/E/M/TRAEMZO12903CC525F.song
+5	Song[Bright Lights_ Big City] by [Jim Jones / Max B] on [Jim Jones / Hustler's P.O.M.E. (Product Of My Environment)] -> ../SongsSubset/data/A/I/Q/TRAIQGR128F4287DF7.song
+5	Song[Bahama Lullaby] by [Blind Blake & The Royal Victoria Hotel Calypsos] on [Bahamian Songs] -> ../SongsSubset/data/A/F/I/TRAFIKF128F92FD338.song
+5	Song[Ai De Jie Shi] by [Leo Ku] on [Steel Box Collection - Leo Ku] -> ../SongsSubset/data/A/H/Z/TRAHZSF128F9324CED.song
+5	Song[It's So Hard To Stumble (When You're Down On Your Knees)] by [Lou Reid & Carolina] on [My Own Set Of Rules] -> ../SongsSubset/data/A/H/Z/TRAHZNL128F9312B48.song
+5	Song[Gotta Man] by [Frankee] on [The Good_ The Bad_ The Ugly] -> ../SongsSubset/data/A/E/X/TRAEXTM128E07811E1.song
+5	Song[Pieni Maailma] by [Mandi] on [Pieni Maailma] -> ../SongsSubset/data/A/E/W/TRAEWGT128F930A556.song
+5	Song[U Never Nu How Good U Had It] by [Lisa Lisa & Cult Jam (featuring Full Force)] on [Super Hits] -> ../SongsSubset/data/A/H/X/TRAHXKA128F426E903.song
+5	Song[Don't Mess With Me (2006 Digital Remaster)] by [Whitesnake] on [Trouble] -> ../SongsSubset/data/A/G/N/TRAGNUI128F1471068.song
+5	Song[You And Your Heart] by [Jack Johnson] on [You And Your Heart] -> ../SongsSubset/data/A/E/U/TRAEUIW12903D018F0.song
+5	Song[Celebration] by [Vivian] on [Nordic Hotel] -> ../SongsSubset/data/A/H/V/TRAHVDM12903CD4C4C.song
+5	Song[Time Is On My Side] by [The Rolling Stones] on [12 x 5] -> ../SongsSubset/data/A/E/R/TRAERPT128F931103E.song
+5	Song[Show Me] by [Justin] on [Finally] -> ../SongsSubset/data/A/O/A/TRAOAYQ12903CFE05C.song
+5	Song[Dancing With Ghosts] by [Epitaph] on [Dancing With Ghosts] -> ../SongsSubset/data/A/N/V/TRANVDC128F9312982.song
+5	Song[Meat Parade] by [Lockwood] on [Lockwood] -> ../SongsSubset/data/A/N/Z/TRANZJQ128F427C58A.song
+5	Song[Make This Love Last] by [Wendy Moten] on [Wendy Moten] -> ../SongsSubset/data/A/Q/K/TRAQKVM128F145BB26.song
+5	Song[Guardians Of The Forest] by [Wolfchant] on [A Pagan Storm] -> ../SongsSubset/data/A/P/V/TRAPVDC128F422C711.song
+5	Song[Still Caah Nicer Dan Yard] by [Shaggy] on [Birch - Gangsta Rock Riddim] -> ../SongsSubset/data/A/O/J/TRAOJGP12903CBE5B3.song
+5	Song[Breathe Easy] by [Williamson] on [The Trashcan Electric E.P.] -> ../SongsSubset/data/A/P/N/TRAPNZR128EF3583E8.song
+5	Song[Motownphilly] by [Boyz II Men] on [Cooleyhighharmony - Expanded Edition] -> ../SongsSubset/data/A/P/L/TRAPLBK128F930FDB4.song
+5	Song[Tenemos Amigos] by [Dora The Explorer] on [Dora The Explorer] -> ../SongsSubset/data/A/O/P/TRAOPAT128F92C970F.song
+5	Song[Always] by [RyanDan] on [RyanDan] -> ../SongsSubset/data/A/Q/F/TRAQFXU128F424DF7C.song
+5	Song[Lost Again] by [Bob Margolin] on [Hold Me To It] -> ../SongsSubset/data/A/P/G/TRAPGNA128F421A89E.song
+5	Song[The Deceived] by [Trivium] on [Ember To Inferno] -> ../SongsSubset/data/A/P/C/TRAPCHT128F4239830.song
+5	Song[Sachmagehtsnoch] by [Dendemann] on [Die Pfütze des Eisbergs] -> ../SongsSubset/data/B/G/K/TRBGKTM128F9315B5E.song
+5	Song[I'll Be Around] by [Frank Ifield] on [Remembering The Sixties] -> ../SongsSubset/data/B/G/S/TRBGSCJ128F92F6D47.song
+5	Song[4 Minutes [Featuring Justin Timberlake and Timbaland] [Bob Sinclar Space Funk Remix]] by [Madonna] on [4 Minutes - The Remixes] -> ../SongsSubset/data/B/H/O/TRBHOYO12903C9C917.song
+5	Song[Una dolce melodia] by [Franco_ Valeriana] on [Io e te per sempre] -> ../SongsSubset/data/B/G/L/TRBGLNE12903CEFC0E.song
+5	Song[(The Best Part Of) Breakin' Up] by [The Ronettes] on [Phil Spector's Wall Of Sound Retrospective Phillies Sound 1961-1996] -> ../SongsSubset/data/B/H/Z/TRBHZNF128F14989FE.song
+5	Song[Noche De Paz] by [SUMO] on [Obras Cumbres] -> ../SongsSubset/data/B/G/N/TRBGNAF128F9339532.song
+5	Song[Tainted Love feat. Tatz] by [NG3] on [As Nasty As we Wanna Be] -> ../SongsSubset/data/B/H/K/TRBHKRZ128EF33DB4A.song
+5	Song[Karma] by [Alicia Keys] on [The Diary Of Alicia Keys] -> ../SongsSubset/data/B/G/J/TRBGJDW128F4292EDB.song
+5	Song[The Question Is (Album Version)] by [The Winans] on [Heart And Soul] -> ../SongsSubset/data/B/D/R/TRBDRFM128F9301DAD.song
+5	Song[Here And Beyond] by [Behemoth] on [Zos Kia Cultus] -> ../SongsSubset/data/B/B/T/TRBBTUD128F42A10A3.song
+5	Song[Mientras me quieras] by [Tranzas] on [Por Siempre] -> ../SongsSubset/data/B/E/H/TRBEHBS128F4233471.song
+5	Song[Sam und Bo_ N.E.O.] by [Samy Deluxe] on [So Deluxe So Glorious] -> ../SongsSubset/data/B/D/L/TRBDLDS128F429C171.song
+5	Song[Red Gun] by [The Forms] on [The Forms] -> ../SongsSubset/data/B/F/K/TRBFKOK128F42662E6.song
+5	Song[Machuca] by [Cabas] on [Contacto] -> ../SongsSubset/data/B/D/Q/TRBDQVN128F425CF6D.song
+5	Song[Volvere] by [OV7] on [CD00] -> ../SongsSubset/data/B/F/G/TRBFGFF12903CF4183.song
+5	Song[C.C. Ryder] by [Roy Buchanan] on [20th Century Masters: The Millennium Collection: Best Of Roy Buchanan] -> ../SongsSubset/data/B/D/F/TRBDFKG128F4263AAF.song
+5	Song[Well Oh Well] by [Tiny Bradshaw] on [The History of Rhythm and Blues - Disc 3] -> ../SongsSubset/data/B/C/H/TRBCHRA128F9357174.song
+5	Song[Kinky Woman] by [Jimmie Vaughan] on [Out There] -> ../SongsSubset/data/B/E/Q/TRBEQNB128F9327242.song
+5	Song[Blessed Assurance (I Love To Tell The Story Album Version)] by [Mark Lowry] on [I Love To Tell The Story] -> ../SongsSubset/data/B/B/J/TRBBJJI128F4299711.song
+5	Song[Hey Joe] by [Carl Smith] on [Replay: Carl Smith] -> ../SongsSubset/data/A/T/N/TRATNHC12903CFA949.song
+5	Song[Through the Looking Glass (jazz)] by [Chris Standring] on [Soul Express] -> ../SongsSubset/data/A/U/L/TRAULAE128F92FD865.song
+5	Song[Big Bottom] by [Spinal Tap] on [Back From the Dead] -> ../SongsSubset/data/A/S/V/TRASVXM128F934792B.song
+5	Song[Don Toribio] by [Varios Artistas de Rumba] on [20 Mejores Rumbas Vol.1] -> ../SongsSubset/data/A/W/B/TRAWBZE12903CA6CFA.song
+5	Song[You've Got A Chance] by [The Jackson Southernaires] on [Hear Our Prayers O Lord] -> ../SongsSubset/data/A/V/T/TRAVTXM12903CEFD4C.song
+5	Song[Dos Arbolitos (Ranchera)] by [Gloria Lasso] on [Vintage Pop Nº 47 - EPs Collectors "Lisboa Antiga] -> ../SongsSubset/data/A/W/F/TRAWFIQ12903CEF3C2.song
+6	Song[Madame Irma] by [Théophil] on [Des vies] -> ../SongsSubset/data/A/W/F/TRAWFKP12903D0066A.song
+6	Song[He'll Deliver Me] by [Janet Paschal] on [Songs For A Lifetime] -> ../SongsSubset/data/A/T/B/TRATBNY128F1485A4A.song
+6	Song[The Attitude Song] by [Steve Vai] on [Live In London] -> ../SongsSubset/data/A/S/Q/TRASQHA128F4280A1D.song
+6	Song[Whatever It Took] by [X-Raided] on [The Unforgiven_ V.1: ...In The Beginning] -> ../SongsSubset/data/A/V/V/TRAVVEB128F934DD34.song
+6	Song[Blink Of An Eye (Alternative)] by [Berlin] on [Voyeur] -> ../SongsSubset/data/A/V/Z/TRAVZWX128F92EC110.song
+6	Song[Il rosso] by [Word] on [Matumago X Press] -> ../SongsSubset/data/A/T/W/TRATWTI128F933B617.song
+6	Song[She Don't Belong To You] by [Sue Foley] on [Ten Days In November] -> ../SongsSubset/data/A/U/D/TRAUDHC12903CE6B13.song
+6	Song[Schwarzarbeit] by [Geier Sturzflug] on [Mahlzeit!] -> ../SongsSubset/data/A/S/P/TRASPBJ128F14A9F56.song
+6	Song[Seven (Album)] by [Cinder] on [House Full Of No Trust] -> ../SongsSubset/data/A/S/P/TRASPDG128F1489FAF.song
+6	Song[Someday] by [Mariah Carey] on [Mariah Carey Mtv Unplugged Ep] -> ../SongsSubset/data/A/V/A/TRAVANT128F92E3F71.song
+6	Song[The One] by [Miguel Migs] on [Colorful You] -> ../SongsSubset/data/A/S/V/TRASVHD128F1465963.song
+6	Song[Ni De Ti Wen] by [Vic Chou] on [Vic Chou 2001 - 2009 The Best Collection] -> ../SongsSubset/data/A/V/K/TRAVKQF128F92E2FC1.song
+6	Song[Change Clothes] by [Jay-Z] on [R&B Love Collection Summer 2009] -> ../SongsSubset/data/A/U/W/TRAUWRW128F9358C69.song
+6	Song[Que Arribi L'Estiu] by [Dijous Paella] on [Dijous Paella] -> ../SongsSubset/data/A/S/P/TRASPQA128F4273D22.song
+6	Song[Lingan] by [Atman] on [97 | 07] -> ../SongsSubset/data/A/V/M/TRAVMOE128F9336555.song
+6	Song[Close Your Eyes] by [Atomic Rooster] on [Made In England] -> ../SongsSubset/data/A/V/M/TRAVMQE12903D08335.song
+6	Song[Into The Groove] by [Madonna] on [Celebration] -> ../SongsSubset/data/A/V/V/TRAVVZW12903CCEEE7.song
+6	Song[Hablando A Un Cristal] by [Café Quijano] on [La Extraordinaria Paradoja Del Sonido Quijano] -> ../SongsSubset/data/A/V/G/TRAVGFT128F424278B.song
+6	Song[Die Art von Mann] by [1. Futurologischer Congress] on [Patchwork] -> ../SongsSubset/data/A/I/N/TRAINKW128F14AFD82.song
+6	Song[Lioraras] by [Los Ninos De Sara] on [Espana tiene sabor] -> ../SongsSubset/data/A/I/M/TRAIMXZ128F92E162F.song
+6	Song[Ya Lil' Crumbsnatchers (LP Version)] by [Del Tha Funkee Homosapien] on [I Wish My Brother George Was Here] -> ../SongsSubset/data/A/F/M/TRAFMHY128F92FDDBF.song
+6	Song[It Was Only A Heart] by [Skeeter Davis] on [Let Me Get Close To You (With Bonus Tracks)] -> ../SongsSubset/data/A/F/K/TRAFKDF12903D09556.song
+6	Song[Gaviota Traidora] by [Flor Silvestre] on [Flor Silvestre] -> ../SongsSubset/data/A/H/C/TRAHCNT128EF360EFD.song
+6	Song[Hold me] by [Les Hou-Lops] on [Collection de chansons rares des groupes des années 60 Volume 1] -> ../SongsSubset/data/A/H/B/TRAHBMV12903D0553D.song
+6	Song[Wild Side] by [Mötley Crüe] on [Music To Crash Your Car To] -> ../SongsSubset/data/A/G/U/TRAGUJK128F42A75C3.song
+6	Song[Urbania] by [Statues] on [Aux] -> ../SongsSubset/data/A/H/U/TRAHUZW128F92FB27F.song
+6	Song[Soopman Luva 6 1/2] by [Redman / Hurricane G / Melanie Rutherford] on [Red Gone Wild] -> ../SongsSubset/data/A/G/P/TRAGPFL128EF342E1D.song
+6	Song[Hold On (LP Version)] by [Michelle Tumes] on [Streams] -> ../SongsSubset/data/A/G/O/TRAGOUB128F42369BA.song
+6	Song[There Will Be Blood Tonight] by [Lizzy Borden] on [Deal With The Devil] -> ../SongsSubset/data/A/H/K/TRAHKMS128F934B09E.song
+6	Song[Sex Will Sell] by [Faking David] on [Freedom Of Expression] -> ../SongsSubset/data/A/H/X/TRAHXRA128F9339E18.song
+6	Song[da da Diamonds] by [Soul Ballet] on [LAViSH] -> ../SongsSubset/data/A/I/W/TRAIWSR128F42222BC.song
+6	Song[This Time] by [David Saylor] on [We Are One] -> ../SongsSubset/data/A/G/I/TRAGIGX12903CF3AD4.song
+6	Song[Chasing Cars] by [Snow Patrol] on [Shut Your Eyes] -> ../SongsSubset/data/A/E/Z/TRAEZLQ128F427F954.song
+6	Song[Just A Phase] by [Incubus] on [Live in Malaysia 2004] -> ../SongsSubset/data/A/I/H/TRAIHPX128F428081B.song
+6	Song[Let It Bleed] by [Wild Horses] on [Rolling Stones Instrumental Renditions] -> ../SongsSubset/data/A/J/H/TRAJHEN128F92CC43E.song
+6	Song[Run The Show featuring Don Omar [en Espanol]] by [Kat DeLuna] on [Run The Show featuring Don Omar [en Espanol]] -> ../SongsSubset/data/A/K/L/TRAKLQJ128F42607F9.song
+6	Song[Sentimento (Asteri_ Asteraki)] by [Dakis] on [Moments] -> ../SongsSubset/data/A/I/Z/TRAIZHM128F427C74D.song
+6	Song[ABC (The Alphabet Song)] by [Dora The Explorer] on [Dora The Explorer] -> ../SongsSubset/data/A/L/K/TRALKVM128F92C9738.song
+6	Song[Kill the Poor] by [Dead Kennedys] on [Punk of Anagram] -> ../SongsSubset/data/A/J/N/TRAJNIL12903D15541.song
+6	Song[Christe Eleison (Christ Have Mercy) (Center Of My Universe Album Version)] by [Michelle Tumes] on [Center Of My Universe] -> ../SongsSubset/data/A/J/C/TRAJCIR128F146ABA7.song
+6	Song[I Don't Want Your Love] by [Dealership] on [Action / Adventure] -> ../SongsSubset/data/A/M/O/TRAMOLS128F92F99E3.song
+6	Song[Way Way Back] by [Kool Moe Dee] on [How Ya Like Me Now] -> ../SongsSubset/data/A/N/H/TRANHQB128F92E1B21.song
+6	Song[Please Me (24-Bit Digitally Remastered 02)] by [Grand Funk] on [Shinin' On (2002 Digital Remaster)] -> ../SongsSubset/data/A/K/Z/TRAKZMB128F427B44F.song
+6	Song[Ballo] by [Mathey] on [Iyo] -> ../SongsSubset/data/A/L/L/TRALLEY128F9315EDA.song
+6	Song[All The Difference In The World] by [Brent Lamb] on [Right Now It's Raining] -> ../SongsSubset/data/A/J/A/TRAJATQ128F92F6DC2.song
+6	Song[Farther Along (Favorite Hymns Sung By The Homecoming Friends Album Version)] by [Bill & Gloria Gaither] on [Favorite Hymns From The Homecoming Series] -> ../SongsSubset/data/A/N/K/TRANKPF128F429FF68.song
+6	Song[Father John Macleod's Jig] by [Natalie MacMaster] on [In My Hands] -> ../SongsSubset/data/A/M/U/TRAMUOU12903CD599E.song
+6	Song[All Your Love] by [John Mayall & The Bluesbreakers] on [Bluesbreakers With Eric Clapton - Deluxe Edition] -> ../SongsSubset/data/A/L/K/TRALKHT128F148833B.song
+6	Song[Aceite] by [Pantanito] on [Pantanito] -> ../SongsSubset/data/A/Y/S/TRAYSDT128F42A5B9B.song
+6	Song[Everything You Do [You're Sexing Me] [Duet with Kip Winger] (Album Version)] by [Fiona] on [Heart Like A Gun] -> ../SongsSubset/data/A/X/Z/TRAXZVZ128F93442AB.song
+6	Song[Wings Of Love] by [Zagar feat. Underground Divas] on [Wings Of Love Remixes] -> ../SongsSubset/data/B/B/D/TRBBDJI12903CF10AB.song
+6	Song[Gone] by [Kanye West / Consequence / Cam'Ron] on [Late Registration] -> ../SongsSubset/data/A/X/D/TRAXDML128E079159C.song
+6	Song[This Love] by [Maroon 5] on [Call And Response: The Remix Album] -> ../SongsSubset/data/A/Z/O/TRAZOSB128F9302A07.song
+6	Song[I Get My Paper] by [Cassidy featuring Swizz Beatz] on [B.A.R.S. The Barry Adrian Reese Story] -> ../SongsSubset/data/B/A/S/TRBASKE128F92C4661.song
+6	Song[On The Fast Track] by [Gerald Veasley] on [At The Jazz Base] -> ../SongsSubset/data/A/X/E/TRAXEWH12903CF66CB.song
+6	Song[Domingo Valdovinos] by [Los Originales De San Juan] on [La Caspa Del Diablo-Corridos A Toda Ley] -> ../SongsSubset/data/A/Y/S/TRAYSJV128F42733CE.song
+6	Song[Stick Out] by [Melt Banana] on [Speak Squeak Creak] -> ../SongsSubset/data/B/A/O/TRBAOUJ128F425B6DD.song
+6	Song[Let's Stay Together (Together Forever)] by [RUN-DMC Featuring Jagged Edge] on [Crown Royal] -> ../SongsSubset/data/A/Y/O/TRAYOQF128F930FF35.song
+6	Song[Never Gonna Give You Up] by [Rick Astley] on [Big Tunes - Back 2 The 80s] -> ../SongsSubset/data/A/X/L/TRAXLZU12903D05F94.song
+6	Song[Nude With Boots] by [Melvins] on [Nude With Boots] -> ../SongsSubset/data/B/A/I/TRBAIDT128F92CC7ED.song
+6	Song[Think Back] by [Galactic] on [From the Corner To the Block] -> ../SongsSubset/data/A/X/S/TRAXSUN128F426D36B.song
+6	Song[Vos Sabes] by [Los Fabulosos Cadillacs] on [La Marcha Del Golazo Solitario] -> ../SongsSubset/data/A/Z/B/TRAZBYT128F93351CF.song
+6	Song[Declaration (This Is It!)] by [Kirk Franklin] on [The Fight Of My Life] -> ../SongsSubset/data/A/Y/C/TRAYCVB128F92EB7B0.song
+6	Song[Brokÿn Nëedle] by [Ultimate Fakebook] on [This Will Be Laughing Week] -> ../SongsSubset/data/A/C/W/TRACWFA128F4265BDF.song
+6	Song[Heart-Shaped Box] by [Nirvana] on [From The Muddy Banks Of The Wishkah] -> ../SongsSubset/data/A/D/P/TRADPIA128E078EE1B.song
+6	Song[The Ballad Of Sleeping Beauty] by [Sophie B. Hawkins] on [Whaler] -> ../SongsSubset/data/A/B/C/TRABCIX128F4265903.song
+6	Song[Rotting Fumes] by [Hemdale] on [Rad Jackson] -> ../SongsSubset/data/A/C/B/TRACBSI128F428CC57.song
+6	Song[56 Days] by [Pride Tiger] on [The Lucky Ones] -> ../SongsSubset/data/A/C/N/TRACNVF128F428EA87.song
+6	Song[Sense And Trick] by [Xmilk] on [Scarcity] -> ../SongsSubset/data/A/A/K/TRAAKVA128F934E69E.song
+6	Song[Damien] by [DMX] on [It's Dark And Hell Is Hot] -> ../SongsSubset/data/A/C/F/TRACFAP128E07862C1.song
+6	Song[Make Me Over] by [Vickie Winans] on [Classic Gold: Best of All] -> ../SongsSubset/data/A/A/E/TRAAERU128F930674F.song
+6	Song[Señora (bonus track)] by [Francisco Céspedes] on [Vida loca] -> ../SongsSubset/data/A/C/S/TRACSTF128F4238A87.song
+6	Song[Der Wind Hat Mir Ein Lied Erzählt (from "La Habanera")] by [Quadro Nuevo] on [CinéPassion] -> ../SongsSubset/data/A/C/S/TRACSVW128F14ACB60.song
+6	Song[Johnny Can't Dance] by [Clifton Chenier] on [Live! At Grant Street] -> ../SongsSubset/data/A/D/R/TRADRJM128F428DDB2.song
+6	Song[Insatiable (Instrumental Version)] by [Clp] on [Superinstrumental] -> ../SongsSubset/data/A/A/A/TRAAAVG12903CFA543.song
+6	Song[As The Terror Dances Your Way] by [The Capitol Years] on [Dance Away The Terror] -> ../SongsSubset/data/B/C/W/TRBCWKZ128F42439D3.song
+6	Song[Sound Clash (featuring Beenie Man) - FattaSly Extended Mix] by [Dream Warriors] on [The Master Plan] -> ../SongsSubset/data/B/B/S/TRBBSBF128F14687A4.song
+6	Song[I Don't Wanna be a War Hero] by [Anti-Flag] on [Live at the Fireside Bowl] -> ../SongsSubset/data/B/F/R/TRBFRMV128F42214A6.song
+6	Song[Castillos Y Sueños] by [Las Niñas] on [Savia Negra] -> ../SongsSubset/data/B/E/A/TRBEAOU128E0798350.song
+6	Song[Ma vie n'est pas la tienne (album)] by [Najoua Belyzel] on [Au Féminin] -> ../SongsSubset/data/B/G/A/TRBGACK12903CD5CF5.song
+6	Song[Enervé] by [Olivia Ruiz] on [J'Aime Pas L'Amour] -> ../SongsSubset/data/B/C/K/TRBCKRF128F9320920.song
+6	Song[Limbo Rock] by [Dora The Explorer] on [Dora The Explorer Dance Fiesta!] -> ../SongsSubset/data/B/C/F/TRBCFUS128F92C90DD.song
+6	Song[Don't Take Your Love Away From Me (Album Version)] by [Randy Travis] on [Full Circle] -> ../SongsSubset/data/B/E/I/TRBEIAM12903CF4476.song
+6	Song[Performance (Remastered)] by [Happy Mondays] on [Bummed] -> ../SongsSubset/data/B/C/Y/TRBCYEC128F423A352.song
+6	Song[Lero Do Bolero] by [Nana Caymmi] on [Desejo] -> ../SongsSubset/data/B/D/K/TRBDKQX12903CAE132.song
+6	Song[Let Him Fly] by [Patty Griffin] on [Living With Ghosts] -> ../SongsSubset/data/B/E/B/TRBEBEZ128E0792F08.song
+6	Song[Ask You for a Dance] by [Freddie McGregor] on [Strictly Lovers Rock Vol. 3] -> ../SongsSubset/data/A/O/Z/TRAOZSQ12903CE29D0.song
+6	Song[Rant Kanaria] by [Jope Ruonansuu] on [Kunnioittaen-Yhden miehen tribuutti] -> ../SongsSubset/data/A/R/Y/TRARYDZ128F9355209.song
+6	Song[Hiroshima] by [Utopia] on [RA] -> ../SongsSubset/data/A/P/W/TRAPWXY128F14B0901.song
+6	Song[Crawling (Album Version)] by [Linkin Park] on [Hybrid Theory] -> ../SongsSubset/data/A/R/U/TRARUTP128E0797FC7.song
+6	Song[Grow Up_ Grow Old] by [Debbie Davies] on [Love The Game] -> ../SongsSubset/data/A/R/N/TRARNKQ12903CE7299.song
+6	Song[Borrare Tu Nombre] by [Mazz] on [Esto Es Lo Nuestro Vol.2] -> ../SongsSubset/data/A/O/A/TRAOAPT128F426041F.song
+6	Song[Screamin' & Hollerin' The Blues] by [Alvin Youngblood Hart] on [Screamin' and Hollerin' The Blues] -> ../SongsSubset/data/A/R/N/TRARNZV128F930CDFB.song
+6	Song[Goons Lurkin (Instrumental Album Version)] by [Plies] on [The Real Testament] -> ../SongsSubset/data/A/R/E/TRAREZN128F424E0FA.song
+6	Song[Greatest X] by [Janet Jackson] on [Discipline] -> ../SongsSubset/data/A/O/U/TRAOUTM128F4267580.song
+6	Song[My Life Is Totally Boring Without You] by [Cracker] on [Gentleman's Blues] -> ../SongsSubset/data/A/R/W/TRARWLR128F4256B07.song
+6	Song[Something 'Bout Love] by [Lisa Lisa & Cult Jam] on [Super Hits] -> ../SongsSubset/data/A/Q/R/TRAQRTQ128F42707EA.song
+6	Song[Between Love & Hate] by [The Strokes] on [Room On Fire] -> ../SongsSubset/data/A/Q/R/TRAQRHA128F93001EB.song
+6	Song[One of Us] by [Bottom Of The Hudson] on [Holiday Machine] -> ../SongsSubset/data/A/O/D/TRAODAO12903CB24B8.song
+6	Song[I'm Mad] by [EPMD] on [Business As Usual] -> ../SongsSubset/data/B/H/O/TRBHORY128F148D422.song
+6	Song[(eskomolto)] by [Pagan Wanderer Lu] on [Perfection R.I.P.] -> ../SongsSubset/data/B/H/R/TRBHRNN128F92DFCE7.song
+6	Song[Little Sunflower] by [Alexander Zonjic] on [Doin' The D] -> ../SongsSubset/data/B/G/Q/TRBGQIX128F934E7F4.song
+6	Song[L'Amour Existe Encore] by [Lara Fabian] on [Toutes Les Femmes En Moi] -> ../SongsSubset/data/B/G/L/TRBGLAD128F9343692.song
+6	Song[Medicine] by [Bobaflex] on [Apologize For Nothing] -> ../SongsSubset/data/B/G/K/TRBGKMB128F146E125.song
+6	Song[The Road Goes On Forever] by [The Highwaymen] on [The Road Goes On Forever (10th Anniversary Edition)] -> ../SongsSubset/data/B/G/K/TRBGKJU128E079851F.song
+6	Song[Give U My Heart] by [Toni Braxton Featuring Babyface] on [Ultimate Toni Braxton] -> ../SongsSubset/data/B/I/H/TRBIHKT128F4290554.song
+6	Song[Because Of You (Album Version)] by [Unwritten Law] on [Here's To The Mourning] -> ../SongsSubset/data/B/H/Y/TRBHYWQ128F4231A3E.song
+6	Song[Junk] by [Photek] on [Solaris] -> ../SongsSubset/data/B/H/D/TRBHDLD128F146A756.song
+6	Song[L'idole des femmes] by [Pierre Perret] on [Le Monde de Pierrot] -> ../SongsSubset/data/B/G/M/TRBGMAZ12903CC3707.song
+6	Song[Rülpsen Sie Eine Hauptstadt] by [Tresenlesen] on [Günther] -> ../SongsSubset/data/B/G/D/TRBGDCN12903CB8D6C.song
+7	Song[If This Is The End] by [Jeff Scott Soto] on [Lost In The Translation] -> ../SongsSubset/data/B/H/S/TRBHSMF128F4285B9C.song
+7	Song[Praz Him (Broken Album Version)] by [Darwin Hobbs] on [Broken] -> ../SongsSubset/data/B/H/K/TRBHKJC128F1465B49.song
+7	Song[Mykel And Carli] by [Weezer] on [Weezer (Rarities Edition)] -> ../SongsSubset/data/B/G/W/TRBGWWM12903CCE627.song
+7	Song[La Medalla] by [Los Chunguitos] on [La Medalla] -> ../SongsSubset/data/B/G/S/TRBGSMY128F428D6BE.song
+7	Song[Black Connect 3] by [Camp Lo] on [Another Heist] -> ../SongsSubset/data/B/G/M/TRBGMXY128F92FC2B2.song
+7	Song[Lookin' for My Baby] by [Little Milton] on [Best of 40's and 50's_ Vol. 16] -> ../SongsSubset/data/B/G/M/TRBGMWD12903D0F674.song
+7	Song[That's Not the Way Love's Supposed to Be] by [Tora Tora] on [Before & After] -> ../SongsSubset/data/B/I/G/TRBIGXB12903CBFE1F.song
+7	Song[The Storm] by [Lloyd Spiegel] on [Tall Stories] -> ../SongsSubset/data/B/I/H/TRBIHHY128F9306343.song
+7	Song[Sanddollars] by [Why?] on [Sanddollars EP] -> ../SongsSubset/data/A/X/A/TRAXAJF128F4216398.song
+7	Song[Janie's Got A Gun] by [Aerosmith] on [Big Ones] -> ../SongsSubset/data/B/A/R/TRBARHH128E078EDE9.song
+7	Song[I Was Blind But Now I See] by [Greater Vision] on [Faces] -> ../SongsSubset/data/A/Z/U/TRAZUOG128F4259EAA.song
+7	Song[Suffer] by [Hoods] on [Endless Pain] -> ../SongsSubset/data/A/X/O/TRAXOOY128F42280B0.song
+7	Song[Ek Pegh] by [Kuldeep Paras] on [Barsat] -> ../SongsSubset/data/A/X/J/TRAXJSG128EF34EFE8.song
+7	Song[O Raaje] by [Sukhwinder Singh] on [Me Shivajiraje Bhosale Boltoy] -> ../SongsSubset/data/A/X/J/TRAXJEL12903CEBC7E.song
+7	Song[Let It Flow (Feat. Gauran-T and Freaky Frederali)] by [Five Fingers of Funk] on [About Time] -> ../SongsSubset/data/A/Z/R/TRAZRES128F4222850.song
+7	Song[Boda de Oro] by [Orquesta America] on [Danzon-Son] -> ../SongsSubset/data/B/A/Q/TRBAQSH128F4262B12.song
+7	Song[Laser Show (LP Version)] by [Fountains Of Wayne] on [Utopia Parkway] -> ../SongsSubset/data/B/A/I/TRBAIHN128F427D480.song
+7	Song[Fefita] by [Orquesta Aragon] on [The 70th anniversary album] -> ../SongsSubset/data/A/X/C/TRAXCSE128F9339F51.song
+7	Song[A Boy Named Sue] by [Johnny Cash] on [The Best Of The Johnny Cash TV Show] -> ../SongsSubset/data/A/Y/X/TRAYXZF128F425D645.song
+7	Song[You And Only You] by [FFH] on [Still The Cross] -> ../SongsSubset/data/A/Z/J/TRAZJRY128F92E9CD6.song
+7	Song[On The Wing] by [Owl City] on [Ocean Eyes] -> ../SongsSubset/data/B/A/W/TRBAWKB128F931BAEE.song
+7	Song[Open your Eyes] by [Call To Preserve] on [From Isolation] -> ../SongsSubset/data/A/Z/N/TRAZNKG12903CDCF8A.song
+7	Song[Side Steppin'] by [Paul Brown] on [The City] -> ../SongsSubset/data/B/A/M/TRBAMLH128F9324758.song
+7	Song[Ma Zui] by [Candy Lo] on [Upclose Candy Lo] -> ../SongsSubset/data/A/Y/U/TRAYUKJ128F933143E.song
+7	Song[To My Victim's Families] by [Birds of Prey] on [Sulfur and Semen] -> ../SongsSubset/data/A/Z/N/TRAZNMD128F4295DBB.song
+7	Song[Take Me With You] by [Marilyn Scott] on [Take Me With You] -> ../SongsSubset/data/A/X/R/TRAXRAA128F931DFC4.song
+7	Song[Pushing Me Away (Album Version)] by [Linkin Park] on [Hybrid Theory] -> ../SongsSubset/data/A/H/V/TRAHVGN128F1484412.song
+7	Song[El Mensaje Soy Yo] by [Los Fabulosos Cadillacs] on [El Satánico Dr. Cadillac] -> ../SongsSubset/data/A/E/P/TRAEPGH128F9343CD8.song
+7	Song[Kettle Black] by [BLEED THE SKY] on [Murder The Dance] -> ../SongsSubset/data/A/G/T/TRAGTFI12903CA06E7.song
+7	Song[(Wake Up) Time to Die] by [Lizzy Borden] on [The Murderess Metal Road Show] -> ../SongsSubset/data/A/H/H/TRAHHPE128F934AC3B.song
+7	Song[Ask Fi War] by [Bounty Killer] on [Strictly The Best Vol. 15] -> ../SongsSubset/data/A/G/D/TRAGDKW12903D0E755.song
+7	Song[Had To Call (featuring Snoop Dogg & Sleepy Eyed Jones)  (Explicit Chopped & Screwed Version)] by [Twista] on [The Day After] -> ../SongsSubset/data/A/I/P/TRAIPZU128F42418F0.song
+7	Song[Narcotic] by [Methods Of Mayhem / Scott Kirkland] on [Methods Of Mayhem] -> ../SongsSubset/data/A/G/S/TRAGSQU128F145693D.song
+7	Song[The Call] by [Backstreet Boys] on [Black & Blue] -> ../SongsSubset/data/A/I/N/TRAINIF128F426416B.song
+7	Song[Star] by [Krystof] on [Mikrokosmos] -> ../SongsSubset/data/A/H/O/TRAHOSA128EF34B865.song
+7	Song[The Silver Gate] by [Dark Fortress] on [Eidolon] -> ../SongsSubset/data/A/F/E/TRAFEEO12903CFEC87.song
+7	Song[Au Bout De La Marelle] by [Patrick Bruel] on [Juste Avant] -> ../SongsSubset/data/A/G/L/TRAGLFE128F428566B.song
+7	Song[Nos plus belles années] by [Miossec] on [Finistériens] -> ../SongsSubset/data/A/F/L/TRAFLGM128F9358F47.song
+7	Song[I Applaud You  (LP Version)] by [Liquid Gang] on [Sunshine] -> ../SongsSubset/data/A/T/V/TRATVRH12903C9EE09.song
+7	Song[Balanséy lala (featuring Tanya St Val) (feat. Tanya Saint-Val)] by [Dédé Saint-Prix] on [Le meilleur de Dédé Saint-Prix (Double album)] -> ../SongsSubset/data/A/S/U/TRASUFQ128F92F8449.song
+7	Song[Vem_ Vem] by [Quinteto Violado] on [Canta Geraldo Vandré] -> ../SongsSubset/data/A/V/B/TRAVBAS128F424A0BD.song
+7	Song[Guaguanco Raro] by [Richie Ray & Bobby Cruz] on [A life time of Hits.. (Live At Centro De Bellas Artes_ San Juan_ Puerto Rico.)] -> ../SongsSubset/data/A/S/Y/TRASYBF128F4249F28.song
+7	Song[Girl You're So Together] by [Michael Jackson] on [The Motown Years 50] -> ../SongsSubset/data/A/V/X/TRAVXBL128F42BB389.song
+7	Song[Turn It Up] by [Jamie Richards] on [Drive] -> ../SongsSubset/data/A/S/J/TRASJND128F427F993.song
+7	Song[Swinging On A Star] by [Big Dee Irwin] on [Christmas With The Stars] -> ../SongsSubset/data/A/T/P/TRATPJK12903CBF745.song
+7	Song[Stand Up and Praise Him] by [Vickie Winans] on [Vicki Winans] -> ../SongsSubset/data/A/S/V/TRASVWF12903CF0A99.song
+7	Song[The Sound of C (Acapella)] by [Confetti's] on [Greatest Hits] -> ../SongsSubset/data/A/V/O/TRAVOXW12903CA910B.song
+7	Song[Nothin' On You [feat. Bruno Mars] (Album Version)] by [B.o.B] on [B.o.B Presents: The Adventures of Bobby Ray] -> ../SongsSubset/data/A/W/B/TRAWBHE12903CBC4CB.song
+7	Song[This Train] by [The Winans] on [Great Family of Gospel] -> ../SongsSubset/data/A/S/W/TRASWSV128F92F0E7E.song
+7	Song[Ya Basta] by [Jay Pérez] on [Tesoros De Colección] -> ../SongsSubset/data/A/U/K/TRAUKJZ128F9335412.song
+7	Song[Babylon 5] by [The London Theatre Orchestra] on [Sci-Fi Themes II] -> ../SongsSubset/data/A/L/T/TRALTIA128F92D0826.song
+7	Song[Générique - "le gendarme et les gendarmettes] by [Raymond Lefèvre] on [Louis de funès - l'intégrale - bandes originales des gendarmes] -> ../SongsSubset/data/A/K/U/TRAKUUA128F425B3EE.song
+7	Song[Gravedom] by [Goatwhore] on [Eclipse of Ages Into Black] -> ../SongsSubset/data/A/L/D/TRALDSB12903CB4242.song
+7	Song[Knuckle Up] by [Mykill Miers] on [The Trials Of Job] -> ../SongsSubset/data/A/L/K/TRALKTB128F92D84A7.song
+7	Song[Le Pull Over] by [Gloria Lasso] on [Platinum] -> ../SongsSubset/data/A/M/Y/TRAMYQN128F4282647.song
+7	Song[Shooby (Live Version)] by [Nicole C. Mullen] on [Live From Cincinnati_ Bringin' It Home] -> ../SongsSubset/data/A/L/J/TRALJKN128F92C5F5E.song
+7	Song[Terminus] by [Photek] on [Solaris] -> ../SongsSubset/data/A/L/Y/TRALYEW128F146A755.song
+7	Song[Last Good Time In Town] by [Eagles] on [Long Road Out Of Eden] -> ../SongsSubset/data/A/K/W/TRAKWZS128F4284294.song
+7	Song[Play] by [Jennifer Lopez] on [J.Lo] -> ../SongsSubset/data/A/L/J/TRALJBT128F4266FD8.song
+7	Song[Cornerstone] by [Shirley Caesar] on [A City Called Heaven] -> ../SongsSubset/data/A/K/Y/TRAKYHH12903CF08B0.song
+7	Song[Take It] by [Cassidy] on [Hotel] -> ../SongsSubset/data/A/M/J/TRAMJUG128F429F8B2.song
+7	Song[What is the best] by [Jah Legacy] on [Beware] -> ../SongsSubset/data/A/K/R/TRAKRSX12903C9D466.song
+7	Song[Recordar Es Vivir] by [El Gran Silencio] on [Super Riddim Internacional Volumen 1] -> ../SongsSubset/data/A/J/J/TRAJJIG128F1474EF0.song
+7	Song[Magic] by [Black Eyed Peas / Terry Dexter] on [Legally Blonde] -> ../SongsSubset/data/A/J/T/TRAJTDG128E0792698.song
+7	Song[La marine] by [Marc Perrone] on [Les p'tites chansons de Marc Perrone] -> ../SongsSubset/data/A/J/Q/TRAJQBX128F930166B.song
+7	Song[Rock Star (LP Version)] by [Zapp] on [Zapp V] -> ../SongsSubset/data/A/K/G/TRAKGVT128F4222A75.song
+7	Song[Rock Star] by [Agnostic Front] on [Riot_ Riot_ Upstart] -> ../SongsSubset/data/A/L/Y/TRALYQN128F42624E1.song
+7	Song[Dedicado] by [Miguel Gallardo] on [Canciones De Amor De Miguel Gallardo] -> ../SongsSubset/data/A/N/I/TRANINJ128F93480C6.song
+7	Song[Weightless (Demo)] by [Wet Wet Wet] on [Weightless] -> ../SongsSubset/data/A/J/D/TRAJDVT128F4252F37.song
+7	Song[To Diazigio] by [Vaggelis Perpiniadis] on [Anthologia - Kostas Virvos] -> ../SongsSubset/data/A/M/S/TRAMSIE128F42904B2.song
+7	Song[Feel It Boy (Deep Dish Danchall Remix) (Feat. Janet Jackson)] by [Beenie Man Featuring Janet Jackson] on [Feel It Boy] -> ../SongsSubset/data/A/J/H/TRAJHCO128F42570C1.song
+7	Song[Dangerous Mood] by [Keb' Mo'] on [Martin Scorsese Presents The Blues: Keb' Mo'] -> ../SongsSubset/data/A/O/I/TRAOIRH128F427C366.song
+7	Song[Police Opression] by [Bruisers] on [Better Days] -> ../SongsSubset/data/A/N/Y/TRANYLR128F933D81F.song
+7	Song[TLFM (Toutes Les Femmes En Moi)] by [Lara Fabian] on [Toutes Les Femmes En Moi] -> ../SongsSubset/data/A/N/U/TRANUSB128F9343695.song
+7	Song[Fool For You] by [Rocky Hill] on [Texas - A Musical Celebration One Texas Shuffle] -> ../SongsSubset/data/A/O/R/TRAOREV128F42640FF.song
+7	Song[Hunter And The Hunted (Live)] by [Simple Minds] on [Silver Box] -> ../SongsSubset/data/A/Q/O/TRAQOOL128F93030A4.song
+7	Song[I Got A Seecret] by [Redman] on [Doc's Da Name 2000] -> ../SongsSubset/data/A/R/K/TRARKXM128F14911B0.song
+7	Song[Styles P Speaks (Interlude)] by [Styles P] on [The Art of War Volume 4] -> ../SongsSubset/data/A/Q/M/TRAQMYS128F930582B.song
+7	Song[Lontananza] by [Fruko Y Sus Tesos] on [Greatest Hits 2] -> ../SongsSubset/data/A/O/J/TRAOJED128F42361E6.song
+7	Song[China Doll] by [Slim Whitman] on [UK - 1955 - September] -> ../SongsSubset/data/A/Q/J/TRAQJOP128F424C3D2.song
+7	Song[Vogue [Live]] by [Madonna] on [I'm Going To Tell You A Secret] -> ../SongsSubset/data/A/N/X/TRANXHZ128F148D4DB.song
+7	Song[Strange Things] by [Tanto Metro & Devonte] on [Riddim Driven: Celebration] -> ../SongsSubset/data/A/R/N/TRARNBZ128F4238CF7.song
+7	Song[The Sector of Foliage] by [Pumpkin Buzzard] on [Knowledge Zombie] -> ../SongsSubset/data/A/P/F/TRAPFJD12903CE20A7.song
+7	Song[Like A Freza] by [Little Capes] on [Reggae Deluxe] -> ../SongsSubset/data/A/Q/A/TRAQAVX128F42A13D7.song
+7	Song[Juneau [Live]] by [Funeral For A Friend] on [The Great Wide Open] -> ../SongsSubset/data/A/Q/D/TRAQDID128F92FF26D.song
+7	Song[Starlight] by [Snowgoons] on [Black Snow] -> ../SongsSubset/data/A/Q/Q/TRAQQUX128F92F9F10.song
+7	Song[Into A Swan] by [Siouxsie] on [Into A Swan] -> ../SongsSubset/data/A/B/S/TRABSXW128F4233422.song
+7	Song[A Costa De Galicia] by [Carlos Nuñez] on [Carlos Nunez En Concert] -> ../SongsSubset/data/A/C/Q/TRACQML128F42AE513.song
+7	Song[Do You Finally Need A Friend] by [Terry Callier] on [Occasional Rain] -> ../SongsSubset/data/A/A/C/TRAACPE128F421C1B9.song
+7	Song[Cowboy Ways] by [James Hunter] on [A Tribute to The American Horse] -> ../SongsSubset/data/A/A/J/TRAAJNM12903CF4750.song
+7	Song[My Greatest Desire] by [Faye Adams] on [Shake A Hand] -> ../SongsSubset/data/A/C/O/TRACOIZ128F933E368.song
+7	Song[Wiggle (Soul and R&B)] by [Willie Clayton] on [The Little Giant Of Soul] -> ../SongsSubset/data/A/D/A/TRADAUM12903CF1FF6.song
+7	Song[Leng Jing] by [Stephy Tang] on [Music Cafe] -> ../SongsSubset/data/A/A/Z/TRAAZYI12903CB2EE4.song
+7	Song[Rápido Nos Vamos] by [Javier Mendoza Band] on [Matter Of Time] -> ../SongsSubset/data/A/C/T/TRACTSM128F4221007.song
+7	Song[Got It Twisted] by [Mobb Deep] on [Amerikaz Nightmare] -> ../SongsSubset/data/A/D/O/TRADODV128F4283EB6.song
+7	Song[Lord Of The Thighs] by [Aerosmith] on [Classics Live] -> ../SongsSubset/data/A/E/A/TRAEATL128F42690A7.song
+7	Song[Commercial Reign] by [Inspiral Carpets] on [The Singles] -> ../SongsSubset/data/A/A/G/TRAAGVF128E0789785.song
+7	Song[Hallelujah] by [The Nelons] on [Something Beautiful] -> ../SongsSubset/data/A/C/A/TRACAXH128F931F3CF.song
+7	Song[OAKtown] by [Casual] on [The Building] -> ../SongsSubset/data/A/B/A/TRABACN128F425B784.song
+7	Song[Clap Ur Handz] by [K-OS] on [Joyful Rebellion] -> ../SongsSubset/data/A/E/D/TRAEDYD128F425A868.song
+7	Song[Shake] by [Cam'Ron / JR Writer] on [Purple Haze] -> ../SongsSubset/data/A/D/J/TRADJGU128F42A6C00.song
+7	Song[Caricia Y Herida] by [Flor Silvestre] on [15 Exitos Vol. 2 Flor Silvestre] -> ../SongsSubset/data/A/A/G/TRAAGZU128EF360F47.song
+7	Song[DJs Are The New Rockstars-Live Mashup Mix 7] by [DJ Godfather] on [DJs Are The New Rock Stars-Live Mashup Mix] -> ../SongsSubset/data/B/F/J/TRBFJMR128F930B3A6.song
+7	Song[Trash (live Paris)] by [New York Dolls] on [Manhattan Mayhem (a history of the Dolls)] -> ../SongsSubset/data/B/B/R/TRBBRQE12903C9E587.song
+7	Song[Spent] by [Darwin's Waiting Room] on [Orphan] -> ../SongsSubset/data/B/C/U/TRBCUBD128F1456B1F.song
+7	Song[Al maestro] by [El Barrio] on [Mal de amores] -> ../SongsSubset/data/B/C/U/TRBCULX128F92F5CB3.song
+7	Song[Please Belive It] by [Mr. De'] on [Belive In Soul E.P.] -> ../SongsSubset/data/B/C/E/TRBCEDG128F9309254.song
+7	Song[L'antillais Donne] by [Francky Vincent] on [Réchauffe L'hiver] -> ../SongsSubset/data/B/C/X/TRBCXEL128F92D306F.song
+7	Song[Wake Up Call (Album Version)] by [The Prodigy] on [Always Outnumbered_ Never Outgunned] -> ../SongsSubset/data/B/F/V/TRBFVAA128F423C356.song
+7	Song[My Tribute (to God Be The Glory)] by [Andraé Crouch & Solid Gospel] on [Gospel Around The World] -> ../SongsSubset/data/B/D/D/TRBDDTD12903CA7AA9.song
+7	Song[Kissing Game] by [2XL] on [Neighborhood Rapstar] -> ../SongsSubset/data/B/F/O/TRBFOLO12903CB2676.song
+7	Song[Soda Pop] by [John Fogerty] on [Eye Of The Zombie] -> ../SongsSubset/data/B/F/O/TRBFOEA128F425D2DB.song
+7	Song[Did Ya Say That] by [GZA/The Genius] on [Legend Of The Liquid Sword] -> ../SongsSubset/data/B/D/I/TRBDITJ128F145998C.song
+7	Song[Live Then Lay] by [Naughty By Nature featuring Phiness] on [Nineteen Naughty Nine Nature's Fury] -> ../SongsSubset/data/B/F/M/TRBFMCF128F42885AC.song
+7	Song[Marvel Hill] by [The Cardigans] on [Gran Turismo] -> ../SongsSubset/data/B/F/M/TRBFMAS128E078F352.song
+7	Song[How We Get Down] by [Bad Azz] on [Personal Business (Explicit)] -> ../SongsSubset/data/B/B/K/TRBBKTZ128F1456D67.song
+7	Song[Marcel] by [Pierre Perret] on [Le Monde de Pierrot] -> ../SongsSubset/data/B/B/L/TRBBLTV12903CC3C00.song
+7	Song[Stand By Me] by [Atomic Rooster] on [Made In England] -> ../SongsSubset/data/B/F/F/TRBFFZN12903D08332.song
+7	Song[Completeness] by [Minnie Riperton] on [Les Fleurs & Other Favorites (Digitally Remastered)] -> ../SongsSubset/data/B/D/O/TRBDOMM12903CA0A9B.song
+7	Song[God Is The Answer (Footprints In The Sand Album Version)] by [Cristy Lane] on [Footprints In The Sand] -> ../SongsSubset/data/B/D/O/TRBDOUZ128F427B43D.song
+7	Song[Long Way From Home] by [The Vaughan Brothers;Stevie Ray Vaughan;Jimmy Vaughan] on [The Essential Stevie Ray Vaughan And Double Trouble] -> ../SongsSubset/data/B/F/E/TRBFEYR128F427230E.song
+7	Song[Death Blow] by [Kool Moe Dee] on [The Greatest Hits] -> ../SongsSubset/data/B/B/U/TRBBUCK128F42AFAD6.song
+8	Song[No Se Lo Que Me Da] by [Los Iracundos] on [Discografia Completa Vol. 10] -> ../SongsSubset/data/B/D/M/TRBDMWS12903D11F36.song
+8	Song[Cuento De La Buena Pipa] by [Las Niñas] on [Ojú] -> ../SongsSubset/data/B/D/O/TRBDOEI128F9329AE5.song
+8	Song[RAMUKA] by [Tri Atma] on [Belong To The Sun!] -> ../SongsSubset/data/B/E/D/TRBEDXK128F14A7EC0.song
+8	Song[Mutter Erde] by [Monika_ Wolfgang] on [Mutter Erde] -> ../SongsSubset/data/B/B/Z/TRBBZCM12903CDDDA5.song
+8	Song[Rang De Basanti] by [Daler Mehndi;Chitra] on [Rang De Basanti] -> ../SongsSubset/data/B/D/Q/TRBDQUF128F42AE54C.song
+8	Song[Playstation Generation] by [Smut Peddlers] on [ISM] -> ../SongsSubset/data/B/C/H/TRBCHSH128F93304E1.song
+8	Song[I'm Blue (LP Version)] by [The Rascals] on [See] -> ../SongsSubset/data/B/F/I/TRBFISG128F1473A72.song
+8	Song[Why Don't You Do Right (Album Version)] by [Jim Kweskin with Samoa Wilson] on [Now And Again] -> ../SongsSubset/data/B/F/K/TRBFKNM128F425E89C.song
+8	Song[Genius Of Love 2002 (featuring Tom Tom Club & Biz Markie)] by [X-ecutioners featuring Tom Tom Club & Biz Markie] on [Built From Scratch] -> ../SongsSubset/data/B/F/A/TRBFAMR128F9306CC5.song
+8	Song[Donnez-nous des jardins] by [Pierre Perret] on [Pierrot chante pour les gamins_ les marmots...] -> ../SongsSubset/data/B/F/M/TRBFMGE12903CDECE5.song
+8	Song[Dead End Sign] by [Bonita] on [Album] -> ../SongsSubset/data/B/B/N/TRBBNDS12903CBF924.song
+8	Song[Please Love Me] by [B.B. King] on [The Very Best Of The Early Years] -> ../SongsSubset/data/B/F/N/TRBFNLX128F4249752.song
+8	Song[Don't Stop] by [Scweez] on [Rich Kidd Compilation Volume 3 "Running the Game] -> ../SongsSubset/data/B/F/O/TRBFODQ128F9338635.song
+8	Song[Heaven Can Wait] by [Michael Jackson] on [Invincible] -> ../SongsSubset/data/B/D/X/TRBDXIM128F427ABDA.song
+8	Song[Tras La Reja] by [Orquesta Sublime] on [Sabroso Como El Guarapo (Digitally Remastered)] -> ../SongsSubset/data/B/D/Z/TRBDZPG128F9355D41.song
+8	Song[Rollin' and Tumblin'] by [R.L. Burnside] on [First Recordings] -> ../SongsSubset/data/B/D/H/TRBDHSQ12903CDB3E8.song
+8	Song[I'm Going All The Way (Album)] by [Ann Nesby] on [Ann Nesby's Soulful Christmas] -> ../SongsSubset/data/B/C/M/TRBCMWI128F933D625.song
+8	Song[Lover In Demand] by [Delbert McClinton] on [Voices Of Americana: Delbert McClinton] -> ../SongsSubset/data/B/C/S/TRBCSYN128F92F4B62.song
+8	Song[Everyone's At It] by [Lily Allen] on [It's Not Me_ It's You] -> ../SongsSubset/data/B/C/J/TRBCJUF128F93190C2.song
+8	Song[Papa Legba (2005 Digital Remaster)] by [Talking Heads] on [True Stories] -> ../SongsSubset/data/B/F/H/TRBFHSR128F1472A36.song
+8	Song[El Chico Del Apartamento 512] by [Selena] on [Todos Mis Exitos Vol. 2] -> ../SongsSubset/data/B/D/M/TRBDMFL128F145F691.song
+8	Song[Alma Mater] by [Moonspell] on [Wolfheart (re-issue + Bonus Tracks)] -> ../SongsSubset/data/A/U/L/TRAULOO12903CF47B6.song
+8	Song[Here You Come Again (LP Version)] by [Barry Mann] on [Soul & Inspiration] -> ../SongsSubset/data/A/U/D/TRAUDIS12903CC453A.song
+8	Song[Café Sarajevo] by [Lara] on [Petit Coeur Assassin] -> ../SongsSubset/data/A/U/B/TRAUBQD12903CBEE9A.song
+8	Song[Train Buffer] by [Aesop Rock] on [Urban Renewal Program - Supplement 1.5] -> ../SongsSubset/data/A/T/Z/TRATZPD12903CC99FB.song
+8	Song[Bad Girl] by [Alice Stuart] on [All The Good Times] -> ../SongsSubset/data/A/V/B/TRAVBZD128F4244549.song
+8	Song[Dhol Ton Bina] by [Malkit Singh] on [Hai Shava] -> ../SongsSubset/data/A/W/O/TRAWOSK128F9343720.song
+8	Song[Voy A Olvidarme] by [Jay Pérez] on [Tesoros De Colección] -> ../SongsSubset/data/A/W/O/TRAWOTT128F9335403.song
+8	Song[Voodoo Punnany (Album Version)] by [Joe Rogan] on [I'm Gonna Be Dead Someday] -> ../SongsSubset/data/A/W/M/TRAWMXZ128E0786ABD.song
+8	Song[Baby Is Blue] by [Chris Jagger] on [Channel Fever] -> ../SongsSubset/data/A/W/M/TRAWMXP128F424D68B.song
+8	Song[Man Don't Cry] by [Jimmy Witherspoon] on [Blue Spoon/Spoon In London] -> ../SongsSubset/data/A/V/G/TRAVGLC128F931535B.song
+8	Song[La java bleue] by [Bézu] on [Bézu au bal musette] -> ../SongsSubset/data/A/V/O/TRAVOAF12903CC29FB.song
+8	Song[The Death Of Romance] by [Zeromancer] on [The Death Of Romance] -> ../SongsSubset/data/A/V/S/TRAVSQE12903CB6879.song
+8	Song[Lotion (LP Version)] by [Deftones] on [Around The Fur] -> ../SongsSubset/data/A/V/S/TRAVSVL128F14B12BE.song
+8	Song[Let Men Burn Stars] by [M83] on [Before The Dawn Heals Us] -> ../SongsSubset/data/A/W/J/TRAWJDS128F4262D92.song
+8	Song[Likambo] by [Kékélé] on [Rumba Congo] -> ../SongsSubset/data/A/S/Z/TRASZWP128F426730E.song
+8	Song[Give It Up Or Let Me Go] by [Dixie Chicks] on [Wide Open Spaces] -> ../SongsSubset/data/A/U/R/TRAURRP128F4261B94.song
+8	Song[BOMB SQUAD] by [Bomb Squad] on [Channel U] -> ../SongsSubset/data/A/U/R/TRAURXW128F428B9EC.song
+8	Song[Canción De Títeres] by [María Elena Walsh] on [Todos Cantamos Con Maria Elena] -> ../SongsSubset/data/A/U/U/TRAUUFZ128F933AB89.song
+8	Song[Demain au menu] by [Pascal Lejeune] on [Adélaïde] -> ../SongsSubset/data/A/Y/C/TRAYCSE12903CD9B68.song
+8	Song[Nothing But Sky [Outro] (Album Version)] by [Jaci Velasquez] on [Love Out Loud] -> ../SongsSubset/data/A/Y/U/TRAYUTH128F423A5CF.song
+8	Song[Round and Round ( LP Version )] by [Prince & Tevin Campbell] on [Music From Graffiti Bridge] -> ../SongsSubset/data/A/Y/R/TRAYRYG128F429C61A.song
+8	Song[Les Playboys (Version Espagnole)] by [Jacques Dutronc] on [En Vogue] -> ../SongsSubset/data/A/X/R/TRAXRLN128F425C047.song
+8	Song[Oversleeping] by [themselves] on [Crownsdown] -> ../SongsSubset/data/B/A/B/TRBABBT128F9327213.song
+8	Song[Tell Me Why] by [Smokin' Joe Kubek & Bnois King] on [Roadhouse Research] -> ../SongsSubset/data/A/Z/Q/TRAZQAY128F421AFF5.song
+8	Song[Natural (2002 Digital Remaster)] by [ARRESTED DEVELOPMENT] on [Classic Masters] -> ../SongsSubset/data/A/X/S/TRAXSWS128F4254E1A.song
+8	Song[Zoned Out] by [DJ X-Change] on [The X-Factor (Side B)] -> ../SongsSubset/data/A/W/R/TRAWRVR12903CE8993.song
+8	Song[The Bravest Kids (Acoustic)] by [Rancid] on [Let The Dominoes Fall] -> ../SongsSubset/data/A/Y/Z/TRAYZXR128F934858F.song
+8	Song[Trumpet Blues And Cantabile] by [Mike Vax] on [Trumpets - The Transformation] -> ../SongsSubset/data/B/B/F/TRBBFMN128F421AF38.song
+8	Song[Red Umbrella (Album Version)] by [Faith Hill] on [The Hits] -> ../SongsSubset/data/A/W/Q/TRAWQSO128F424E2F9.song
+8	Song[Tule lähemmäs Beibi] by [Kaija Koo] on [Tuulten viemää 1994 Juhlapainos] -> ../SongsSubset/data/A/X/Q/TRAXQNR128F4282B06.song
+8	Song[Doesn't Get Much Better] by [Kyle Riabko] on [Before I Speak] -> ../SongsSubset/data/A/Y/I/TRAYICR128F4282520.song
+8	Song[Hard To Concentrate (Album Version)] by [Red Hot Chili Peppers] on [Stadium Arcadium] -> ../SongsSubset/data/B/A/M/TRBAMXF128F1470AD6.song
+8	Song[Why Do You Have to Go] by [Dells] on [Dreams Of Contentment] -> ../SongsSubset/data/A/Z/I/TRAZIWR128F4234282.song
+8	Song[Eager (Live)] by [Pete Philly & Perquisite] on [Mystery Repeats - The Live Edition] -> ../SongsSubset/data/A/Y/U/TRAYULR128F9311951.song
+8	Song[Dame Un Besito (Version Salsa)] by [Andy & Lucas] on [Andy & Lucas (En Su Salsa)] -> ../SongsSubset/data/A/Z/L/TRAZLWP128F428F3C1.song
+8	Song[Too Big] by [Suzi Quatro] on [The Very Best Of] -> ../SongsSubset/data/A/Y/D/TRAYDJL128F145F261.song
+8	Song[All Dressed Up] by [Aram Shelton] on [Arrive] -> ../SongsSubset/data/B/H/D/TRBHDNO12903CB6C4C.song
+8	Song[No Matter How She Done It] by [Tampa Red] on [Tampa Red Vol. 5 (1931 - 1934)] -> ../SongsSubset/data/B/I/D/TRBIDUK128F42806A4.song
+8	Song[Viralo Al Reves] by [Johnny Pacheco] on [A Man And His Music] -> ../SongsSubset/data/B/G/S/TRBGSVD12903CDA8B8.song
+8	Song[I'm That Type Of Ni**a] by [The Pharcyde] on [Bizarre Ride II] -> ../SongsSubset/data/B/I/F/TRBIFOK128EF362D20.song
+8	Song[Laakista humppa] by [Elakelaiset] on [Humppakonsertto] -> ../SongsSubset/data/B/G/G/TRBGGRK128F422CA7F.song
+8	Song[No La Dejes Sola] by [Los Titanes] on [Rumba Que Te Tumba] -> ../SongsSubset/data/A/H/R/TRAHRQI128F422BF78.song
+8	Song[Humppa] by [Kapelle Herrenweide] on [Kavalierstart] -> ../SongsSubset/data/A/H/G/TRAHGXT12903CF1566.song
+8	Song[He Will Lead His Children Home] by [Bill & Gloria Gaither] on [When All God's Singers Get Home] -> ../SongsSubset/data/A/E/O/TRAEOHK128F932F77A.song
+8	Song[When Summer's Through] by [THE CHIFFONS] on [Sweet Talkin' Girls: The Best Of The Chiffons] -> ../SongsSubset/data/A/I/T/TRAITOL128F148528B.song
+8	Song[Xiao Shuo Xiang] by [Leo Ku] on [Steel Box Collection - Leo Ku] -> ../SongsSubset/data/A/G/K/TRAGKAK128F9324CE4.song
+8	Song[La Palabra Fin] by [Johnny Pacheco/Rolando La Serie] on [A Man And His Music] -> ../SongsSubset/data/A/G/K/TRAGKJS12903CDA8C6.song
+8	Song[El Capiro] by [Mercedes Castro] on [Mercedes Castro Acompañada con Mariachi Y Banda - En vivo] -> ../SongsSubset/data/A/I/R/TRAIRRP128EF3669DC.song
+8	Song[How Does It Feel] by [Avril Lavigne] on [Under My Skin] -> ../SongsSubset/data/A/G/W/TRAGWKV128F92C316A.song
+8	Song[It Only Takes Two To Tango] by [The Stranglers] on [La Folie] -> ../SongsSubset/data/A/G/A/TRAGAGQ128E0781352.song
+8	Song[Night Time] by [Hot Club Of Detroit] on [Smooth Jazz Journey - Third Edition] -> ../SongsSubset/data/A/G/A/TRAGAHW12903CA6DBE.song
+8	Song[Bar Talk] by [Ed Calle] on [Twilight] -> ../SongsSubset/data/A/H/U/TRAHUEG128F932C5FC.song
+8	Song[Keiner außer uns] by [Kool Savas] on [Die besten Tage sind gezählt] -> ../SongsSubset/data/A/F/X/TRAFXCP128F93182DD.song
+8	Song[Chicken Strips (THE DEMOS version)] by [Smut Peddlers] on [1993-1994 The Demos] -> ../SongsSubset/data/A/F/Q/TRAFQBZ128F93440E2.song
+8	Song[Ghastly Indoctrination] by [Dark Fortress] on [Séance] -> ../SongsSubset/data/A/I/C/TRAICJQ12903CF2681.song
+8	Song[Disconnected] by [Cowboy Mouth] on [Uh-Oh] -> ../SongsSubset/data/A/G/Y/TRAGYXL128F92F9FCB.song
+8	Song[Black Betty] by [Pat Travers] on [The Very Best Of] -> ../SongsSubset/data/A/H/X/TRAHXHO128F933934B.song
+8	Song[Somos Gitanos] by [Gipsy Kings] on [Somos Gitanos] -> ../SongsSubset/data/A/H/C/TRAHCHN128F4276D58.song
+8	Song[Spin] by [Scarlet's Remains] on [The Palest Grey] -> ../SongsSubset/data/A/A/D/TRAADIV12903CB15C1.song
+8	Song[Feel So Stupid (Table 9)] by [Darwin's Waiting Room] on [Orphan] -> ../SongsSubset/data/A/E/I/TRAEIKW128F1456B1A.song
+8	Song[Melodica] by [Baby Grand] on [Future Chill] -> ../SongsSubset/data/A/C/G/TRACGDB128F93509E0.song
+8	Song[Wicker Chair] by [Kings Of Leon] on [Holy Roller Novocaine] -> ../SongsSubset/data/A/A/E/TRAAEWG128F930B3A4.song
+8	Song[An ti chans'] by [Edith Lefel] on [Jeux de dames_ vol. 1 (réalisation Ronald Rubinel)] -> ../SongsSubset/data/A/A/E/TRAAEXM128F92D47C8.song
+8	Song[Entre Caníbales] by [Soda Stereo] on [Canción Animal] -> ../SongsSubset/data/A/A/F/TRAAFMS128F933AB23.song
+8	Song[Where The Thunder Roars (Tales Of Wonder Album Version)] by [White Heart] on [Tales Of Wonder] -> ../SongsSubset/data/A/A/F/TRAAFSM128F425A2C5.song
+8	Song[Sometimes] by [Tanto Metro & Devonte] on [The Beat Goes On] -> ../SongsSubset/data/A/C/A/TRACACF128F4261F09.song
+8	Song[Rumba De Barcelona] by [Los Manolos] on [Rumbas Sin Fronte Ras] -> ../SongsSubset/data/A/B/B/TRABBBV128F42967D7.song
+8	Song[Say How I Feel] by [Rhian Benson] on [Say How I Feel] -> ../SongsSubset/data/A/E/F/TRAEFDB128E0783952.song
+8	Song[Burning In The Aftermath] by [The Suicide Machines] on [A Match & Some Gasoline] -> ../SongsSubset/data/A/A/D/TRAADLH12903CA70EE.song
+8	Song[Raising Children] by [The Race] on [Raising Children/Go Figure] -> ../SongsSubset/data/A/C/M/TRACMSI128E078E15F.song
+8	Song[You Rascal You] by [Bob Margolin] on [In North Carolina] -> ../SongsSubset/data/A/A/J/TRAAJBU128F9326C02.song
+8	Song[Nubia (LP Version)] by [The Rascals] on [See] -> ../SongsSubset/data/A/B/P/TRABPCM128F1473A75.song
+8	Song[River Is Waiting] by [Irma Thomas] on [Rounder Records' 40th Anniversary Concert] -> ../SongsSubset/data/A/D/R/TRADRED12903CA4B7C.song
+8	Song[Knocked Up] by [Kings Of Leon] on [Sex On Fire] -> ../SongsSubset/data/A/B/N/TRABNEX128F92C9DEA.song
+8	Song[Free (Album Version)] by [The Winans] on [Return] -> ../SongsSubset/data/A/D/E/TRADEME128F9301CBB.song
+8	Song[Untitled] by [Dino] on [An Anthology of Chinese Experimental Music 1992-2008] -> ../SongsSubset/data/A/D/L/TRADLZB128F933BB9B.song
+8	Song[Inside Job] by [Pearl Jam] on [Pearl Jam] -> ../SongsSubset/data/A/A/M/TRAAMES128F42AF068.song
+8	Song[Cheddar Chasin'] by [Lunasicc] on [A Million Words A Million Dollars] -> ../SongsSubset/data/A/J/K/TRAJKTF128F9322470.song
+8	Song[Liu Zi Zhen Yan] by [Sammi Cheng] on [Love Is......] -> ../SongsSubset/data/A/L/V/TRALVHR128F1483DB3.song
+8	Song[Because He Loves Me] by [Amy Lambert] on [Treasures] -> ../SongsSubset/data/A/K/N/TRAKNOK128F4251A06.song
+8	Song[Guayabera] by [Johannes Linstead] on [Zabuca] -> ../SongsSubset/data/A/K/C/TRAKCPH128F930F9CD.song
+8	Song[La vérité] by [Annie Blanchard] on [Sur l'autre rive] -> ../SongsSubset/data/A/M/W/TRAMWLJ128F9353C44.song
+8	Song[Girls Against Boys (LP Version)] by [Vitamin C] on [Vitamin C] -> ../SongsSubset/data/A/K/R/TRAKRQW128F427D6E3.song
+8	Song[Monsieur qui s'engraisse] by [Michèle Bernard] on [Mes premiers vinyls] -> ../SongsSubset/data/A/K/U/TRAKURV12903CEE1C7.song
+8	Song[WristStraining Order] by [Defect & Quixotic] on [Return Of The DJ 5.5 Optimized] -> ../SongsSubset/data/A/J/C/TRAJCVA128F426C51D.song
+8	Song[Little Miss Teasin' Brown] by [Jimmy Nelson] on [Cry Hard Luck: The RPM And Kent Recordings 1951-61] -> ../SongsSubset/data/A/K/W/TRAKWNS128F92E3B4E.song
+8	Song[How Ya Like Me Now] by [Kool Moe Dee] on [The Masters Series: Hip Hop] -> ../SongsSubset/data/A/M/N/TRAMNFT128F9316759.song
+8	Song[Ballad In Urgency] by [The Black Crowes] on [Amorica] -> ../SongsSubset/data/A/M/K/TRAMKUA128F92ED3E1.song
+8	Song[Skyline] by [Sean Quinn] on [Skylines] -> ../SongsSubset/data/A/K/Y/TRAKYKW12903CCBD27.song
+8	Song[Didn't You Notice] by [JennyAnyKind] on [Big Johns] -> ../SongsSubset/data/A/L/B/TRALBFO128F931269B.song
+8	Song[Can't Stop Lovin' You (Remastered Album Version)] by [Van Halen] on [The Best Of Both Worlds] -> ../SongsSubset/data/A/J/N/TRAJNYU128E07856A5.song
+8	Song[Exodus] by [Quincy Jones] on [Watermelon Man] -> ../SongsSubset/data/A/N/F/TRANFIR128F429180A.song
+8	Song[He's A Rebel] by [Crystals] on [Phil Spector's Wall Of Sound Retrospective Phillies Sound 1961-1996] -> ../SongsSubset/data/A/Q/D/TRAQDYJ128F14989F8.song
+8	Song[Namibia] by [Ziggy Marley And The Melody Makers] on [Jahmekya] -> ../SongsSubset/data/A/R/S/TRARSMV128F1469CCF.song
+8	Song[Yo Odeconer] by [Kékélé] on [Kinavana] -> ../SongsSubset/data/A/Q/K/TRAQKIM128F42618D0.song
+8	Song[Walkin' Away] by [Hanoi Rocks] on [Street Poetry] -> ../SongsSubset/data/A/N/R/TRANRKN128F93127BB.song
+8	Song[Raha ratkaisee] by [Irwin Goodman] on [Lauluja elokuvasta Rentun Ruusu] -> ../SongsSubset/data/A/P/Q/TRAPQWM128EF342970.song
+8	Song[Last Thursday (Call Me Crazy)] by [Carolyn Arends] on [Feel Free] -> ../SongsSubset/data/A/Q/R/TRAQRFN128F93071EA.song
+8	Song[Niggas Die 4 Me] by [Drag-On / DMX] on [Opposite Of H20] -> ../SongsSubset/data/A/Q/U/TRAQUWF128E07924E4.song
+8	Song[Still] by [Foo Fighters] on [In Your Honour] -> ../SongsSubset/data/A/P/J/TRAPJFL128F42AA7B4.song
+8	Song[People Make The World] by [The Box Tops] on [The Letter/Neon Rainbow] -> ../SongsSubset/data/A/Q/X/TRAQXKZ128F429D175.song
+8	Song[Genesis] by [Busta Rhymes] on [Genesis] -> ../SongsSubset/data/A/Q/Y/TRAQYOC128F9341CDC.song
+8	Song[Love and happiness] by [Billy Price_ Fred Chapellier] on [Night work] -> ../SongsSubset/data/A/Q/Z/TRAQZUA12903CE65F2.song
+8	Song[Start Even] by [Tex Williams] on [Smoke! Smoke! Smoke!] -> ../SongsSubset/data/A/P/B/TRAPBPL128F423F62D.song
+8	Song[When We All Get To Heaven] by [The Jackson Southernaires] on [The Word In Song] -> ../SongsSubset/data/A/P/A/TRAPAXK12903CEA22E.song
+8	Song[Lullaby] by [Dixie Chicks] on [Taking The Long Way] -> ../SongsSubset/data/A/N/V/TRANVZT128F42AE134.song
+8	Song[One More Ride (Digitally Remastered)] by [Johnny Cash] on [Mi Collection - Volume 2] -> ../SongsSubset/data/A/R/F/TRARFQY12903CA07B6.song
+8	Song[I Love You More Than You'll Ever Know] by [Mick Hucknall] on [A Tribute To A Legend] -> ../SongsSubset/data/A/O/T/TRAOTHS12903D07021.song
+8	Song[Le Coeur Du Volcan] by [Julien Clerc] on [100 Chansons] -> ../SongsSubset/data/A/O/R/TRAORYY128F14A39A7.song
+8	Song[All Of This] by [Blink-182] on [blink-182] -> ../SongsSubset/data/A/Q/G/TRAQGNV128C7196894.song
+8	Song[Syvä meri (Oceano)] by [Kari Tapio] on [Kaksi maailmaa] -> ../SongsSubset/data/A/R/K/TRARKTC128F4244934.song
+8	Song[Calm Da Seas] by [Dave Hollister] on [Witness Protection] -> ../SongsSubset/data/A/R/N/TRARNCP128F42AB2B0.song
+8	Song[Cheer Up! Smile! Nertz!] by [Eddie Cantor] on [The Panic Is On: The Great American Depression As Seen By The Common Man] -> ../SongsSubset/data/A/O/F/TRAOFMZ128F9317D06.song
+8	Song[Be Aware] by [SOJA] on [Stars and Stripes] -> ../SongsSubset/data/A/R/P/TRARPTJ12903CE2898.song
+9	Song[Kinky Afro [Remastered Version]] by [Happy Mondays] on [Factory Records: Communications 1978-92] -> ../SongsSubset/data/A/O/A/TRAOAVW128F9318B5A.song
+9	Song[Blue Blue Day] by [Don Gibson] on [The Road More Traveled] -> ../SongsSubset/data/A/P/E/TRAPESV128F92FE5E9.song
+9	Song[Icicle Rain] by [Claire Hamill] on [Voices] -> ../SongsSubset/data/A/Q/W/TRAQWEF128F92D2831.song
+9	Song[I'm Your Witchdoctor] by [John Mayall & The Bluesbreakers] on [Bluesbreakers With Eric Clapton - Deluxe Edition] -> ../SongsSubset/data/A/P/K/TRAPKJT128F9311D9E.song
+9	Song[New Shoes] by [Dottie Rambo_ The Whites] on [Sheltered] -> ../SongsSubset/data/A/O/O/TRAOOQN12903CEB763.song
+9	Song[Wicked Little Town (Album Version)] by [Ben Jelen] on [Give It All Away] -> ../SongsSubset/data/A/N/Y/TRANYLM128F1477EC9.song
+9	Song[Fast-Track] by [Radiohead] on [Pyramid Song] -> ../SongsSubset/data/A/Q/H/TRAQHNX128E07822A7.song
+9	Song[Someday Baby] by [Otis Spann] on [The Complete Blue Horizon Sessions] -> ../SongsSubset/data/A/P/M/TRAPMZJ128F42AFC5C.song
+9	Song[Livin' On The Edge] by [Aerosmith] on [A Little South Of Sanity] -> ../SongsSubset/data/A/Q/P/TRAQPKV128E078EE32.song
+9	Song[Hur hur murmioon] by [Frederik] on [20 Suosikkia  / Se jokin sinulla on] -> ../SongsSubset/data/A/Q/O/TRAQOPC128F422850C.song
+9	Song[Plans (Cover Version - Original by Grizzly Bear)] by [Band Of Horses] on [Friend EP] -> ../SongsSubset/data/A/Q/O/TRAQOFP128F92FF669.song
+9	Song[The Long Goodbye] by [Miranda Lee Richards] on [The Herethereafter] -> ../SongsSubset/data/A/O/J/TRAOJXQ128F1465473.song
+9	Song[My Mind's Eye] by [Small Faces] on [From The Beginning] -> ../SongsSubset/data/A/S/A/TRASARO128F145E40F.song
+9	Song[Girls All Pause] by [Kurupt] on [Tha Streetz Iz A Mutha] -> ../SongsSubset/data/A/N/R/TRANREH128F93462CF.song
+9	Song[Heavy Heart (Album Version)] by [Josie] on [Unkunvenshunal Girl] -> ../SongsSubset/data/A/P/Z/TRAPZJV12903CCF414.song
+9	Song[Here_ Swing_ Sing] by [Kooii] on [Beads on a String] -> ../SongsSubset/data/A/S/B/TRASBUV128F933904E.song
+9	Song[Caught In The Rain] by [Martin Sexton] on [Black Sheep] -> ../SongsSubset/data/A/Q/E/TRAQEOG128F9353981.song
+9	Song[Even If I Tried] by [Emilio] on [Life Is Good] -> ../SongsSubset/data/A/N/Z/TRANZRO128F4278401.song
+9	Song[The Avenue (Zack W. Remix)] by [K-OS] on [Yes! 2-Disc Set] -> ../SongsSubset/data/A/Q/I/TRAQIWL12903CF2A34.song
+9	Song[Heartburn] by [Alicia Keys] on [Unplugged] -> ../SongsSubset/data/A/O/X/TRAOXXM128F932FC70.song
+9	Song[Una noche serena y obscura] by [Antonio Bribiesca] on [Mexico Gran Colección Ranchera - Antonio Bribiesca] -> ../SongsSubset/data/A/O/S/TRAOSRH12903CAE2DB.song
+9	Song[She Runs] by [Jimmy Wayne] on [Jimmy Wayne] -> ../SongsSubset/data/B/H/C/TRBHCQA128F149F192.song
+9	Song[Radioland] by [The Cate Brothers] on [Radioland] -> ../SongsSubset/data/B/G/O/TRBGOQJ128F4263E27.song
+9	Song[Evigne] by [Dobet Gnahoré] on [Djekpa la you] -> ../SongsSubset/data/B/H/N/TRBHNCL12903CB6CAA.song
+9	Song[Wear Your Love Like Heaven / Workin' On A Groovy Thing (Medley) (1997 Digital Remaster)] by [David Rose] on [Ultra-Lounge / On The Rocks With A Twist - Part 2] -> ../SongsSubset/data/B/H/D/TRBHDIZ128F9313AB3.song
+9	Song[I Can't Be Your Man] by [Porter Wagoner] on [Porter Wagoner's When The One You Love Says I Love You] -> ../SongsSubset/data/B/H/M/TRBHMOE128F92DF68C.song
+9	Song[Follow The Light] by [Dungeon Family] on [Even In Darkness] -> ../SongsSubset/data/B/I/C/TRBICRP128F42882BB.song
+9	Song[Krause seine Kreuzpolka] by [Polkaholix] on [The Great Polka Swindle] -> ../SongsSubset/data/A/S/D/TRASDIH128F425B6CF.song
+9	Song[Fire] by [Diamond Rexx] on [Rexx Erected] -> ../SongsSubset/data/A/V/P/TRAVPUM128F422062C.song
+9	Song[Club Tropicana] by [Los Del Sol] on [Lambada] -> ../SongsSubset/data/A/S/J/TRASJCQ128F932D0BE.song
+9	Song[Cold Shot] by [Stevie Ray Vaughan And Double Trouble] on [Soul To Soul/ Texas Flood/ Couldn't Stand The Weather] -> ../SongsSubset/data/A/T/L/TRATLTV128F92FC979.song
+9	Song[The Sound Of Music - [High Wycombe Town Hall Live 13 July 1979] (Sound Check)] by [Joy Division] on [Still [Collector's Edition]] -> ../SongsSubset/data/A/U/D/TRAUDYH128F9301EF1.song
+9	Song[I've Got You Under My Skin] by [Louis Prima And Keely Smith] on [Jump_ Jive an' Wail: The Essential Louis Prima] -> ../SongsSubset/data/A/T/O/TRATONC128F4299381.song
+9	Song[Ode To Billie Joe  (Live @ Fillmore West)] by [King Curtis] on [The Platinum Collection] -> ../SongsSubset/data/A/T/P/TRATPBM128F429EF3F.song
+9	Song[Baggage] by [L7] on [Hungry For Stink] -> ../SongsSubset/data/A/V/K/TRAVKGM12903CA66FB.song
+9	Song[Blue Skies] by [Blue October] on [Approaching Normal] -> ../SongsSubset/data/A/W/L/TRAWLYF128F92D9EE0.song
+9	Song[Samba De Una Nota So´] by [Joa~o Gilberto] on [Jazz Set In Montecarlo - Volume 1] -> ../SongsSubset/data/A/W/L/TRAWLYS12903CCFEFC.song
+9	Song[Turn It Over (Album Version)] by [Leslie Mendelson] on [Swan Feathers] -> ../SongsSubset/data/A/V/D/TRAVDRG12903C9A44C.song
+9	Song[La paix des étoiles] by [Alexis HK] on [Les Affranchis] -> ../SongsSubset/data/A/S/T/TRASTLC128F931603A.song
+9	Song[I'mma Break It Down] by [Eazy-E] on [Eazy Duz It] -> ../SongsSubset/data/A/U/O/TRAUOUZ128E078F8BB.song
+9	Song[Imaginary Gangsters] by [Big Rich featuring J. Stalin_ Aristotle] on [Demolition Men Present: Block Tested Hood Approved] -> ../SongsSubset/data/A/V/A/TRAVASY12903CBF39B.song
+9	Song[Common Ground] by [Moss] on [Balance of Opposites] -> ../SongsSubset/data/A/S/C/TRASCMU12903CF68BA.song
+9	Song[Walking To Jerusalem] by [Tracy Byrd] on [Love Lessons] -> ../SongsSubset/data/A/U/C/TRAUCZX128F149D9AE.song
+9	Song[Tabernacle Song] by [Fake Problems] on [It's Great To Be Alive] -> ../SongsSubset/data/A/U/V/TRAUVAQ128F92DC677.song
+9	Song[Kandiyohi] by [The Honeydogs] on [Everything_ I Bet You] -> ../SongsSubset/data/A/W/E/TRAWEFD12903CBADE8.song
+9	Song[Mathilda] by [The Fabulous Thunderbirds] on [Butt Rockin'] -> ../SongsSubset/data/A/W/J/TRAWJFG128F92EFA9B.song
+9	Song[Ragoo] by [Kings Of Leon] on [Because Of The Times] -> ../SongsSubset/data/A/T/H/TRATHTH128F42BC347.song
+9	Song[World Of Vibrations (Album Version)] by [Blackalicious] on [The Craft] -> ../SongsSubset/data/A/S/X/TRASXYB128F428DFF3.song
+9	Song[Born To Be Together] by [The Ronettes] on [The Best Of The Ronettes] -> ../SongsSubset/data/B/B/O/TRBBOPV12903CFB50F.song
+9	Song[Here I Am] by [Phantom Planet] on [Negatives] -> ../SongsSubset/data/B/B/I/TRBBICL128F42ADFD3.song
+9	Song[Love Oh Love (Live in Chicago)] by [Leroy Huston] on [Curtis In Chicago - Recorded Live!] -> ../SongsSubset/data/B/E/M/TRBEMAH128F424215B.song
+9	Song[¡Hola_ Pequeño Ser!] by [Pescado Rabioso] on [Pescado Rabioso 2] -> ../SongsSubset/data/B/F/O/TRBFOQI128F93428AC.song
+9	Song[Master_ Faster_ Sweet Desaster] by [Nightfall] on [Diva Futura] -> ../SongsSubset/data/B/E/K/TRBEKDE128F92E7486.song
+9	Song[Merry Christmas Baby] by [The Continentals] on [Merry Christmas Baby] -> ../SongsSubset/data/B/C/N/TRBCNAJ128F934266F.song
+9	Song[Hiekkaa (polvere)] by [Tulipunaruusut] on [20 Suosikkia  / Romantiikkaa ruusutarhassa] -> ../SongsSubset/data/B/D/N/TRBDNQI128F42831EE.song
+9	Song[Turandot (2008 Digital Remaster)_ Act III - Scene I: Nessum dorma!] by [Maria Callas/Eugenio Fernandi/Elisabeth Schwarzkopf/Giuseppe Nessi/Nicola Zaccaria/Mario Borriello/Renato Ercolani/Piero de Palma/Giulio Mauri/Elisabetta Fusco/Pinuccia Perotti/Coro del Teatro alla Scala_ Milano/Orchestra del Teatro alla Scala_ Milano/Tul] on [Callas Sings Puccini] -> ../SongsSubset/data/B/B/L/TRBBLXX128F92C3D8C.song
+9	Song[Dirty Old Man] by [Len Barry] on [Len Barry - The Hits] -> ../SongsSubset/data/B/E/J/TRBEJKW128F92FCEED.song
+9	Song[Year 3_000 Blues (2002 Digital Remaster)] by [Ten Years After] on [Cricklewood Green] -> ../SongsSubset/data/B/B/V/TRBBVFB128F1461507.song
+9	Song[Famous One] by [Seventh Day Slumber] on [Take Everything] -> ../SongsSubset/data/B/G/A/TRBGAWQ128F9305F25.song
+9	Song[Qing Yi Shi] by [Leon Lai] on [4 in Love] -> ../SongsSubset/data/B/E/E/TRBEEWC128F9344A22.song
+9	Song[Hey Little Girl (1949)] by [Professor Longhair] on [Tipitina] -> ../SongsSubset/data/B/B/Y/TRBBYWM128F9324A8B.song
+9	Song[Si Lu] by [Candy Lo] on [Upclose Candy Lo] -> ../SongsSubset/data/B/D/O/TRBDOUZ128F9331438.song
+9	Song[Soleariyas] by [Juan Carmona] on [El sentido del aire] -> ../SongsSubset/data/B/D/G/TRBDGRO12903CADCF8.song
+9	Song[Fly Away (Instrumental)] by [HardNox] on [Fly Away] -> ../SongsSubset/data/B/F/H/TRBFHGB128F92EE3FF.song
+9	Song[Same Game] by [Leigh Jones] on [Music in My Soul] -> ../SongsSubset/data/B/C/B/TRBCBMO128F92C77B9.song
+9	Song[Electrasonic V] by [Los Fabulosos Cadillacs] on [Los Fabulosos Cadillacs - Vol. V] -> ../SongsSubset/data/B/D/G/TRBDGLL128F9343CD1.song
+9	Song[Mi Gitana (feat. The Dey)] by [Los Del Rio_ The D.E.Y.] on [Quinceañera Macarena] -> ../SongsSubset/data/B/F/L/TRBFLIS128F9306558.song
+9	Song[People Never Give Up] by [Curtis Mayfield] on [Beautiful Brother - The Essential] -> ../SongsSubset/data/B/E/B/TRBEBAS128F92EAC23.song
+9	Song[Some Kind of Record] by [Rockit] on [Retro Boosters] -> ../SongsSubset/data/B/B/N/TRBBNCE128F4295D5E.song
+9	Song[But You Are] by [Lauren Wood] on [Lauren Wood] -> ../SongsSubset/data/B/D/D/TRBDDET12903CBD912.song
+9	Song[Phantoms In The Mirror] by [W.A.S.P.] on [The Crimson Idol] -> ../SongsSubset/data/B/D/B/TRBDBVM128F427BCC9.song
+9	Song[What's Gonna Happen On the 8th Day] by [Screamin' Jay Hawkins] on [I Put a Spell on You: The Best Of] -> ../SongsSubset/data/B/C/H/TRBCHIL128F4281434.song
+9	Song[My Baby Don't Wear No Shoes] by [Roy Carrier] on [Zydeco Soul] -> ../SongsSubset/data/A/X/Q/TRAXQPD128F424BCB9.song
+9	Song[Father Time (Album Version)] by [D'Molls] on [Warped] -> ../SongsSubset/data/A/X/B/TRAXBKH128F9343764.song
+9	Song[Letter To The King] by [The Game / Nas] on [LAX] -> ../SongsSubset/data/A/Y/L/TRAYLEA128F42B9487.song
+9	Song[She Will Be Loved] by [Maroon 5] on [Call And Response: The Remix Album] -> ../SongsSubset/data/B/A/M/TRBAMHJ128F9302A08.song
+9	Song[Mo lanmou] by [Patrick Saint-Eloi] on [Zoukolexion_ vol. 1] -> ../SongsSubset/data/A/Z/Z/TRAZZAY128F9330067.song
+9	Song[Only When I'm Drunk] by [Tha Alkaholiks] on [21 & Over] -> ../SongsSubset/data/A/Z/H/TRAZHAJ128F4289AE1.song
+9	Song[Flute Loop (2009 Digital Remaster)] by [Beastie Boys] on [Ill Communication (Remastered Version)] -> ../SongsSubset/data/A/X/R/TRAXRGF128F930A59F.song
+9	Song[Me quedo sin ti] by [Julio Iglesias Jr.] on [Tercera Dimension] -> ../SongsSubset/data/B/A/Y/TRBAYDA12903CD157D.song
+9	Song[You Found Me] by [MxPx] on [On The Cover] -> ../SongsSubset/data/A/Z/E/TRAZEBG128F1456D2E.song
+9	Song[La vie d'artiste] by [Michèle Arnaud] on [The Greatest Hits from 40's and 50's_ Vol. 34] -> ../SongsSubset/data/A/Z/D/TRAZDHL12903CBBB4B.song
+9	Song[Tracy] by [Goldfish] on [Coming Home] -> ../SongsSubset/data/B/A/S/TRBASEK128F9338E0F.song
+9	Song[Armageddon's Raid] by [Belphegor] on [Bondage Goat Zombie] -> ../SongsSubset/data/B/A/X/TRBAXSM128F427B26E.song
+9	Song[Warfare] by [Joell Ortiz] on [Mood Muzik III] -> ../SongsSubset/data/A/Z/L/TRAZLIO128F92F1DB0.song
+9	Song[Bon Demain] by [This Moment] on [This Moment] -> ../SongsSubset/data/A/J/R/TRAJRXL128F42760EC.song
+9	Song[Do Ya Thing (Remix) (Explicit Album Version)] by [Cam'Ron] on [Killa Season] -> ../SongsSubset/data/A/L/G/TRALGCD128F42A6346.song
+9	Song[Canción del Arco Iris] by [Arco Iris] on [Chupi Guay - Canciones para jugar  CD 1] -> ../SongsSubset/data/A/L/G/TRALGEJ128F932552A.song
+9	Song[Calla] by [Mazz] on [Nuestras Mejores Canciones 17 *] -> ../SongsSubset/data/A/M/I/TRAMIOB128E078248C.song
+9	Song[Lip Smacker] by [Poncho Sanchez] on [El Mejor] -> ../SongsSubset/data/A/N/M/TRANMJW128F92D944A.song
+9	Song[I'm Wanderin'] by [Jackie Wilson] on [The Jackie Wilson Genesis] -> ../SongsSubset/data/A/K/V/TRAKVQI12903CB7343.song
+9	Song[Down at the Mardi Gras] by [Rockin' Dopsie_ Jr.] on [Ultimate Mardi Gras] -> ../SongsSubset/data/A/J/C/TRAJCYW128F92EEC32.song
+9	Song[Pour toute la vie] by [Les Hou-Lops] on [Tout ira très bien] -> ../SongsSubset/data/A/J/B/TRAJBUB128F9361E0B.song
+9	Song[Family Galaxy] by [Tim Exile] on [Listening Tree] -> ../SongsSubset/data/A/M/S/TRAMSSK128F92FDC80.song
+9	Song[Jour De Chance (Lucky Day)] by [Sasha] on [Hide & Seek] -> ../SongsSubset/data/A/N/O/TRANOMN128F4292090.song
+9	Song[I'll Meet You In The Morning] by [Barbara Fairchild] on [FANtastic Volume 3] -> ../SongsSubset/data/A/K/P/TRAKPUY128F4271101.song
+9	Song[Tulip] by [Angels] on [Time Is Ripe] -> ../SongsSubset/data/A/K/P/TRAKPSU12903CF473D.song
+9	Song[The Mission] by [Stephen Marley / Damian Marley] on [Mind Control] -> ../SongsSubset/data/A/M/W/TRAMWIC128F92FCC79.song
+9	Song[Need (LP Version)] by [Cindy Morgan] on [Listen] -> ../SongsSubset/data/A/M/B/TRAMBTK128F42390A4.song
+9	Song[In The Midst] by [Byron Cage featuring Tye Tribbett] on [Faithful To Believe] -> ../SongsSubset/data/A/N/L/TRANLHJ128F9313CA4.song
+9	Song[Loaded Gun] by [C.C. Adcock] on [Lafayette Marquis_ The] -> ../SongsSubset/data/A/J/L/TRAJLYW128F9313A2F.song
+9	Song[Summer Nite] by [The Plasmatics] on [Beyond The Valley Of 1984] -> ../SongsSubset/data/A/K/N/TRAKNBW128F4249FD8.song
+9	Song[Good Girls_ Bad Guys] by [DMX / Dyme] on [...And Then There Was X] -> ../SongsSubset/data/A/N/A/TRANAUJ128E07860B0.song
+9	Song[A Fool's Advice] by [Joe Grushecky] on [Outtakes and Demos 1975 -  2003] -> ../SongsSubset/data/A/K/K/TRAKKPN12903CF7C4D.song
+9	Song[Hunter] by [30 Seconds To Mars] on [A Beautiful Lie] -> ../SongsSubset/data/A/N/C/TRANCCN128E0794B18.song
+9	Song[The Never-Ending Why] by [Placebo] on [Bright Lights] -> ../SongsSubset/data/A/L/P/TRALPKG12903CDCA8A.song
+9	Song[No Sympathy For Fools] by [Behemoth] on [Zos Kia Cultus] -> ../SongsSubset/data/A/N/E/TRANEMQ128F42A10A8.song
+9	Song[If You Don't Somebody Else Will] by [Carl Smith] on [The Hickory Days] -> ../SongsSubset/data/A/L/S/TRALSZL128F4293B41.song
+9	Song[Soñando En Ti] by [Gary Hobbs] on [30 Del Recuerdo] -> ../SongsSubset/data/A/J/L/TRAJLRX128F4271A2C.song
+9	Song[The Windsor Tap Recap] by [Cotton Candy] on [Top-Notch & First-Rate] -> ../SongsSubset/data/A/L/Y/TRALYIQ12903CEC83A.song
+9	Song[Africa] by [Dusminguet] on [Vafalungo] -> ../SongsSubset/data/A/N/H/TRANHRS128F426B925.song
+9	Song[All My Life (LP Version)] by [Venice] on [Venice] -> ../SongsSubset/data/A/L/Y/TRALYAK128F42383B9.song
+9	Song[No Stopping Us [Eagles Ballroom Live Version]] by [Jason Mraz] on [Tonight_ Not Again: Jason Mraz Live At The Eagles Ballroom] -> ../SongsSubset/data/A/L/X/TRALXNJ128F42952D5.song
+9	Song[Keep The Change] by [Joe Bataan] on [Call My Name] -> ../SongsSubset/data/A/M/H/TRAMHGR128F933E350.song
+9	Song[One More Go Round] by [James Taylor] on [New Moon Shine] -> ../SongsSubset/data/A/G/Q/TRAGQBY128F42635B7.song
+9	Song[You're Looking Good] by [Dee Clark] on [Greatest Hits] -> ../SongsSubset/data/A/I/M/TRAIMGT128F935F8F2.song
+9	Song[Don't Let Your Heart Be Hardened (This Means War Album Version)] by [Petra] on [Petraphonics] -> ../SongsSubset/data/A/G/V/TRAGVMH128F14ADF05.song
+9	Song[Déstockage massif (with Alex Gopher)] by [Etienne de Crécy ] on [Super Discount] -> ../SongsSubset/data/A/E/T/TRAETFX128F933CE66.song
+9	Song[Ridin' High] by [The Impressions] on [Soul Legends] -> ../SongsSubset/data/A/H/I/TRAHIXN128F147F25D.song
+9	Song[Os Dois Irreversíveis] by [Irreversíveis] on [Irreversíveis] -> ../SongsSubset/data/A/E/W/TRAEWKS12903CB651D.song
+9	Song[Traveller] by [Talvin Singh] on [True Chillout (3CD set)] -> ../SongsSubset/data/A/F/Y/TRAFYRO128F42ACFC7.song
+9	Song[Shi Shang Zui Qiang Man Hua Wang Da Luan Dou] by [Leo Ku] on [Shi Shang Zui Qiang Man Hua Wang Da Luan Dou] -> ../SongsSubset/data/A/E/N/TRAENEO128F426789F.song
+9	Song[Cri'r Adar Main] by [The Gentle Good] on [While You Slept I Went Out Walking] -> ../SongsSubset/data/A/I/S/TRAISSE12903CE77EF.song
+9	Song[Too Cool for Love] by [Webb Wilder] on [More Like Me] -> ../SongsSubset/data/A/F/K/TRAFKDG12903CAB85C.song
+9	Song[E se tu lontana sei] by [Crazy Horse] on [De beste liedjes] -> ../SongsSubset/data/A/E/Q/TRAEQZJ128F93522F8.song
+9	Song[Because Of You] by [Cece Winans] on [Alone In His Presence] -> ../SongsSubset/data/A/I/V/TRAIVVQ128F146AB17.song
+9	Song[Les chasseurs d'esclaves] by [Gabriel Yared] on [Azur et Asmar] -> ../SongsSubset/data/A/H/E/TRAHEPG12903CAECB2.song
+9	Song[Still I Will] by [Lisa Lynne] on [Maiden's Prayer] -> ../SongsSubset/data/A/G/S/TRAGSWL12903CF67CB.song
+9	Song[Why Don't You Spend The Night] by [Ronnie Milsap] on [The Essential Ronnie Milsap] -> ../SongsSubset/data/A/H/V/TRAHVRW128F92F15FE.song
+9	Song[Ling Shi Shi Ji Fen] by [Edmond Leung] on [Edmond Leung Collections] -> ../SongsSubset/data/A/G/R/TRAGRHF128F4295A42.song
+9	Song[Mele Wich Ayee (Shaan Remix)] by [Bally Sagoo] on [Wham Bam!! Bhangra Remixes] -> ../SongsSubset/data/A/C/X/TRACXRL128F9317EAE.song
+9	Song[Loco (Crazy)] by [Little Joe] on [Nuestra Tradición] -> ../SongsSubset/data/A/A/T/TRAATMY128F9334DAC.song
+9	Song[Pinini Reggae] by [SUMO] on [Sí o Sí - Diario del Rock Argentino - Sumo] -> ../SongsSubset/data/A/C/L/TRACLHC128F9343C39.song
+9	Song[Baat Ban Jaye] by [Biddu] on [Qurbani] -> ../SongsSubset/data/A/D/B/TRADBOS128F92E6F5E.song
+9	Song[L'accordéoniste] by [Les Hurlements D'leo] on [13 ans de caravaning] -> ../SongsSubset/data/A/B/H/TRABHNS128F93125B5.song
+9	Song[Have You Seen Her] by [The Red Telephone] on [Aviation] -> ../SongsSubset/data/A/B/V/TRABVLV128EF354D20.song
+9	Song[Drifting From Town To Town] by [Bobby Bland] on [The Original Memphis Blues Brothers] -> ../SongsSubset/data/A/B/P/TRABPAG128F92E2D80.song
+9	Song[Upon The Shores [Explicit]] by [Trivium] on [Shogun] -> ../SongsSubset/data/A/C/M/TRACMCG128F92CE225.song
+9	Song[Sunny Came Home] by [Shawn Colvin] on [Live] -> ../SongsSubset/data/A/D/N/TRADNZM128F9300DF3.song
+9	Song[Little Sister] by [Debbie Davies] on [Round Every Corner] -> ../SongsSubset/data/A/B/F/TRABFTP12903CE6A47.song
+9	Song[On Bended Knee] by [Boyz II Men] on [Legacy] -> ../SongsSubset/data/A/A/I/TRAAIHL128F92E6DDA.song
+9	Song[Grim Prospects (Gross Prospects - Bad Trip Remix)] by [Schizoid] on [Grim Prospects Remixes - Grim Prospects Will Never End] -> ../SongsSubset/data/A/A/H/TRAAHER128F92E3FE9.song
+9	Song[Bitch Is Back] by [L.A. Guns] on [A Nite On The Strip - Live] -> ../SongsSubset/data/A/A/M/TRAAMSO128EF348DCC.song
+9	Song[He Jiu Bi Hun] by [Hacken Lee] on [De Xin Ying Shou Yan Chang Hui 2006] -> ../SongsSubset/data/A/C/R/TRACRRO128F92F34B9.song
+9	Song[The Czar: Usurper/Escape/Martyr/Spiral (Album Version)] by [Mastodon] on [Crack The Skye] -> ../SongsSubset/data/A/A/M/TRAAMFT128F93128AD.song
+9	Song[You Are My Memoir] by [Stars Like Fleas] on [The Ken Burns Effect] -> ../SongsSubset/data/A/B/Q/TRABQVM128F92F7544.song
+9	Song[Hoochie Coochie Man] by [The Jeff Healey Band] on [Road House] -> ../SongsSubset/data/A/A/Z/TRAAZGC12903CB5DFB.song
+9	Song[I Never Came] by [Queens Of The Stone Age] on [Lullabies To Paralyze] -> ../SongsSubset/data/A/A/G/TRAAGPJ128F428CD1B.song
+9	Song[Round Two Wrap-Up] by [Ice-T & Chuck D] on [The Showdown: The Sugarhill Gang Vs. Grandmaster Flash & The Furious Five] -> ../SongsSubset/data/A/D/S/TRADSQX128F14B0418.song
+9	Song[What'd I Say] by [Donnie Brooks] on [The Best of Donnie Brooks] -> ../SongsSubset/data/A/C/A/TRACAPS128F92F014C.song
+9	Song[El Arte De Amar] by [Gabinete Caligari] on [4 Rosas Y Que Dios Reparta Suerte] -> ../SongsSubset/data/A/C/L/TRACLDF128F423C337.song
+9	Song[Tudo Que Você Quiser] by [José Augusto;Catia Guimma] on [Ao Vivo] -> ../SongsSubset/data/A/D/P/TRADPQT128F9337C45.song
+9	Song[Heaven is Where The Heart Is] by [Rance Allen Group] on [Up Above My Head] -> ../SongsSubset/data/A/A/L/TRAALZN128F932D457.song
+9	Song[La sangre de tu tristeza (con Dani Martin_ directo Enjoy 07)] by [Jaime Urrutia] on [En Joy] -> ../SongsSubset/data/A/C/K/TRACKVM128F4275B6E.song
+9	Song[T'as 16 ans demain] by [Les Hou-Lops] on [Vendredi m'obsède] -> ../SongsSubset/data/A/B/J/TRABJQN128F9361E4C.song

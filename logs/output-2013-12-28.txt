@@ -1,0 +1,33 @@
+0	Song[I'm On To You] by [Hurricane] on [Over The Edge] -> ../SongsSubset/data/A/G/T/TRAGTXE128F4229231.song
+1	Song[Like A Prayer (Tribute To Madonna)] by [Hot Wire] on [Tribute] -> ../SongsSubset/data/A/G/W/TRAGWHX12903CFAB71.song
+2	Song[Look Up At The Stars And You're Gone] by [Evergreen Terrace] on [Losing All Hope Is Freedom] -> ../SongsSubset/data/A/G/W/TRAGWMO12903CFD994.song
+2	Song[White Feather] by [Wolfmother] on [White Feather] -> ../SongsSubset/data/A/G/R/TRAGRRP12903CD2911.song
+2	Song[Enough] by [Storyville] on [Dog Years] -> ../SongsSubset/data/A/G/K/TRAGKLK12903CC4264.song
+2	Song[Make Me Bad] by [Korn] on [Crossing All Over Vol. 12] -> ../SongsSubset/data/A/G/O/TRAGOVG128F42A963D.song
+3	Song[Party For Pink] by [Michelle & Vickie] on [Aitai] -> ../SongsSubset/data/A/G/G/TRAGGQQ128F931D8E1.song
+3	Song[Sometime Ago] by [Philip Bailey] on [Soul On Jazz] -> ../SongsSubset/data/A/G/U/TRAGURD12903CF497F.song
+3	Song[Desde mi cielo] by [Mago de Oz] on [Gaia II] -> ../SongsSubset/data/A/G/D/TRAGDLM128F4233397.song
+3	Song[Guided By History] by [Mithotyn] on [Gathered Around The Oaken Table] -> ../SongsSubset/data/A/G/K/TRAGKUI128F92F4698.song
+3	Song[Regresa A Mi (Unbreak My Heart)] by [Yuridia] on [Habla El Corazon] -> ../SongsSubset/data/A/G/Z/TRAGZTU128F9348113.song
+3	Song[I'm Wrong] by [Dave Hollister] on [The Definitive Collection] -> ../SongsSubset/data/A/G/L/TRAGLUU12903D024F2.song
+5	Song[For You] by [Mr. Lif] on [Mo' Mega] -> ../SongsSubset/data/A/G/V/TRAGVCD128F42A4C01.song
+5	Song[Dancer (2007 Digital Remaster)] by [Babe Ruth] on [Babe Ruth] -> ../SongsSubset/data/A/G/A/TRAGAVB128F932585E.song
+5	Song[Don't Mess With Me (2006 Digital Remaster)] by [Whitesnake] on [Trouble] -> ../SongsSubset/data/A/G/N/TRAGNUI128F1471068.song
+6	Song[Soopman Luva 6 1/2] by [Redman / Hurricane G / Melanie Rutherford] on [Red Gone Wild] -> ../SongsSubset/data/A/G/P/TRAGPFL128EF342E1D.song
+6	Song[Hold On (LP Version)] by [Michelle Tumes] on [Streams] -> ../SongsSubset/data/A/G/O/TRAGOUB128F42369BA.song
+6	Song[Wild Side] by [Mötley Crüe] on [Music To Crash Your Car To] -> ../SongsSubset/data/A/G/U/TRAGUJK128F42A75C3.song
+6	Song[This Time] by [David Saylor] on [We Are One] -> ../SongsSubset/data/A/G/I/TRAGIGX12903CF3AD4.song
+7	Song[Au Bout De La Marelle] by [Patrick Bruel] on [Juste Avant] -> ../SongsSubset/data/A/G/L/TRAGLFE128F428566B.song
+7	Song[Narcotic] by [Methods Of Mayhem / Scott Kirkland] on [Methods Of Mayhem] -> ../SongsSubset/data/A/G/S/TRAGSQU128F145693D.song
+7	Song[Kettle Black] by [BLEED THE SKY] on [Murder The Dance] -> ../SongsSubset/data/A/G/T/TRAGTFI12903CA06E7.song
+7	Song[Ask Fi War] by [Bounty Killer] on [Strictly The Best Vol. 15] -> ../SongsSubset/data/A/G/D/TRAGDKW12903D0E755.song
+8	Song[It Only Takes Two To Tango] by [The Stranglers] on [La Folie] -> ../SongsSubset/data/A/G/A/TRAGAGQ128E0781352.song
+8	Song[Night Time] by [Hot Club Of Detroit] on [Smooth Jazz Journey - Third Edition] -> ../SongsSubset/data/A/G/A/TRAGAHW12903CA6DBE.song
+8	Song[How Does It Feel] by [Avril Lavigne] on [Under My Skin] -> ../SongsSubset/data/A/G/W/TRAGWKV128F92C316A.song
+8	Song[Disconnected] by [Cowboy Mouth] on [Uh-Oh] -> ../SongsSubset/data/A/G/Y/TRAGYXL128F92F9FCB.song
+8	Song[Xiao Shuo Xiang] by [Leo Ku] on [Steel Box Collection - Leo Ku] -> ../SongsSubset/data/A/G/K/TRAGKAK128F9324CE4.song
+8	Song[La Palabra Fin] by [Johnny Pacheco/Rolando La Serie] on [A Man And His Music] -> ../SongsSubset/data/A/G/K/TRAGKJS12903CDA8C6.song
+9	Song[Don't Let Your Heart Be Hardened (This Means War Album Version)] by [Petra] on [Petraphonics] -> ../SongsSubset/data/A/G/V/TRAGVMH128F14ADF05.song
+9	Song[Ling Shi Shi Ji Fen] by [Edmond Leung] on [Edmond Leung Collections] -> ../SongsSubset/data/A/G/R/TRAGRHF128F4295A42.song
+9	Song[One More Go Round] by [James Taylor] on [New Moon Shine] -> ../SongsSubset/data/A/G/Q/TRAGQBY128F42635B7.song
+9	Song[Still I Will] by [Lisa Lynne] on [Maiden's Prayer] -> ../SongsSubset/data/A/G/S/TRAGSWL12903CF67CB.song

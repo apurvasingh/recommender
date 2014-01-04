@@ -3,13 +3,14 @@ import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapred.Mapper;
 import org.apache.hadoop.mapred.MapReduceBase;
-
+import org.apache.hadoop.mapred.OutputCollector;
+import org.apache.hadoop.mapred.Reporter;
 
 public class SongDoopMapper extends MapReduceBase implements Mapper<Text,SongWritable,IntWritable,Text>
 {
     private SongWritable songsToMatch[] = new SongWritable[3];
 
-    @Override
+    /* @Override
     public void setup(Context context)
     {
         for (int i = 0; i < songsToMatch.length; i++) {
@@ -23,10 +24,12 @@ public class SongDoopMapper extends MapReduceBase implements Mapper<Text,SongWri
             }
         }
     }
+    */
 
     @Override
-    public void map(Text key, SongWritable value, Context context)
-        throws IOException, InterruptedException
+    public void map(Text key, SongWritable value, OutputCollector<IntWritable,Text> output,
+                    Reporter reporter)
+        throws IOException
     {
         int searchCount = 0;
         double similarity = 0.0;
@@ -37,7 +40,7 @@ public class SongDoopMapper extends MapReduceBase implements Mapper<Text,SongWri
             }
         }
         if (searchCount > 0) {
-            context.write(new IntWritable((int)similarity),new Text(value.toString()));
+            output.collect(new IntWritable((int)similarity),new Text(value.toString()));
         }
     }
 }

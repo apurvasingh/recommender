@@ -2,53 +2,38 @@
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
-import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
-import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapred.FileInputFormat;
+import org.apache.hadoop.mapred.FileOutputFormat;
+import org.apache.hadoop.mapred.JobClient;
+import org.apache.hadoop.mapred.JobConf;
 
-// tool-runner related imports
-import org.apache.hadoop.conf.Configured;
-import org.apache.hadoop.conf.Configuration;
-import org.apache.hadoop.util.Tool;
-import org.apache.hadoop.util.ToolRunner;
-
-public class SongDoopDriver extends Configured implements Tool
+public class SongDoopDriver
 {
-    public int run(String args[]) throws Exception
+    public static void main(String args[]) throws Exception
     {
         /* Usage: ... SongDoopDriver songDirTop outputDir song1  [song2  [song3]]
                                      args[0]    args[1]   args[2] args[3] args[4]
         */
-        Configuration conf = getConf();
+        JobConf conf = new JobConf(SongDoopDriver.class);
         for (int i = 2; (i < args.length) && (i < 5); i++) {
             conf.set("song" + (i - 2), args[i]);
         }
 
-        Job job = new Job(conf);
-        job.setJarByClass(SongDoopDriver.class);
-        job.setJobName("Find Similar Songs");
+        conf.setJobName("Find Similar Songs");
 
         // set input & output directory
-        FileInputFormat.setInputPaths(job, new Path(args[0]));
-        FileOutputFormat.setOutputPath(job, new Path(args[1]));
+        FileInputFormat.setInputPaths(conf, new Path(args[0]));
+        FileOutputFormat.setOutputPath(conf, new Path(args[1]));
 
         // set map-reduce key/value classes
-        job.setInputFormatClass(SongInputFormat.class);
-        job.setMapperClass(SongDoopMapper.class);
-        job.setReducerClass(SongDoopReducer.class);
-        job.setMapOutputKeyClass(IntWritable.class);
-        job.setMapOutputValueClass(Text.class);
-        job.setOutputKeyClass(IntWritable.class);
-        job.setOutputValueClass(Text.class);
+        // conf.setInputFormat(SongInputFormat.class); // won't work until we rewrite Input Format
+        conf.setMapperClass(SongDoopMapper.class);
+        conf.setReducerClass(SongDoopReducer.class);
+        conf.setMapOutputKeyClass(IntWritable.class);
+        conf.setMapOutputValueClass(Text.class);
+        conf.setOutputKeyClass(IntWritable.class);
+        conf.setOutputValueClass(Text.class);
 
-        boolean ok = job.waitForCompletion(true);
-	return ok ? 0 : 1;
+        JobClient.runJob(conf);
     }
-
-    public static void main(String args[]) throws Exception
-    {
-        int results = ToolRunner.run(new Configuration(), new SongDoopDriver(), args);
-        System.exit(results);
-    }
-
 }

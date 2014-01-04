@@ -1,6 +1,7 @@
 import java.io.IOException;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapred.JobConf;
 import org.apache.hadoop.mapred.Mapper;
 import org.apache.hadoop.mapred.MapReduceBase;
 import org.apache.hadoop.mapred.OutputCollector;
@@ -10,21 +11,20 @@ public class SongDoopMapper extends MapReduceBase implements Mapper<Text,SongWri
 {
     private SongWritable songsToMatch[] = new SongWritable[3];
 
-    /* @Override
-    public void setup(Context context)
+    @Override
+    public void configure(JobConf job)
     {
         for (int i = 0; i < songsToMatch.length; i++) {
-            String songFilename = context.getConfiguration().get("song" + (i + 1));
+            String songFilename = job.get("song" + (i + 1));
             if (songFilename != null) {
                 try {
-                    songsToMatch[i] = new SongWritable(songFilename,context.getConfiguration());
+                    songsToMatch[i] = new SongWritable(songFilename,null);
                 } catch (Exception e) {
                     // should probably be logged... for now, just skip
                 }
             }
         }
     }
-    */
 
     @Override
     public void map(Text key, SongWritable value, OutputCollector<IntWritable,Text> output,

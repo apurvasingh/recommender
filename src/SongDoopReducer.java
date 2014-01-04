@@ -1,9 +1,10 @@
 import java.io.IOException;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.mapreduce.Reducer;
+import org.apache.hadoop.mapred.Reducer;
+import org.apache.hadoop.mapred.MapReduceBase;
 
-public class SongDoopReducer extends Reducer<IntWritable,Text,IntWritable,Text>
+public class SongDoopReducer extends MapReduceBase implements Reducer<IntWritable,Text,IntWritable,Text>
 {
     @Override
     public void reduce(IntWritable key, Iterable<Text> values, Context context)

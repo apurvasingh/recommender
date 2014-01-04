@@ -1,10 +1,11 @@
 import java.io.IOException;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapred.Mapper;
+import org.apache.hadoop.mapred.MapReduceBase;
 
 
-public class SongDoopMapper extends Mapper<Text,SongWritable,IntWritable,Text>
+public class SongDoopMapper extends MapReduceBase implements Mapper<Text,SongWritable,IntWritable,Text>
 {
     private SongWritable songsToMatch[] = new SongWritable[3];
 
